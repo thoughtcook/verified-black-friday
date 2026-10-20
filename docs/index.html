@@ -1,0 +1,44 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Verified Black Friday 2026: deals for devs, indie hackers & AI builders</title>
+<meta name="description" content="Black Friday & Cyber Monday 2026 deals, each verified on the vendor's official page with a last-checked date. No affiliate links.">
+<meta property="og:image" content="https://raw.githubusercontent.com/thoughtcook/verified-black-friday/main/assets/social-preview.png">
+<style>
+:root{--bg:#0d1117;--card:#161b22;--fg:#e6edf3;--mut:#8b949e;--acc:#f5c518}
+*{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,sans-serif;background:var(--bg);color:var(--fg)}
+header{padding:40px 20px 20px;text-align:center}h1{margin:0;font-size:2.4em}h1 span{color:var(--acc)}
+.sub{color:var(--mut)}#cd{font-size:1.3em;margin:14px 0;font-weight:600}
+.bar{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;padding:0 20px 20px}
+input,select{background:var(--card);color:var(--fg);border:1px solid #30363d;border-radius:8px;padding:8px 10px}
+main{max-width:1200px;margin:auto;padding:0 16px 40px;display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}
+.c{background:var(--card);border:1px solid #30363d;border-radius:12px;padding:14px}
+.c h3{margin:0 0 4px}.cat{color:var(--mut);font-size:.85em}.d{margin:8px 0}
+.b{display:inline-block;border-radius:20px;padding:1px 9px;font-size:.8em;font-weight:600}
+.Live{background:#238636}.Early{background:#9e6a03}.Not.yet{background:#30363d}.Unverified{background:#bd561d}.Never{background:#6e1b1b}
+a{color:#58a6ff}footer{text-align:center;color:var(--mut);padding:20px}
+</style></head><body>
+<header><h1>🧾 Verified <span>Black Friday</span> 2026</h1>
+<p class="sub">Every price checked on the vendor's official page. Dated. No affiliate links.</p>
+<div id="cd"></div><p class="sub" id="meta"></p>
+<a href="https://github.com/thoughtcook/verified-black-friday">⭐ Star on GitHub to get notified</a></header>
+<div class="bar"><input id="q" placeholder="Search…"><select id="cat"><option value="">All categories</option></select>
+<select id="st"><option value="">All statuses</option><option>Live</option><option>Early</option><option>Not yet</option><option>Unverified</option><option>Never discounts</option></select>
+<label><input type="checkbox" id="lo"> Live/Early only</label></div>
+<main id="g"></main>
+<footer>Not affiliated with any vendor. Prices change, so confirm on the vendor's site. Data: CC0 · <a href="https://github.com/thoughtcook/verified-black-friday/issues/new?template=submit-deal.yml">Submit a deal</a></footer>
+<script>
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function tick(){const t=new Date('2026-11-27T00:00:00-12:00')-new Date();const e=document.getElementById('cd');
+if(t<=0){e.textContent='🛍️ Black Friday is here: check Live deals';return}
+const d=Math.floor(t/864e5),h=Math.floor(t/36e5)%24,m=Math.floor(t/6e4)%60;e.textContent=`⏳ ${d}d ${h}h ${m}m until Black Friday (Nov 27)`}
+tick();setInterval(tick,6e4);
+fetch('https://raw.githubusercontent.com/thoughtcook/verified-black-friday/main/data/deals.json').then(r=>r.json()).then(D=>{
+const cats=[...new Set(D.map(o=>o.category))];cats.forEach(c=>cat.add(new Option(c,c)));
+const last=D.map(o=>o.last_checked).sort().pop();meta.textContent=`${D.length} deals tracked · ${D.filter(o=>/Live|Early/.test(o.status)).length} live · last checked ${last}`;
+const rank={Live:0,Early:1,Unverified:2,'Not yet':3,'Never discounts':4};
+function draw(){const q=document.getElementById('q').value.toLowerCase();
+g.innerHTML=D.filter(o=>(!cat.value||o.category==cat.value)&&(!st.value||o.status==st.value)&&(!lo.checked||/Live|Early/.test(o.status))&&(o.service+o.deal).toLowerCase().includes(q))
+.sort((a,b)=>rank[a.status]-rank[b.status]||(a.ends||'9').localeCompare(b.ends||'9'))
+.map(o=>`<div class="c"><span class="b ${esc(o.status)}">${esc(o.status)}</span> <span class="cat">${esc(o.category)}</span><h3>${esc(o.service)}</h3><div class="d">${esc(o.deal)}</div>
+<div class="cat">${esc(o.dates)}${o.ends?' · ends '+esc(o.ends):''} · checked ${esc(o.last_checked)}</div>${o.link?`<a href="${esc(o.link)}" rel="noopener nofollow" target="_blank">${o.link_type=='official'?'Official page':'Source report'} ↗</a>`:''}</div>`).join('')}
+['q','cat','st','lo'].forEach(i=>document.getElementById(i).oninput=draw);draw()});
+</script></body></html>
