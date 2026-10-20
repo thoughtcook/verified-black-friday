@@ -1,0 +1,40 @@
+name: Submit a deal
+description: Suggest a Black Friday / Cyber Monday 2026 deal
+title: "[Deal] <Service> – <discount>"
+labels: ["deal-submission"]
+body:
+  - type: input
+    id: service
+    attributes: {label: Service / product}
+    validations: {required: true}
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [AI, VPN, Hosting/VPS, Mac/Dev, SEO, SaaS, Indie launch]
+    validations: {required: true}
+  - type: input
+    id: deal
+    attributes: {label: Deal (exact price, term and discount as shown), placeholder: "2-yr plan $2.99/mo billed $71.76 upfront"}
+    validations: {required: true}
+  - type: input
+    id: dates
+    attributes: {label: Start / end dates (or "end not stated")}
+    validations: {required: true}
+  - type: input
+    id: link
+    attributes: {label: Official vendor link (no affiliate/referral links), placeholder: "https://vendor.com/black-friday"}
+    validations: {required: true}
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmation
+      options:
+        - label: I saw this price on the vendor's official page today
+          required: true
+        - label: The link contains no affiliate, referral or tracking parameters
+          required: true
+        - label: I am / am not affiliated with the vendor (say which below)
+  - type: textarea
+    id: notes
+    attributes: {label: Notes (renewal price, regions, coupon code)}
