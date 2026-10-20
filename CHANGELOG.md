@@ -13,4 +13,4 @@ Newest first. Every entry is dated and comes from the linked source.
 - **1Password:** a third-party list claims 50% off; not on the official page, so marked 🟠 Unverified.
 
 ## Next checks
-Nov 3 · Nov 16 · Nov 24 · Nov 27 (Black Friday) · Nov 30 (Cyber Monday)
+Daily from Oct 21 to Dec 2 (full rechecks on Mondays and Thursdays, and every day from Nov 20)

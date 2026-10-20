@@ -20,7 +20,7 @@
 
 > **No invented prices. No affiliate links. No 2025 deals dressed up as new.** If we couldn't confirm a deal, the list says so.
 >
-> ⭐ **Star this repo to get notified.** Deals are rechecked on Nov 3, 16 and 24, and spot-checked on Black Friday and Cyber Monday.
+> ⭐ **Star this repo to get notified.** Deals are rechecked daily from Oct 21 through Dec 2, with full rechecks every Monday and Thursday and every day from Nov 20.
 
 ## Contents
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
@@ -40,11 +40,10 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | Date (2026) | What happens |
 |---|---|
 | Oct 20 | First full verification ✅ |
-| Nov 3 | Full recheck #1 |
-| Nov 16 | Full recheck #2 |
-| Nov 24 | Full recheck #3 (Black Friday week) |
-| **Nov 27** | **Black Friday**: spot check |
-| **Nov 30** | **Cyber Monday**: spot check |
+| Oct 21 to Dec 2 | Daily rechecks (full rechecks on Mondays and Thursdays) |
+| Nov 20 to Dec 2 | Full recheck every day |
+| **Nov 27** | **Black Friday** |
+| **Nov 30** | **Cyber Monday** |
 | Dec 14 | Hostinger sale ends (latest end date published so far) |
 
 A live countdown is on the [website](https://thoughtcook.github.io/verified-black-friday/).
