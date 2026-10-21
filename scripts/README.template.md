@@ -41,6 +41,7 @@ _Savings are worked out only from prices shown on the linked official page (chec
 |---|---|
 | Oct 20 | First full verification ✅ |
 | Oct 21 to Dec 2 | Daily rechecks (full rechecks on Mondays and Thursdays) |
+| Oct 30 | CapCut Desktop Black Friday sale ends |
 | Nov 20 to Dec 2 | Full recheck every day |
 | **Nov 27** | **Black Friday** |
 | **Nov 30** | **Cyber Monday** |
@@ -61,7 +62,7 @@ Bundles built only from the verified live deals above.
 | 🛰️ **Indie VPS stack** | Hostinger VPS + Proton VPN Plus | from $6.49/mo + $2.99/mo (2-yr) |
 | 🎙️ **AI creator stack** | ElevenLabs Creator + Smooth Recorder | $11 first month + $19 one-time |
 | 🍎 **Mac dev cleanup stack** | SpaceWise Pro + Smooth Recorder | $3.99 + $19 = $22.99 one-time |
-| 🔒 **Cheapest 2-yr privacy** | Private Internet Access | $34.58 for 2 yr + 2 mo |
+| 🔒 **Cheapest 2-yr privacy** | Private Internet Access or CyberGhost | $56.94 for 2 yr + 2 mo ($2.19/mo) |
 
 ## Legend
 | Badge | Meaning |
