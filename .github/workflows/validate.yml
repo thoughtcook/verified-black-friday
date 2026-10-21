@@ -11,4 +11,4 @@ jobs:
         with: {python-version: '3.12'}
       - run: python3 scripts/validate.py
       - name: README is up to date
-        run: python3 scripts/build.py && git diff --exit-code README.md data/deals.csv
+        run: python3 scripts/build.py && git diff --exit-code README.md data/deals.csv docs/index.html docs/sitemap.xml

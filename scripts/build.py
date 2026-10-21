@@ -25,3 +25,21 @@ out = (README.replace('{{N}}', str(len(deals))).replace('{{LIVE}}', str(len(live
        .replace('{{LIVE_TABLE}}', table(live)).replace('{{CATEGORIES}}', sections))
 (R/'README.md').write_text(out)
 print(f'README.md + data/deals.csv rebuilt: {len(deals)} deals, {len(live)} live/early')
+
+# Prerender deal cards into the site so content is in the served HTML (JS re-renders for filtering).
+import html, re as _re
+H = R/'docs/index.html'; page = H.read_text()
+rank = {'Live':0,'Early':1,'Unverified':2,'Not yet':3,'Never discounts':4}
+e = lambda s: html.escape(str(s), quote=True)
+cards = ''.join(
+    f'<div class="c"><span class="b {e(o["status"])}">{e(o["status"])}</span> <span class="cat">{e(o["category"])}</span><h3>{e(o["service"])}</h3><div class="d">{e(o["deal"])}</div>'
+    f'<div class="cat">{e(o["dates"])}{" · ends "+e(o["ends"]) if o["ends"] else ""} · checked {e(o["last_checked"])}</div>'
+    + (f'<a href="{e(o["link"])}" rel="noopener nofollow" target="_blank">{"Official page" if o["link_type"]=="official" else "Source report"} ↗</a>' if o['link'] else '') + '</div>\n'
+    for o in sorted(deals, key=lambda o: (rank[o['status']], o['ends'] or '9')))
+meta = f'{len(deals)} deals tracked · {len(live)} live · last checked {CHECKED}'
+page = _re.sub(r'<p class="sub" id="meta">.*?</p>', f'<p class="sub" id="meta">{meta}</p>', page, flags=_re.S)
+page = _re.sub(r'<main id="g">.*?</main>', lambda m: f'<main id="g">\n{cards}</main>', page, flags=_re.S)
+page = _re.sub(r'"dateModified":"[\d-]+"', f'"dateModified":"{CHECKED}"', page)
+H.write_text(page)
+S = R/'docs/sitemap.xml'; S.write_text(_re.sub(r'<lastmod>[\d-]+</lastmod>', f'<lastmod>{CHECKED}</lastmod>', S.read_text()))
+print('docs/index.html prerendered')

@@ -2,6 +2,11 @@
 
 Newest first. Every entry is dated and comes from the linked source.
 
+## 2026-10-21: verification audit
+- **Vitals:** moved from 🟢 Live to 🟠 Unverified. The only source is the founder's X post; the deal isn't found on AppSumo, and vitals.app is an unrelated Shopify app.
+- **Re-confirmed on official pages today:** Surfshark, NordVPN, ExpressVPN, Proton VPN, Private Internet Access, Hostinger, ElevenLabs, CapCut, Smooth Recorder, SpaceWise.
+- **Site:** deal cards are now in the served HTML (not only rendered by JavaScript).
+
 ## 2026-10-21: daily recheck
 - **New: CapCut (Desktop):** official Black Friday sale, up to 60% off the first year of Pro and 40% off the first year of Ultra, Oct 20 – Oct 30, 2026. Desktop app only.
 - **New: Folder Preview Pro:** a third-party post claims 30% off (code BFF2026, Nov 27 – Dec 3). The official page shows $9.99 with no sale, so it's 🟠 Unverified.

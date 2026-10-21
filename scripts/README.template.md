@@ -2,9 +2,9 @@
 
 <img src="assets/social-preview.png" alt="Verified Black Friday 2026" width="720">
 
-# 🧾 Verified Black Friday 2026
+# 🧾 Verified Black Friday 2026 Deals
 
-**The Black Friday & Cyber Monday 2026 list for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
+**Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
 [![Deals tracked](https://img.shields.io/badge/deals_tracked-{{N}}-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-{{LIVE}}-brightgreen)](#-best-live-deals-right-now)

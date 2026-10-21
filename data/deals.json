@@ -310,12 +310,12 @@
   {
     "category": "Mac/Dev",
     "service": "Vitals",
-    "status": "Live",
-    "deal": "AppSumo lifetime deal (per founder post; not shown on vitals.app)",
+    "status": "Unverified",
+    "deal": "Claimed AppSumo lifetime deal (founder's X post only). Not found on AppSumo search on Oct 21; vitals.app is an unrelated Shopify app",
     "dates": "Posted Oct 10, 2026",
     "link": "https://x.com/attacomsian/status/2108834703218561084",
     "link_type": "report",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-21",
     "ends": ""
   },
   {

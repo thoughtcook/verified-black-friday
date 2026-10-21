@@ -2,12 +2,12 @@
 
 <img src="assets/social-preview.png" alt="Verified Black Friday 2026" width="720">
 
-# 🧾 Verified Black Friday 2026
+# 🧾 Verified Black Friday 2026 Deals
 
-**The Black Friday & Cyber Monday 2026 list for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
+**Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
 [![Deals tracked](https://img.shields.io/badge/deals_tracked-49-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-11-brightgreen)](#-best-live-deals-right-now)
+[![Live now](https://img.shields.io/badge/live_now-10-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10--21-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
@@ -64,7 +64,6 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | **ElevenLabs** | Creator $11 first month, then $22/mo. Last year's (2025): Starter $1 first month | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://elevenlabs.io/pricing) | 2026-10-21 |
 | **Smooth Recorder** | $19 one-time instead of $69 (next 100 buyers; first 100 at $9 sold out) | Oct 2026, limited quantity | not stated | 🟢 Live | [official](https://www.smoothrecorder.com) | 2026-10-21 |
 | **SpaceWise** | Pro lifetime $3.99 instead of $7.99 (launch deal, 3 devices) | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://www.spacewisemac.in/pricing) | 2026-10-21 |
-| **Vitals** | AppSumo lifetime deal (per founder post; not shown on vitals.app) | Posted Oct 10, 2026 | not stated | 🟢 Live | [report](https://x.com/attacomsian/status/2108834703218561084) | 2026-10-20 |
 
 ## 🧱 Stack builders
 Bundles built only from the verified live deals above.
@@ -135,7 +134,7 @@ Bundles built only from the verified live deals above.
 |---|---|---|---|---|---|---|
 | **Smooth Recorder** | $19 one-time instead of $69 (next 100 buyers; first 100 at $9 sold out) | Oct 2026, limited quantity | not stated | 🟢 Live | [official](https://www.smoothrecorder.com) | 2026-10-21 |
 | **SpaceWise** | Pro lifetime $3.99 instead of $7.99 (launch deal, 3 devices) | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://www.spacewisemac.in/pricing) | 2026-10-21 |
-| **Vitals** | AppSumo lifetime deal (per founder post; not shown on vitals.app) | Posted Oct 10, 2026 | not stated | 🟢 Live | [report](https://x.com/attacomsian/status/2108834703218561084) | 2026-10-20 |
+| **Vitals** | Claimed AppSumo lifetime deal (founder's X post only). Not found on AppSumo search on Oct 21; vitals.app is an unrelated Shopify app | Posted Oct 10, 2026 | not stated | 🟠 Unverified | [report](https://x.com/attacomsian/status/2108834703218561084) | 2026-10-21 |
 | **Folder Preview Pro** | A third-party post says 30% off with code BFF2026; the official page shows $9.99 with no sale yet | Nov 27 – Dec 3, 2026 (claimed) | not stated | 🟠 Unverified | [report](https://x.com/IndieMarkdowns/status/2112593838716182670) | 2026-10-21 |
 | **Tailscale** | No 2026 deal yet | — | not stated | ⚪ Not yet | [official](https://tailscale.com/pricing) | 2026-10-21 |
 | **CleanShot X** | Last year's (2025): 30% off ($20.30); today Basic $35 one-time | — | not stated | ⚪ Not yet | [official](https://cleanshot.com/pricing) | 2026-10-21 |
