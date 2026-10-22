@@ -3,22 +3,22 @@
     "category": "VPN",
     "service": "Surfshark",
     "status": "Live",
-    "deal": "2-yr (27 mo) $2.49/mo, $67.23 upfront",
+    "deal": "2-yr (27 mo) Starter or One $2.49/mo, $67.23 upfront (page labels One the Black Friday deal); One+ $3.99/mo ($107.73)",
     "dates": "Live since Oct 12",
     "link": "https://surfshark.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
     "category": "VPN",
     "service": "NordVPN",
-    "status": "Early",
-    "deal": "2-yr Basic $3.49/mo +3 mo ($94.23 first 27 mo), Complete $4.49/mo ($121.23). Last year's (2025): low $2.99/mo",
-    "dates": "Oct 2026, end not stated",
+    "status": "Live",
+    "deal": "Black Friday on the official page: 2-yr +3 mo Basic $3.49/mo ($94.23 first 27 mo), Complete $3.99/mo ($107.73), Prime $6.99/mo ($188.73). Last year's (2025): low $2.99/mo",
+    "dates": "Black Friday label since Oct 22, end not stated",
     "link": "https://nordvpn.com/pricing/",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -29,7 +29,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://www.expressvpn.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -40,7 +40,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://protonvpn.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -51,7 +51,7 @@
     "dates": "Halloween offer, Oct 2026; end not stated",
     "link": "https://www.privateinternetaccess.com/buy-vpn-online",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -62,7 +62,7 @@
     "dates": "Halloween offer; end not stated",
     "link": "https://www.cyberghostvpn.com/",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -73,7 +73,7 @@
     "dates": "—",
     "link": "https://mullvad.net/en/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -84,7 +84,7 @@
     "dates": "Oct 19 – Dec 14, 2026",
     "link": "https://www.hostinger.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": "2026-12-14"
   },
   {
@@ -95,7 +95,7 @@
     "dates": "—",
     "link": "https://www.racknerd.com/blackfriday",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -117,7 +117,7 @@
     "dates": "—",
     "link": "https://www.idcspy.com/141215.html",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -128,7 +128,7 @@
     "dates": "—",
     "link": "",
     "link_type": "none",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -139,7 +139,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://elevenlabs.io/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -150,8 +150,19 @@
     "dates": "Oct 20 – Oct 30, 2026",
     "link": "https://www.capcut.com/tools/capcut-black-friday-sale",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": "2026-10-30"
+  },
+  {
+    "category": "AI",
+    "service": "Kavel",
+    "status": "Live",
+    "deal": "Early Black Friday: 2x credits on every new plan (first month on monthly, whole first year on yearly), normal price, no code",
+    "dates": "Oct 2026 to Dec 1",
+    "ends": "2026-12-01",
+    "link": "https://www.kavel.ai/pricing",
+    "link_type": "official",
+    "last_checked": "2026-10-22"
   },
   {
     "category": "AI",
@@ -161,7 +172,7 @@
     "dates": "—",
     "link": "https://cursor.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -172,7 +183,7 @@
     "dates": "—",
     "link": "https://x.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -183,29 +194,29 @@
     "dates": "—",
     "link": "https://www.heygen.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
     "category": "AI",
     "service": "Typeless",
     "status": "Not yet",
-    "deal": "No promo; Pro listed at $12 (USD)",
+    "deal": "No promo; Pro $12/mo billed yearly or $30 monthly",
     "dates": "—",
     "link": "https://www.typeless.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
     "category": "AI",
     "service": "Midjourney",
     "status": "Not yet",
-    "deal": "Last year's (2025): 20% off annual Standard",
+    "deal": "No 2026 deal; standing 20% off annual (Standard $288/yr). Last year's (2025): 20% off annual Standard",
     "dates": "—",
-    "link": "https://blog.imseankim.com/cyber-monday-2025-best-ai-tool-api-credit-deals/",
-    "link_type": "report",
-    "last_checked": "2026-10-20",
+    "link": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+    "link_type": "official",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -216,7 +227,7 @@
     "dates": "—",
     "link": "https://blog.imseankim.com/cyber-monday-2025-best-ai-tool-api-credit-deals/",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -227,7 +238,7 @@
     "dates": "—",
     "link": "https://beebom.com/best-black-friday-deals-on-ai-tools-2025/",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -238,7 +249,7 @@
     "dates": "—",
     "link": "https://jenlehner.com/blog-content/black-friday-2025",
     "link_type": "report",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-21",
     "ends": ""
   },
   {
@@ -249,7 +260,7 @@
     "dates": "—",
     "link": "https://prodfolks.substack.com/p/black-friday-for-pms",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -260,7 +271,7 @@
     "dates": "—",
     "link": "",
     "link_type": "none",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -271,7 +282,7 @@
     "dates": "—",
     "link": "https://www.semrush.com/prices/",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -282,7 +293,7 @@
     "dates": "—",
     "link": "https://help.ahrefs.com/en/articles/1406260-do-you-offer-any-discounts-or-free-trials",
     "link_type": "official",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -293,7 +304,7 @@
     "dates": "Oct 2026, limited quantity",
     "link": "https://www.smoothrecorder.com",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -304,18 +315,18 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://www.spacewisemac.in/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
     "category": "Mac/Dev",
     "service": "Vitals",
     "status": "Unverified",
-    "deal": "Claimed AppSumo lifetime deal (founder's X post only). Not found on AppSumo search on Oct 21; vitals.app is an unrelated Shopify app",
+    "deal": "Claimed AppSumo lifetime deal (founder's X post only). Not found on AppSumo search on Oct 21 or Oct 22",
     "dates": "Posted Oct 10, 2026",
     "link": "https://x.com/attacomsian/status/2108834703218561084",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -326,8 +337,19 @@
     "dates": "Nov 27 – Dec 3, 2026 (claimed)",
     "link": "https://x.com/IndieMarkdowns/status/2112593838716182670",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Wins",
+    "status": "Unverified",
+    "deal": "A third-party post says 40% off with code BF26, Nov 20 to Dec 12. The official site shows only a separate launch offer (40% off, ends Oct 23), not a Black Friday deal",
+    "dates": "Nov 20 to Dec 12 (claimed)",
+    "ends": "",
+    "link": "https://x.com/IndieMarkdowns/status/2113043678726140304",
+    "link_type": "report",
+    "last_checked": "2026-10-22"
   },
   {
     "category": "Mac/Dev",
@@ -337,7 +359,7 @@
     "dates": "—",
     "link": "https://tailscale.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -348,7 +370,7 @@
     "dates": "—",
     "link": "https://cleanshot.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -359,7 +381,7 @@
     "dates": "—",
     "link": "https://www.cultofmac.com/deals/best-black-friday-2025-mac-apps",
     "link_type": "report",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -370,7 +392,7 @@
     "dates": "—",
     "link": "https://www.reddit.com/r/raycastapp/comments/1p9r6u3/black_friday_30_off_on_raycast/",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -381,7 +403,7 @@
     "dates": "—",
     "link": "https://9to5mac.com/2025/12/01/black-friday-cyber-monday-app-discounts-deal/",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -392,7 +414,7 @@
     "dates": "—",
     "link": "https://tableplus.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -403,7 +425,7 @@
     "dates": "—",
     "link": "https://www.popsci.com/gear/cleanmymac-software-black-friday-deal/",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -414,7 +436,7 @@
     "dates": "—",
     "link": "https://9to5mac.com/2025/12/01/black-friday-cyber-monday-app-discounts-deal/",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -425,18 +447,18 @@
     "dates": "—",
     "link": "https://designerup.co/blog/the-absolute-best-black-friday-and-cyber-monday-deals-for-designers-2025-edition/",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
     "category": "Mac/Dev",
     "service": "Paste",
     "status": "Not yet",
-    "deal": "Last year's (2025): $14.99 first year (was $29.99)",
+    "deal": "Last year's (2025): $14.99 first year (was $29.99); today $29.99/yr",
     "dates": "—",
     "link": "https://allthings.how/the-most-useful-mac-and-ios-app-deals-for-black-friday-2025/",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -447,7 +469,7 @@
     "dates": "—",
     "link": "https://setapp.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -465,22 +487,22 @@
     "category": "Mac/Dev",
     "service": "Warp, Superhuman, Linear, Obsidian Sync, Fantastical, Arc/Dia, RapidAPI",
     "status": "Not yet",
-    "deal": "No official deal; avoid grey-market resales",
+    "deal": "No official deal yet; avoid grey-market resales",
     "dates": "—",
     "link": "",
     "link_type": "none",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
     "category": "SaaS",
     "service": "1Password",
-    "status": "Unverified",
-    "deal": "Third-party list claims 50% off Individual; not on official page. Last year's (2025): 50% off annual",
-    "dates": "—",
-    "link": "https://1password.com/",
+    "status": "Early",
+    "deal": "New customers, first year, annual billing: Individual $2.99/mo (reg $3.99), Families $4.49/mo (reg $5.99). Not labelled Black Friday. Last year's (2025): 50% off annual",
+    "dates": "Oct 2026, end not stated",
+    "link": "https://1password.com/pricing/password-manager",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -491,7 +513,7 @@
     "dates": "—",
     "link": "https://www.macrumors.com/2025/11/19/adobe-black-friday-sale/",
     "link_type": "report",
-    "last_checked": "2026-10-20",
+    "last_checked": "2026-10-21",
     "ends": ""
   },
   {
@@ -502,7 +524,7 @@
     "dates": "—",
     "link": "https://www.kickidler.com/info/top-black-friday-deals-for-saas",
     "link_type": "report",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -518,24 +540,35 @@
   },
   {
     "category": "SaaS",
+    "service": "Pabbly Plus",
+    "status": "Not yet",
+    "deal": "Announced: $799/yr instead of $1,428/yr (44% off), 100 seats",
+    "dates": "Goes live Nov 4",
+    "ends": "",
+    "link": "https://blackfriday.pabbly.com/",
+    "link_type": "official",
+    "last_checked": "2026-10-22"
+  },
+  {
+    "category": "SaaS",
     "service": "Spark Mail",
     "status": "Not yet",
-    "deal": "No 2026 deal yet",
+    "deal": "No 2026 deal yet; Plus $99/yr or $10/mo",
     "dates": "—",
     "link": "https://sparkmailapp.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
     "category": "SaaS",
     "service": "X Premium",
     "status": "Not yet",
-    "deal": "No promo on the official page; now The X Subscription (Plus $8/mo, Premium $30/mo). Regional intro offers reported on X are not shown on the US page",
+    "deal": "No promo on the official page; The X Subscription Plus $8/mo, Premium $30/mo (no monthly or annual discount shown)",
     "dates": "—",
     "link": "https://x.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   },
   {
@@ -546,7 +579,7 @@
     "dates": "—",
     "link": "https://eden.so/pricing/",
     "link_type": "official",
-    "last_checked": "2026-10-21",
+    "last_checked": "2026-10-22",
     "ends": ""
   }
 ]

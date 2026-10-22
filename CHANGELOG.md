@@ -2,6 +2,16 @@
 
 Newest first. Every entry is dated and comes from the linked source.
 
+## 2026-10-22: full recheck
+- **NordVPN:** better. The official pricing page now carries a Black Friday label. 2-yr Complete drops to $3.99/mo ($107.73 for 27 months, was $4.49 / $121.23) and Prime to $6.99/mo ($188.73, was $7.49 / $202.23). Basic is unchanged at $3.49/mo. Moved from 🟡 Early to 🟢 Live.
+- **1Password:** now confirmed on the official page: new customers pay $2.99/mo for Individual (regular $3.99) and $4.49/mo for Families (regular $5.99) for the first year on annual billing. Not labelled Black Friday. The third-party "50% off" claim doesn't match. Moved from 🟠 Unverified to 🟡 Early.
+- **New: Kavel:** official Early Black Friday deal, 2x credits on every new plan, until Dec 1, 2026.
+- **New: Pabbly Plus:** official Black Friday page announces $799/yr instead of $1,428/yr (100 seats), going live Nov 4, 2026. ⚪ Not yet.
+- **New: Wins:** a third-party post claims 40% off (code BF26, Nov 20 – Dec 12). The official site shows only a separate launch offer ending Oct 23, so it's 🟠 Unverified.
+- **Midjourney:** now linked to the official plans page (standing 20% off annual, no Black Friday deal yet).
+- **No change:** Surfshark, ExpressVPN, Proton VPN, Private Internet Access, CyberGhost, Hostinger, ElevenLabs, CapCut, Smooth Recorder, SpaceWise, Folder Preview Pro, Eden, X Premium, Typeless.
+- **Not rechecked today (pages blocked or down):** Adobe, Perplexity, Canva, BandwagonHost, JetBrains. Their rows keep the previous check date.
+
 ## 2026-10-21: verification audit
 - **Vitals:** moved from 🟢 Live to 🟠 Unverified. The only source is the founder's X post; the deal isn't found on AppSumo, and vitals.app is an unrelated Shopify app.
 - **Re-confirmed on official pages today:** Surfshark, NordVPN, ExpressVPN, Proton VPN, Private Internet Access, Hostinger, ElevenLabs, CapCut, Smooth Recorder, SpaceWise.
