@@ -159,10 +159,10 @@
     "status": "Live",
     "deal": "Early Black Friday: 2x credits on every new plan (first month on monthly, whole first year on yearly), normal price, no code",
     "dates": "Oct 2026 to Dec 1",
-    "ends": "2026-12-01",
     "link": "https://www.kavel.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-22"
+    "last_checked": "2026-10-22",
+    "ends": "2026-12-01"
   },
   {
     "category": "AI",
@@ -346,10 +346,10 @@
     "status": "Unverified",
     "deal": "A third-party post says 40% off with code BF26, Nov 20 to Dec 12. The official site shows only a separate launch offer (40% off, ends Oct 23), not a Black Friday deal",
     "dates": "Nov 20 to Dec 12 (claimed)",
-    "ends": "",
     "link": "https://x.com/IndieMarkdowns/status/2113043678726140304",
     "link_type": "report",
-    "last_checked": "2026-10-22"
+    "last_checked": "2026-10-22",
+    "ends": ""
   },
   {
     "category": "Mac/Dev",
@@ -544,10 +544,10 @@
     "status": "Not yet",
     "deal": "Announced: $799/yr instead of $1,428/yr (44% off), 100 seats",
     "dates": "Goes live Nov 4",
-    "ends": "",
     "link": "https://blackfriday.pabbly.com/",
     "link_type": "official",
-    "last_checked": "2026-10-22"
+    "last_checked": "2026-10-22",
+    "ends": ""
   },
   {
     "category": "SaaS",
@@ -578,6 +578,28 @@
     "deal": "No promo; annual billing: Starter $25/mo ($299/yr), Pro $66/mo ($790/yr), Max $167/mo ($1,999/yr), Personal $7.50/mo ($90/yr), Personal Plus $12.50/mo ($150/yr); $5/mo intro plan",
     "dates": "—",
     "link": "https://eden.so/pricing/",
+    "link_type": "official",
+    "last_checked": "2026-10-22",
+    "ends": ""
+  },
+  {
+    "category": "Productivity",
+    "service": "Readwise Reader",
+    "status": "Not yet",
+    "deal": "No promo; Full plan (includes Reader) $9.99/mo billed yearly ($119.88/yr) or $12.99 monthly; Lite $5.59/mo yearly or $6.99 monthly; 30-day free trial",
+    "dates": "—",
+    "link": "https://readwise.io/pricing",
+    "link_type": "official",
+    "last_checked": "2026-10-22",
+    "ends": ""
+  },
+  {
+    "category": "Health",
+    "service": "Fitbod: Gym & Fitness Planner",
+    "status": "Not yet",
+    "deal": "No promo; $15.99/mo or $95.99/yr (US, varies by region/platform); Lifetime plan is promotion-only, watch for it",
+    "dates": "—",
+    "link": "https://help.fitbod.me/hc/en-us/articles/360004904714-How-to-Subscribe-to-Fitbod",
     "link_type": "official",
     "last_checked": "2026-10-22",
     "ends": ""

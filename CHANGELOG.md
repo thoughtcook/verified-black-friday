@@ -3,6 +3,8 @@
 Newest first. Every entry is dated and comes from the linked source.
 
 ## 2026-10-22: full recheck
+- **New: Readwise Reader:** watching, no promo yet. Official pricing: Full (includes Reader) $9.99/mo billed yearly ($119.88/yr) or $12.99 monthly.
+- **New: Fitbod: Gym & Fitness Planner:** watching, no promo yet. Official help center: $15.99/mo or $95.99/yr (US); a Lifetime plan appears only during short promotions.
 - **NordVPN:** better. The official pricing page now carries a Black Friday label. 2-yr Complete drops to $3.99/mo ($107.73 for 27 months, was $4.49 / $121.23) and Prime to $6.99/mo ($188.73, was $7.49 / $202.23). Basic is unchanged at $3.49/mo. Moved from 🟡 Early to 🟢 Live.
 - **1Password:** now confirmed on the official page: new customers pay $2.99/mo for Individual (regular $3.99) and $4.49/mo for Families (regular $5.99) for the first year on annual billing. Not labelled Black Friday. The third-party "50% off" claim doesn't match. Moved from 🟠 Unverified to 🟡 Early.
 - **New: Kavel:** official Early Black Friday deal, 2x credits on every new plan, until Dec 1, 2026.
