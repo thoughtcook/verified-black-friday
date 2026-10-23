@@ -132,6 +132,17 @@
     "ends": ""
   },
   {
+    "category": "VPS",
+    "service": "DMIT",
+    "status": "Not yet",
+    "deal": "Official homepage + pricing (Oct 23): list prices only; no BF 2026 event page (black-friday-2025/2026 gone). Announcements empty. Sample list: LAX.AS3.T1 TINY $6.90/mo, LAX.AN5 Pro TINY $10.90/mo. Last year's (2025): BF buy-two-get-one Pro + spend cashback + SJC discounts",
+    "dates": "—",
+    "link": "https://www.dmit.io/pages/pricing",
+    "link_type": "official",
+    "last_checked": "2026-10-23",
+    "ends": ""
+  },
+  {
     "category": "AI",
     "service": "ElevenLabs",
     "status": "Live",

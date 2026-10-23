@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-57-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-58-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-13-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10--23-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -132,6 +132,7 @@ Bundles built only from the verified live deals above.
 | **BandwagonHost** | Last year's (2025): ~19% off all VPS | — | not stated | ⚪ Not yet | [report](https://www.vpscpt.com/archives/2025-black-friday-vps-promotion-recommendations) | 2026-10-21 |
 | **Vultr** | Last year's (2025): VPS from $2.50/mo; up to $300 new-user credit | — | not stated | ⚪ Not yet | [report](https://www.idcspy.com/141215.html) | 2026-10-22 |
 | **DigitalOcean / Linode / Hetzner** | No verified deal found | — | not stated | ⚪ Not yet | — | 2026-10-22 |
+| **DMIT** | Official homepage + pricing (Oct 23): list prices only; no BF 2026 event page (black-friday-2025/2026 gone). Announcements empty. Sample list: LAX.AS3.T1 TINY $6.90/mo, LAX.AN5 Pro TINY $10.90/mo. Last year's (2025): BF buy-two-get-one Pro + spend cashback + SJC discounts | — | not stated | ⚪ Not yet | [official](https://www.dmit.io/pages/pricing) | 2026-10-23 |
 
 ### 🍎 Mac & dev tools
 
