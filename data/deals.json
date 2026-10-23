@@ -614,5 +614,16 @@
     "link_type": "report",
     "last_checked": "2026-10-23",
     "ends": ""
+  },
+  {
+    "category": "VPN",
+    "service": "Cliproxy",
+    "status": "Not yet",
+    "deal": "No promo; Long-term Static ISP from ~$3.00/IP (Residential Native e.g. US/UK/DE $2.0/IP, Singapore $3.0/IP, region varies); Home broadband broadcast from $1.8/IP; dynamic residential traffic from $0.58/GB. Dashboard static-proxies page is login/JS-walled — prices from official public pricing",
+    "dates": "—",
+    "ends": "",
+    "link": "https://cliproxy.com/pricing/static-isp/",
+    "link_type": "official",
+    "last_checked": "2026-10-23"
   }
 ]

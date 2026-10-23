@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-56-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-57-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-12-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10--23-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -120,6 +120,7 @@ Bundles built only from the verified live deals above.
 | **Private Internet Access** | Halloween Price Slash: 3 yr + 3 mo $2.03/mo (renews $79 every 3 yrs); 2 yr + 2 mo $2.19/mo ($56.94). The earlier $34.58 offer is no longer shown | Halloween offer, Oct 2026; end not stated | not stated | 🟡 Early | [official](https://www.privateinternetaccess.com/buy-vpn-online) | 2026-10-23 |
 | **CyberGhost** | No Black Friday deal yet. Current Halloween offer: 2 yr + 2 mo $2.19/mo ($56.94 first 26 mo) | Halloween offer; end not stated | not stated | ⚪ Not yet | [official](https://www.cyberghostvpn.com/) | 2026-10-23 |
 | **Mullvad** | Flat €5/mo; no sales or lifetime plans | — | not stated | ⛔ Never discounts | [official](https://mullvad.net/en/pricing) | 2026-10-23 |
+| **Cliproxy** | No promo; Long-term Static ISP from ~$3.00/IP (Residential Native e.g. US/UK/DE $2.0/IP, Singapore $3.0/IP, region varies); Home broadband broadcast from $1.8/IP; dynamic residential traffic from $0.58/GB. Dashboard static-proxies page is login/JS-walled — prices from official public pricing | — | not stated | ⚪ Not yet | [official](https://cliproxy.com/pricing/static-isp/) | 2026-10-23 |
 
 ### 🖥️ Hosting & VPS
 

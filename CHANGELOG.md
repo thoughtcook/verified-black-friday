@@ -2,12 +2,16 @@
 
 Newest first. Every entry is dated and comes from the linked source.
 
+## 2026-10-23 — Cliproxy watch
+
+- **New: Cliproxy** (static ISP / residential proxies): watching, no Black Friday promo. Official [static ISP pricing](https://cliproxy.com/pricing/static-isp/): from ~$3.00/IP; US/UK/DE Residential Native $2.0/IP on the default validity tab. Related dynamic residential traffic from $0.58/GB. `dash.cliproxy.com/cli/static-proxies` is login/JS-walled.
+
 ## 2026-10-23: quick check
 - **New (Unverified): Enconvo:** maker-side announcement via MacWorthy (same team, labelled "Our app") and IndieMarkdowns — 30% off lifetime licenses, code BLACKFRIDAY2026, Nov 23–30. Official enconvo.com pricing shows Standard $49 / Premium $99 with no Black Friday label yet; MacWorthy's struck $59/$119 list prices don't match the live page.
 - **Smooth Recorder:** regular list price on the official site is now $49 (was noted as $69). Early deal still $19 for the next 100 buyers.
 - **Wins:** official launch offer (code wins36, 40% off, first 100) still enabled, ends Oct 23, 2026. Claimed BF deal (BF26, Nov 20–Dec 12) remains Unverified.
 - **Re-confirmed unchanged on official pages:** Surfshark, NordVPN, ExpressVPN, Proton VPN, Private Internet Access, Hostinger, ElevenLabs, 1Password, CapCut, SpaceWise, Kavel; Pabbly Plus still announced for Nov 4.
-- **Still no promo:** X Premium, Typeless, Eden, Readwise Reader, Fitbod (Lifetime remains promo-only), CyberGhost (Halloween), TablePlus (disabled BLACK_FRIDAY_2026 banner), RackNerd, CleanShot X, Raycast Pro, Setapp, Notion, Mullvad, Folder Preview Pro.
+- **Still no promo:** X Premium, Typeless, Eden, Readwise Reader, Fitbod (Lifetime remains promo-only), Cliproxy (static ISP), CyberGhost (Halloween), TablePlus (disabled BLACK_FRIDAY_2026 banner), RackNerd, CleanShot X, Raycast Pro, Setapp, Notion, Mullvad, Folder Preview Pro.
 - **Not rechecked (blocked/empty):** Adobe, Perplexity, Canva, ChatGPT, Midjourney, Vultr, BandwagonHost, JetBrains, help.x.com.
 - **No verified new/better deals and no Live/Early price regressions.**
 
