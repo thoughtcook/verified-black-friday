@@ -2,6 +2,10 @@
 
 Newest first. Every entry is dated and comes from the linked source.
 
+## 2026-10-23 — Cliproxy Halloween
+
+- **Cliproxy:** Happy Halloween promo verified on the official homepage (floating card, Oct 23). Homepage card: Dynamic $0.58/GB, Long-term Static $3.00/month, Dynamic Unlimited $38.33/day (−70% graphic). Residential [pricing](https://cliproxy.com/pricing/residential-proxies/): 200GB $0.72/GB (−70%), down to $0.58/GB at 3000GB; first-purchase 2GB $1.20/GB. No separate promo code or end date visible logged out; no Black Friday label. `dash.cliproxy.com/cli/static-proxies` still requires login. Moved from ⚪ Not yet to 🟡 Early. Sources: [homepage](https://cliproxy.com/), [residential](https://cliproxy.com/pricing/residential-proxies/), [static ISP](https://cliproxy.com/pricing/static-isp/).
+
 ## 2026-10-23 — Cliproxy watch
 
 - **New: Cliproxy** (static ISP / residential proxies): watching, no Black Friday promo. Official [static ISP pricing](https://cliproxy.com/pricing/static-isp/): from ~$3.00/IP; US/UK/DE Residential Native $2.0/IP on the default validity tab. Related dynamic residential traffic from $0.58/GB. `dash.cliproxy.com/cli/static-proxies` is login/JS-walled.

@@ -618,11 +618,11 @@
   {
     "category": "VPN",
     "service": "Cliproxy",
-    "status": "Not yet",
-    "deal": "No promo; Long-term Static ISP from ~$3.00/IP (Residential Native e.g. US/UK/DE $2.0/IP, Singapore $3.0/IP, region varies); Home broadband broadcast from $1.8/IP; dynamic residential traffic from $0.58/GB. Dashboard static-proxies page is login/JS-walled — prices from official public pricing",
-    "dates": "—",
+    "status": "Early",
+    "deal": "Happy Halloween promo on homepage (seen Oct 23): Dynamic $0.58/GB, Long-term Static $3.00/mo, Dynamic Unlimited $38.33/day (−70% graphic). Residential volume: 200GB $0.72/GB (−70%) down to $0.58/GB at 3000GB; first-purchase 2GB $1.20/GB. No separate promo code or end date visible logged out. dash.cliproxy.com/cli/static-proxies requires login",
+    "dates": "Halloween offer, Oct 23 2026; end not stated",
     "ends": "",
-    "link": "https://cliproxy.com/pricing/static-isp/",
+    "link": "https://cliproxy.com/",
     "link_type": "official",
     "last_checked": "2026-10-23"
   }
