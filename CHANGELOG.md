@@ -2,6 +2,15 @@
 
 Newest first. Every entry is dated and comes from the linked source.
 
+## 2026-10-23: quick check
+- **New (Unverified): Enconvo:** maker-side announcement via MacWorthy (same team, labelled "Our app") and IndieMarkdowns — 30% off lifetime licenses, code BLACKFRIDAY2026, Nov 23–30. Official enconvo.com pricing shows Standard $49 / Premium $99 with no Black Friday label yet; MacWorthy's struck $59/$119 list prices don't match the live page.
+- **Smooth Recorder:** regular list price on the official site is now $49 (was noted as $69). Early deal still $19 for the next 100 buyers.
+- **Wins:** official launch offer (code wins36, 40% off, first 100) still enabled, ends Oct 23, 2026. Claimed BF deal (BF26, Nov 20–Dec 12) remains Unverified.
+- **Re-confirmed unchanged on official pages:** Surfshark, NordVPN, ExpressVPN, Proton VPN, Private Internet Access, Hostinger, ElevenLabs, 1Password, CapCut, SpaceWise, Kavel; Pabbly Plus still announced for Nov 4.
+- **Still no promo:** X Premium, Typeless, Eden, Readwise Reader, Fitbod (Lifetime remains promo-only), CyberGhost (Halloween), TablePlus (disabled BLACK_FRIDAY_2026 banner), RackNerd, CleanShot X, Raycast Pro, Setapp, Notion, Mullvad, Folder Preview Pro.
+- **Not rechecked (blocked/empty):** Adobe, Perplexity, Canva, ChatGPT, Midjourney, Vultr, BandwagonHost, JetBrains, help.x.com.
+- **No verified new/better deals and no Live/Early price regressions.**
+
 ## 2026-10-22: full recheck
 - **New: Readwise Reader:** watching, no promo yet. Official pricing: Full (includes Reader) $9.99/mo billed yearly ($119.88/yr) or $12.99 monthly.
 - **New: Fitbod: Gym & Fitness Planner:** watching, no promo yet. Official help center: $15.99/mo or $95.99/yr (US); a Lifetime plan appears only during short promotions.
