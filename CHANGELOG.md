@@ -1,5 +1,14 @@
 # Changelog of price changes
 
+## 2026-10-24 (quick check)
+
+- **NEW Live:** Dreamina (CapCut AI) — US Basic first month $0.29 (98% off), then $15/mo; ends 2026-10-30
+- **NEW Live:** Skylum Luminar — official Black Friday up to 77% off (Desktop Only $99 / All Platforms $139 / Max $159)
+- **CHANGED (dates):** NordVPN official deal window Oct 21 – Dec 9 2026 (prices unchanged)
+- Wins launch offer end extended to Oct 31 2026 (still not BF; Unverified BF claim unchanged)
+- Rechecked priority VPN/VPS/AI/Mac watchlist; no price regressions on prior Live/Early rows
+
+
 Newest first. Every entry is dated and comes from the linked source.
 
 ## 2026-10-23 — Cliproxy Halloween
