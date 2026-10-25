@@ -1,5 +1,13 @@
 # Changelog of price changes
 
+## 2026-10-25 (quick check)
+
+- **NEW Live:** IPVanish — official BF 2-yr Essential $2.19/mo ($52.56), Complete $2.79/mo ($66.96), Advanced $3.29/mo ($78.96); end not stated
+- **NEW Live:** Picmal — official BF half price $14.50 (was $29) until Nov 30 2026
+- Rechecked priority VPN/VPS/AI/Mac + watchlist; no price regressions on prior Live/Early rows
+- Shotomatic 40% BF claim discarded (official still $39/$109, no sale)
+- Enconvo BF claim still Unverified (official pricing unchanged)
+
 ## 2026-10-24 (quick check)
 
 - **NEW Live:** Dreamina (CapCut AI) — US Basic first month $0.29 (98% off), then $15/mo; ends 2026-10-30

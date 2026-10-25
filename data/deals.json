@@ -7,7 +7,7 @@
     "dates": "Live since Oct 12",
     "link": "https://surfshark.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -18,7 +18,7 @@
     "dates": "Oct 21 – Dec 9 2026 (official FAQ)",
     "link": "https://nordvpn.com/black-friday/",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": "2026-12-09"
   },
   {
@@ -29,7 +29,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://www.expressvpn.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -40,7 +40,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://protonvpn.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -51,7 +51,7 @@
     "dates": "Halloween offer, Oct 2026; end not stated",
     "link": "https://www.privateinternetaccess.com/buy-vpn-online",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -62,7 +62,7 @@
     "dates": "Halloween offer; end not stated",
     "link": "https://www.cyberghostvpn.com/",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -73,8 +73,19 @@
     "dates": "—",
     "link": "https://mullvad.net/en/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
+  },
+  {
+    "category": "VPN",
+    "service": "IPVanish",
+    "status": "Live",
+    "deal": "Official Black Friday: 2-yr Essential $2.19/mo ($52.56 first 24 mo, was $359.76, save 85%); Complete $2.79/mo ($66.96, save 82%); Advanced $3.29/mo ($78.96, save 81%, includes 1TB cloud + Secure Browser). Yearly Essential $3.89/mo",
+    "dates": "BF live Oct 2026; end not stated (JS countdown)",
+    "ends": "",
+    "link": "https://www.ipvanish.com/black-friday/",
+    "link_type": "official",
+    "last_checked": "2026-10-25"
   },
   {
     "category": "VPS",
@@ -84,7 +95,7 @@
     "dates": "Oct 19 – Dec 14, 2026",
     "link": "https://www.hostinger.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": "2026-12-14"
   },
   {
@@ -95,7 +106,7 @@
     "dates": "—",
     "link": "https://www.racknerd.com/blackfriday",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -106,7 +117,7 @@
     "dates": "—",
     "link": "https://www.vpscpt.com/archives/2025-black-friday-vps-promotion-recommendations",
     "link_type": "report",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -139,7 +150,7 @@
     "dates": "—",
     "link": "https://www.dmit.io/pages/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -150,7 +161,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://elevenlabs.io/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -161,7 +172,7 @@
     "dates": "Oct 20 – Oct 30, 2026",
     "link": "https://www.capcut.com/tools/capcut-black-friday-sale",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": "2026-10-30"
   },
   {
@@ -173,7 +184,7 @@
     "ends": "2026-10-30",
     "link": "https://dreamina.capcut.com/ai-video/dreamina-october-offer-faq-2026",
     "link_type": "official",
-    "last_checked": "2026-10-24"
+    "last_checked": "2026-10-25"
   },
   {
     "category": "AI",
@@ -183,7 +194,7 @@
     "dates": "Oct 2026 to Dec 1",
     "link": "https://www.kavel.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": "2026-12-01"
   },
   {
@@ -194,7 +205,7 @@
     "dates": "—",
     "link": "https://cursor.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -227,7 +238,7 @@
     "dates": "—",
     "link": "https://www.typeless.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -238,7 +249,7 @@
     "dates": "—",
     "link": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -326,7 +337,7 @@
     "dates": "Oct 2026, limited quantity",
     "link": "https://www.smoothrecorder.com",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -337,7 +348,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://www.spacewisemac.in/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -359,7 +370,7 @@
     "dates": "Nov 27 – Dec 3, 2026 (claimed)",
     "link": "https://x.com/IndieMarkdowns/status/2112593838716182670",
     "link_type": "report",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -370,7 +381,7 @@
     "dates": "Nov 20 to Dec 12 (claimed)",
     "link": "https://x.com/IndieMarkdowns/status/2113043678726140304",
     "link_type": "report",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -392,7 +403,7 @@
     "dates": "—",
     "link": "https://cleanshot.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -414,7 +425,7 @@
     "dates": "—",
     "link": "https://www.reddit.com/r/raycastapp/comments/1p9r6u3/black_friday_30_off_on_raycast/",
     "link_type": "report",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -436,7 +447,7 @@
     "dates": "—",
     "link": "https://tableplus.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -491,7 +502,7 @@
     "dates": "—",
     "link": "https://setapp.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -503,7 +514,18 @@
     "ends": "",
     "link": "https://skylum.com/luminar/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24"
+    "last_checked": "2026-10-25"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Picmal",
+    "status": "Live",
+    "deal": "Official Black Friday: one-Mac license $14.50 instead of $29 (50% off). No code",
+    "dates": "Until Nov 30 2026",
+    "ends": "2026-11-30",
+    "link": "https://picmal.app/pricing",
+    "link_type": "official",
+    "last_checked": "2026-10-25"
   },
   {
     "category": "Mac/Dev",
@@ -535,7 +557,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://1password.com/pricing/password-manager",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -579,7 +601,7 @@
     "dates": "Goes live Nov 4",
     "link": "https://blackfriday.pabbly.com/",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -601,7 +623,7 @@
     "dates": "—",
     "link": "https://x.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -612,7 +634,7 @@
     "dates": "—",
     "link": "https://eden.so/pricing/",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -623,7 +645,7 @@
     "dates": "—",
     "link": "https://readwise.io/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -634,7 +656,7 @@
     "dates": "—",
     "link": "https://help.fitbod.me/hc/en-us/articles/360004904714-How-to-Subscribe-to-Fitbod",
     "link_type": "official",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -645,7 +667,7 @@
     "dates": "Nov 23 – Nov 30, 2026 (claimed)",
     "link": "https://macworthy.com/deals/black-friday/",
     "link_type": "report",
-    "last_checked": "2026-10-24",
+    "last_checked": "2026-10-25",
     "ends": ""
   },
   {
@@ -657,6 +679,6 @@
     "ends": "",
     "link": "https://cliproxy.com/",
     "link_type": "official",
-    "last_checked": "2026-10-24"
+    "last_checked": "2026-10-25"
   }
 ]
