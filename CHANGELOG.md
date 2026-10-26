@@ -1,5 +1,10 @@
 # Changelog of price changes
 
+## 2026-10-26 (growth review)
+
+- **NEW Live (community / maker issue #1):** Shotomatic — official pricing with code BF2026: lifetime 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). Link includes vendor discount_code (not affiliate). End date not stated. Verified on shotomatic.com/pricing this run; earlier checks without the code saw list price only.
+- First external contribution: thank + close after merge (w00ing)
+
 ## 2026-10-26 (full Monday check)
 
 - **NEW (announced / Not yet):** Univocal — official purchase page: Black Friday Nov 20–30 $15 with code BF2026 (was $39 lifetime, up to 3 Macs)

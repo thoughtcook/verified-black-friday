@@ -6,8 +6,8 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-63-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-17-brightgreen)](#-best-live-deals-right-now)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-64-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-18-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10--26-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
@@ -67,6 +67,7 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | **IPVanish** | Official Black Friday: 2-yr Essential $2.19/mo ($52.56 first 24 mo, was $359.76, save 85%); Complete $2.79/mo ($66.96, save 82%); Advanced $3.29/mo ($78.96, save 81%, includes 1TB cloud + Secure Browser). Yearly Essential $3.89/mo | BF live Oct 2026; end not stated (JS countdown) | not stated | 🟢 Live | [official](https://www.ipvanish.com/black-friday/) | 2026-10-26 |
 | **ElevenLabs** | Creator $11 first month, then $22/mo. Last year's (2025): Starter $1 first month | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://elevenlabs.io/pricing) | 2026-10-26 |
 | **Smooth Recorder** | $19 one-time instead of $49 (next 100 buyers; first 100 at $9 sold out) | Oct 2026, limited quantity | not stated | 🟢 Live | [official](https://www.smoothrecorder.com) | 2026-10-26 |
+| **Shotomatic** | 40% off lifetime with code BF2026: 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). One-time; subscriptions excluded; prices before tax | Live since Oct 18 2026 (maker); coupon has no stated end date | not stated | 🟢 Live | [official](https://www.shotomatic.com/pricing?discount_code=BF2026) | 2026-10-26 |
 | **SpaceWise** | Pro lifetime $3.99 instead of $7.99 (launch deal, 3 devices) | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://www.spacewisemac.in/pricing) | 2026-10-26 |
 | **Skylum Luminar** | Official Black Friday: Desktop Only $99 (was $417, 77% off); All Platforms $139 (was $477, 71% off); Max $159 (was $546, 71% off). One-time perpetual; AI tools renew after 365 days | Black Friday offer live Oct 2026 | not stated | 🟢 Live | [official](https://skylum.com/luminar/pricing) | 2026-10-26 |
 | **1Password** | New customers, first year, annual billing: Individual $2.99/mo (reg $3.99), Families $4.49/mo (reg $5.99). Not labelled Black Friday. Last year's (2025): 50% off annual | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://1password.com/pricing/password-manager) | 2026-10-26 |
@@ -145,6 +146,7 @@ Bundles built only from the verified live deals above.
 | Service | Deal | Dates | Ends | Status | Link | Checked |
 |---|---|---|---|---|---|---|
 | **Smooth Recorder** | $19 one-time instead of $49 (next 100 buyers; first 100 at $9 sold out) | Oct 2026, limited quantity | not stated | 🟢 Live | [official](https://www.smoothrecorder.com) | 2026-10-26 |
+| **Shotomatic** | 40% off lifetime with code BF2026: 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). One-time; subscriptions excluded; prices before tax | Live since Oct 18 2026 (maker); coupon has no stated end date | not stated | 🟢 Live | [official](https://www.shotomatic.com/pricing?discount_code=BF2026) | 2026-10-26 |
 | **SpaceWise** | Pro lifetime $3.99 instead of $7.99 (launch deal, 3 devices) | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://www.spacewisemac.in/pricing) | 2026-10-26 |
 | **Vitals** | Claimed AppSumo lifetime deal (founder's X post only). Not found on AppSumo search on Oct 21 or Oct 22 | Posted Oct 10, 2026 | not stated | 🟠 Unverified | [report](https://x.com/attacomsian/status/2108834703218561084) | 2026-10-22 |
 | **Folder Preview Pro** | A third-party post says 30% off with code BFF2026; the official page shows $9.99 with no sale yet | Nov 27 – Dec 3, 2026 (claimed) | not stated | 🟠 Unverified | [report](https://x.com/IndieMarkdowns/status/2112593838716182670) | 2026-10-26 |

@@ -342,6 +342,17 @@
   },
   {
     "category": "Mac/Dev",
+    "service": "Shotomatic",
+    "status": "Live",
+    "deal": "40% off lifetime with code BF2026: 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). One-time; subscriptions excluded; prices before tax",
+    "dates": "Live since Oct 18 2026 (maker); coupon has no stated end date",
+    "ends": "",
+    "link": "https://www.shotomatic.com/pricing?discount_code=BF2026",
+    "link_type": "official",
+    "last_checked": "2026-10-26"
+  },
+  {
+    "category": "Mac/Dev",
     "service": "SpaceWise",
     "status": "Live",
     "deal": "Pro lifetime $3.99 instead of $7.99 (launch deal, 3 devices)",
