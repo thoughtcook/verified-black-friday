@@ -1,5 +1,15 @@
 # Changelog of price changes
 
+## 2026-10-26 (full Monday check)
+
+- **NEW (announced / Not yet):** Univocal — official purchase page: Black Friday Nov 20–30 $15 with code BF2026 (was $39 lifetime, up to 3 Macs)
+- **Proton VPN:** partner-claimed 75%/$2.49 from Oct 26 still not on official BF page; remains Early at $2.99/mo 70% ($71.76/24 mo)
+- Rechecked priority VPN/VPS/AI/Mac + full Live/Early set; no price regressions on prior Live/Early rows
+- Hostinger taskpanel $2.37 claim not matched (official still from $2.49/mo); SVG path noise only
+- Shotomatic / C-Command / Lingon / Smultron / Atomic / FineVoice / PostCapture BF claims discarded or Unverified-not-added (no official live BF)
+- Wins launch offer still ends Oct 31 2026 (not BF); Enconvo / Folder Preview Pro still Unverified
+- Still no promo: X Premium, Typeless, Eden, Readwise, Fitbod Lifetime, DMIT, TablePlus (disabled BF2026 banner)
+
 ## 2026-10-25 (quick check)
 
 - **NEW Live:** IPVanish — official BF 2-yr Essential $2.19/mo ($52.56), Complete $2.79/mo ($66.96), Advanced $3.29/mo ($78.96); end not stated
