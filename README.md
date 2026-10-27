@@ -8,7 +8,7 @@
 
 [![Deals tracked](https://img.shields.io/badge/deals_tracked-64-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-18-brightgreen)](#-best-live-deals-right-now)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--10--26-informational)](CHANGELOG.md)
+[![Last checked](https://img.shields.io/badge/last_checked-2026--10--27-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
@@ -26,14 +26,14 @@
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
 
 ## 🏆 Top 5 picks
-_Savings are worked out only from prices shown on the linked official page (checked 2026-10-26)._
+_Savings are worked out only from prices shown on the linked official page (checked 2026-10-27)._
 
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
 | 1 | [Smooth Recorder](https://www.smoothrecorder.com) | $19 one-time | $30 off $49 (~61%) | Mac screen recorder, lifetime licence, limited to 100 buyers |
 | 2 | [Proton VPN](https://protonvpn.com/black-friday) | $2.99/mo (2-yr, $71.76 upfront) | 70% off (per Cybernews; the official page shows the $2.99/mo price) | Official Black Friday page is already live |
 | 3 | [Hostinger](https://www.hostinger.com/black-friday) | Hosting from $2.49/mo · VPS from $6.49/mo · .com $0.01 | Up to 80% off hosting | Ends Dec 14, 2026 |
-| 4 | [ElevenLabs](https://elevenlabs.io/pricing) | Creator $11 first month | 50% off month 1 (then $22/mo) | AI voice for videos and podcasts |
+| 4 | [ElevenLabs](https://elevenlabs.io/pricing) | Starter $1 first month (to Nov 1) / Creator $11 | 83% / 50% off month 1 | AI voice for videos and podcasts |
 | 5 | [SpaceWise](https://www.spacewisemac.in/pricing) | $3.99 lifetime | $4 off $7.99 (50%) | Clears Docker, Xcode and node_modules clutter on Mac and Windows |
 
 ## ⏰ Key dates
@@ -54,24 +54,24 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 
 | Service | Deal | Dates | Ends | Status | Link | Checked |
 |---|---|---|---|---|---|---|
-| **CapCut (Desktop)** | Up to 60% off first year of Pro (new/non-members); 40% off first year of Ultra (eligible members). Desktop app only; final price depends on account and region | Oct 20 – Oct 30, 2026 | 2026-10-30 | 🟢 Live | [official](https://www.capcut.com/tools/capcut-black-friday-sale) | 2026-10-26 |
-| **Dreamina (CapCut AI)** | US Basic first month $0.29 (98% off), then $15/mo (1,575 credits). Higher tiers 40–50% off intro; annual packages also discounted. Card/PayPal; prior 90%-off redeemers excluded | Oct 21 – Oct 30 2026 | 2026-10-30 | 🟢 Live | [official](https://dreamina.capcut.com/ai-video/dreamina-october-offer-faq-2026) | 2026-10-26 |
-| **Picmal** | Official Black Friday: one-Mac license $14.50 instead of $29 (50% off). No code | Until Nov 30 2026 | 2026-11-30 | 🟢 Live | [official](https://picmal.app/pricing) | 2026-10-26 |
-| **Kavel** | Early Black Friday: 2x credits on every new plan (first month on monthly, whole first year on yearly), normal price, no code | Oct 2026 to Dec 1 | 2026-12-01 | 🟢 Live | [official](https://www.kavel.ai/pricing) | 2026-10-26 |
-| **NordVPN** | Black Friday on the official page: 2-yr +3 mo Basic $3.49/mo ($94.23 first 27 mo), Complete $3.99/mo ($107.73), Prime $6.99/mo ($188.73). Last year's (2025): low $2.99/mo | Oct 21 – Dec 9 2026 (official FAQ) | 2026-12-09 | 🟢 Live | [official](https://nordvpn.com/black-friday/) | 2026-10-26 |
-| **Hostinger** | Hosting from $2.49/mo (48 mo), VPS from $6.49/mo, .com $0.01 1st yr | Oct 19 – Dec 14, 2026 | 2026-12-14 | 🟢 Live | [official](https://www.hostinger.com/black-friday) | 2026-10-26 |
-| **Surfshark** | 2-yr (27 mo) Starter or One $2.49/mo, $67.23 upfront (page labels One the Black Friday deal); One+ $3.99/mo ($107.73) | Live since Oct 12 | not stated | 🟢 Live | [official](https://surfshark.com/pricing) | 2026-10-26 |
-| **ExpressVPN** | 2-yr Basic $2.99/mo +4 mo ($83.72 upfront). Last year's (2025): $2.44/mo final week | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://www.expressvpn.com/pricing) | 2026-10-26 |
-| **Proton VPN** | 2-yr Plus $2.99/mo ($71.76 upfront, 70% off); Proton Unlimited $7.99/mo. Partner 75%/$2.49 claim not on official page | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://protonvpn.com/black-friday) | 2026-10-26 |
-| **Private Internet Access** | Halloween Price Slash: 3 yr + 3 mo $2.03/mo (renews $79 every 3 yrs); 2 yr + 2 mo $2.19/mo ($56.94). The earlier $34.58 offer is no longer shown | Halloween offer, Oct 2026; end not stated | not stated | 🟡 Early | [official](https://www.privateinternetaccess.com/buy-vpn-online) | 2026-10-26 |
-| **IPVanish** | Official Black Friday: 2-yr Essential $2.19/mo ($52.56 first 24 mo, was $359.76, save 85%); Complete $2.79/mo ($66.96, save 82%); Advanced $3.29/mo ($78.96, save 81%, includes 1TB cloud + Secure Browser). Yearly Essential $3.89/mo | BF live Oct 2026; end not stated (JS countdown) | not stated | 🟢 Live | [official](https://www.ipvanish.com/black-friday/) | 2026-10-26 |
-| **ElevenLabs** | Creator $11 first month, then $22/mo. Last year's (2025): Starter $1 first month | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://elevenlabs.io/pricing) | 2026-10-26 |
-| **Smooth Recorder** | $19 one-time instead of $49 (next 100 buyers; first 100 at $9 sold out) | Oct 2026, limited quantity | not stated | 🟢 Live | [official](https://www.smoothrecorder.com) | 2026-10-26 |
-| **Shotomatic** | 40% off lifetime with code BF2026: 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). One-time; subscriptions excluded; prices before tax | Live since Oct 18 2026 (maker); coupon has no stated end date | not stated | 🟢 Live | [official](https://www.shotomatic.com/pricing?discount_code=BF2026) | 2026-10-26 |
-| **SpaceWise** | Pro lifetime $3.99 instead of $7.99 (launch deal, 3 devices) | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://www.spacewisemac.in/pricing) | 2026-10-26 |
-| **Skylum Luminar** | Official Black Friday: Desktop Only $99 (was $417, 77% off); All Platforms $139 (was $477, 71% off); Max $159 (was $546, 71% off). One-time perpetual; AI tools renew after 365 days | Black Friday offer live Oct 2026 | not stated | 🟢 Live | [official](https://skylum.com/luminar/pricing) | 2026-10-26 |
-| **1Password** | New customers, first year, annual billing: Individual $2.99/mo (reg $3.99), Families $4.49/mo (reg $5.99). Not labelled Black Friday. Last year's (2025): 50% off annual | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://1password.com/pricing/password-manager) | 2026-10-26 |
-| **Cliproxy** | Happy Halloween on homepage: Dynamic from $0.58/GB, Long-term Static $3.00/month (−70% graphic). No BF label; end not stated. Dashboard login-walled | Halloween offer, Oct 23 2026; end not stated | not stated | 🟡 Early | [official](https://cliproxy.com/) | 2026-10-26 |
+| **CapCut (Desktop)** | Up to 60% off first year of Pro (new/non-members); 40% off first year of Ultra (eligible members). Desktop app only; final price depends on account and region | Oct 20 – Oct 30, 2026 | 2026-10-30 | 🟢 Live | [official](https://www.capcut.com/tools/capcut-black-friday-sale) | 2026-10-27 |
+| **Dreamina (CapCut AI)** | US Basic first month $0.29 (98% off), then $15/mo (1,575 credits). Higher tiers 40–50% off intro; annual packages also discounted. Card/PayPal; prior 90%-off redeemers excluded | Oct 21 – Oct 30 2026 | 2026-10-30 | 🟢 Live | [official](https://dreamina.capcut.com/ai-video/dreamina-october-offer-faq-2026) | 2026-10-27 |
+| **ElevenLabs** | Starter first month $1 (83% off, then $6/mo) Until Nov 1; Creator first month $11 (50% off, then $22/mo). Last year's (2025): Starter $1 first month at BF | Starter to Nov 1 2026; Creator end not stated | 2026-11-01 | 🟢 Live | [official](https://elevenlabs.io/pricing) | 2026-10-27 |
+| **Picmal** | Official Black Friday: one-Mac license $14.50 instead of $29 (50% off). No code | Until Nov 30 2026 | 2026-11-30 | 🟢 Live | [official](https://picmal.app/pricing) | 2026-10-27 |
+| **Kavel** | Early Black Friday: 2x credits on every new plan (first month on monthly, whole first year on yearly), normal price, no code | Oct 2026 to Dec 1 | 2026-12-01 | 🟢 Live | [official](https://www.kavel.ai/pricing) | 2026-10-27 |
+| **NordVPN** | Black Friday on the official page: 2-yr +3 mo Basic $3.49/mo ($94.23 first 27 mo), Complete $3.99/mo ($107.73), Prime $6.99/mo ($188.73). Last year's (2025): low $2.99/mo | Oct 21 – Dec 9 2026 (official FAQ) | 2026-12-09 | 🟢 Live | [official](https://nordvpn.com/black-friday/) | 2026-10-27 |
+| **Hostinger** | Hosting from $2.49/mo (48 mo), VPS from $6.49/mo, .com $0.01 1st yr | Oct 19 – Dec 14, 2026 | 2026-12-14 | 🟢 Live | [official](https://www.hostinger.com/black-friday) | 2026-10-27 |
+| **Surfshark** | 2-yr (27 mo) Starter or One $2.49/mo, $67.23 upfront (page labels One the Black Friday deal); One+ $3.99/mo ($107.73) | Live since Oct 12 | not stated | 🟢 Live | [official](https://surfshark.com/pricing) | 2026-10-27 |
+| **ExpressVPN** | 2-yr Basic $2.99/mo +4 mo ($83.72 upfront). Last year's (2025): $2.44/mo final week | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://www.expressvpn.com/pricing) | 2026-10-27 |
+| **Proton VPN** | 2-yr Plus $2.99/mo ($71.76 upfront, 70% off); Proton Unlimited $7.99/mo. Partner 75%/$2.49 claim not on official page | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://protonvpn.com/black-friday) | 2026-10-27 |
+| **Private Internet Access** | Halloween Price Slash: 3 yr + 3 mo $2.03/mo (renews $79 every 3 yrs); 2 yr + 2 mo $2.19/mo ($56.94). The earlier $34.58 offer is no longer shown | Halloween offer, Oct 2026; end not stated | not stated | 🟡 Early | [official](https://www.privateinternetaccess.com/buy-vpn-online) | 2026-10-27 |
+| **IPVanish** | Official Black Friday: 2-yr Essential $2.19/mo ($52.56 first 24 mo, was $359.76, save 85%); Complete $2.79/mo ($66.96, save 82%); Advanced $3.29/mo ($78.96, save 81%, includes 1TB cloud + Secure Browser). Yearly Essential $3.89/mo | BF live Oct 2026; end not stated (JS countdown) | not stated | 🟢 Live | [official](https://www.ipvanish.com/black-friday/) | 2026-10-27 |
+| **Smooth Recorder** | $19 one-time instead of $49 (next 100 buyers; first 100 at $9 sold out) | Oct 2026, limited quantity | not stated | 🟢 Live | [official](https://www.smoothrecorder.com) | 2026-10-27 |
+| **Shotomatic** | 40% off lifetime with code BF2026: 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). One-time; subscriptions excluded; prices before tax | Live since Oct 18 2026 (maker); coupon has no stated end date | not stated | 🟢 Live | [official](https://www.shotomatic.com/pricing?discount_code=BF2026) | 2026-10-27 |
+| **SpaceWise** | Pro lifetime $3.99 instead of $7.99 (launch deal, 3 devices) | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://www.spacewisemac.in/pricing) | 2026-10-27 |
+| **Skylum Luminar** | Official Black Friday: Desktop Only $99 (was $417, 77% off); All Platforms $139 (was $477, 71% off); Max $159 (was $546, 71% off). One-time perpetual; AI tools renew after 365 days | Black Friday offer live Oct 2026 | not stated | 🟢 Live | [official](https://skylum.com/luminar/pricing) | 2026-10-27 |
+| **1Password** | New customers, first year, annual billing: Individual $2.99/mo (reg $3.99), Families $4.49/mo (reg $5.99). Not labelled Black Friday. Last year's (2025): 50% off annual | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://1password.com/pricing/password-manager) | 2026-10-27 |
+| **Cliproxy** | Halloween/floating promo still on public site: Residential from $0.58/GB, Long-term Static $3.00/month; Save 70%. No Black Friday label. Dashboard login-walled. | Promo seen Oct 2026; end not stated | not stated | 🟡 Early | [official](https://cliproxy.com/) | 2026-10-27 |
 
 ## 🧱 Stack builders
 Bundles built only from the verified live deals above.
@@ -80,7 +80,7 @@ Bundles built only from the verified live deals above.
 |---|---|---|
 | 🚀 **Indie launch stack** | Hostinger web hosting + .com domain + business email | from $2.49/mo (48 mo) + $0.01 first year |
 | 🛰️ **Indie VPS stack** | Hostinger VPS + Proton VPN Plus | from $6.49/mo + $2.99/mo (2-yr) |
-| 🎙️ **AI creator stack** | ElevenLabs Creator + Smooth Recorder | $11 first month + $19 one-time |
+| 🎙️ **AI creator stack** | ElevenLabs Starter ($1 first mo to Nov 1) or Creator ($11) + Smooth Recorder | from $1 first month + $19 one-time |
 | 🍎 **Mac dev cleanup stack** | SpaceWise Pro + Smooth Recorder | $3.99 + $19 = $22.99 one-time |
 | 🔒 **Cheapest 2-yr privacy** | Private Internet Access or CyberGhost | $56.94 for 2 yr + 2 mo ($2.19/mo) |
 
@@ -101,73 +101,73 @@ Bundles built only from the verified live deals above.
 
 | Service | Deal | Dates | Ends | Status | Link | Checked |
 |---|---|---|---|---|---|---|
-| **ElevenLabs** | Creator $11 first month, then $22/mo. Last year's (2025): Starter $1 first month | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://elevenlabs.io/pricing) | 2026-10-26 |
-| **CapCut (Desktop)** | Up to 60% off first year of Pro (new/non-members); 40% off first year of Ultra (eligible members). Desktop app only; final price depends on account and region | Oct 20 – Oct 30, 2026 | 2026-10-30 | 🟢 Live | [official](https://www.capcut.com/tools/capcut-black-friday-sale) | 2026-10-26 |
-| **Dreamina (CapCut AI)** | US Basic first month $0.29 (98% off), then $15/mo (1,575 credits). Higher tiers 40–50% off intro; annual packages also discounted. Card/PayPal; prior 90%-off redeemers excluded | Oct 21 – Oct 30 2026 | 2026-10-30 | 🟢 Live | [official](https://dreamina.capcut.com/ai-video/dreamina-october-offer-faq-2026) | 2026-10-26 |
-| **Kavel** | Early Black Friday: 2x credits on every new plan (first month on monthly, whole first year on yearly), normal price, no code | Oct 2026 to Dec 1 | 2026-12-01 | 🟢 Live | [official](https://www.kavel.ai/pricing) | 2026-10-26 |
-| **Cursor** | Last year's (2025): 20% off annual Pro + $100 credit | — | not stated | ⚪ Not yet | [official](https://cursor.com/pricing) | 2026-10-26 |
+| **ElevenLabs** | Starter first month $1 (83% off, then $6/mo) Until Nov 1; Creator first month $11 (50% off, then $22/mo). Last year's (2025): Starter $1 first month at BF | Starter to Nov 1 2026; Creator end not stated | 2026-11-01 | 🟢 Live | [official](https://elevenlabs.io/pricing) | 2026-10-27 |
+| **CapCut (Desktop)** | Up to 60% off first year of Pro (new/non-members); 40% off first year of Ultra (eligible members). Desktop app only; final price depends on account and region | Oct 20 – Oct 30, 2026 | 2026-10-30 | 🟢 Live | [official](https://www.capcut.com/tools/capcut-black-friday-sale) | 2026-10-27 |
+| **Dreamina (CapCut AI)** | US Basic first month $0.29 (98% off), then $15/mo (1,575 credits). Higher tiers 40–50% off intro; annual packages also discounted. Card/PayPal; prior 90%-off redeemers excluded | Oct 21 – Oct 30 2026 | 2026-10-30 | 🟢 Live | [official](https://dreamina.capcut.com/ai-video/dreamina-october-offer-faq-2026) | 2026-10-27 |
+| **Kavel** | Early Black Friday: 2x credits on every new plan (first month on monthly, whole first year on yearly), normal price, no code | Oct 2026 to Dec 1 | 2026-12-01 | 🟢 Live | [official](https://www.kavel.ai/pricing) | 2026-10-27 |
+| **Cursor** | Last year's (2025): 20% off annual Pro + $100 credit | — | not stated | ⚪ Not yet | [official](https://cursor.com/pricing) | 2026-10-27 |
 | **Grok (SuperGrok)** | No promo shown; now part of The X Subscription (Premium $30/mo, Super $100/mo, Ultra $200/mo) | — | not stated | ⚪ Not yet | [official](https://x.ai/pricing) | 2026-10-26 |
 | **HeyGen** | No 2026 deal yet | — | not stated | ⚪ Not yet | [official](https://www.heygen.com/pricing) | 2026-10-26 |
-| **Typeless** | No promo; Pro $12/mo billed yearly or $30 monthly | — | not stated | ⚪ Not yet | [official](https://www.typeless.com/pricing) | 2026-10-26 |
-| **Midjourney** | No 2026 deal; standing 20% off annual (Standard $288/yr). Last year's (2025): 20% off annual Standard | — | not stated | ⚪ Not yet | [official](https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans) | 2026-10-25 |
+| **Typeless** | No promo; Pro $12/mo billed yearly or $30 monthly | — | not stated | ⚪ Not yet | [official](https://www.typeless.com/pricing) | 2026-10-27 |
+| **Midjourney** | No 2026 deal; standing 20% off annual (Standard $288/yr). Last year's (2025): 20% off annual Standard | — | not stated | ⚪ Not yet | [official](https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans) | 2026-10-27 |
 | **Jasper** | Last year's (2025): 40% off annual + 300k bonus words | — | not stated | ⚪ Not yet | [report](https://blog.imseankim.com/cyber-monday-2025-best-ai-tool-api-credit-deals/) | 2026-10-22 |
 | **Descript** | Last year's (2025): annual plans +1,000 AI credits, +10 media hours | — | not stated | ⚪ Not yet | [report](https://beebom.com/best-black-friday-deals-on-ai-tools-2025/) | 2026-10-22 |
 | **Perplexity** | Last year's (2025): Pro 50% off via PayPal | — | not stated | ⚪ Not yet | [report](https://jenlehner.com/blog-content/black-friday-2025) | 2026-10-21 |
 | **Grammarly** | Last year's (2025): ~50% off Pro annual | — | not stated | ⚪ Not yet | [report](https://prodfolks.substack.com/p/black-friday-for-pms) | 2026-10-22 |
-| **ChatGPT / Claude** | No discount found | — | not stated | ⚪ Not yet | — | 2026-10-22 |
+| **ChatGPT / Claude** | No discount found | — | not stated | ⚪ Not yet | — | 2026-10-27 |
 
 ### 🔒 VPN
 
 | Service | Deal | Dates | Ends | Status | Link | Checked |
 |---|---|---|---|---|---|---|
-| **Surfshark** | 2-yr (27 mo) Starter or One $2.49/mo, $67.23 upfront (page labels One the Black Friday deal); One+ $3.99/mo ($107.73) | Live since Oct 12 | not stated | 🟢 Live | [official](https://surfshark.com/pricing) | 2026-10-26 |
-| **NordVPN** | Black Friday on the official page: 2-yr +3 mo Basic $3.49/mo ($94.23 first 27 mo), Complete $3.99/mo ($107.73), Prime $6.99/mo ($188.73). Last year's (2025): low $2.99/mo | Oct 21 – Dec 9 2026 (official FAQ) | 2026-12-09 | 🟢 Live | [official](https://nordvpn.com/black-friday/) | 2026-10-26 |
-| **ExpressVPN** | 2-yr Basic $2.99/mo +4 mo ($83.72 upfront). Last year's (2025): $2.44/mo final week | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://www.expressvpn.com/pricing) | 2026-10-26 |
-| **Proton VPN** | 2-yr Plus $2.99/mo ($71.76 upfront, 70% off); Proton Unlimited $7.99/mo. Partner 75%/$2.49 claim not on official page | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://protonvpn.com/black-friday) | 2026-10-26 |
-| **Private Internet Access** | Halloween Price Slash: 3 yr + 3 mo $2.03/mo (renews $79 every 3 yrs); 2 yr + 2 mo $2.19/mo ($56.94). The earlier $34.58 offer is no longer shown | Halloween offer, Oct 2026; end not stated | not stated | 🟡 Early | [official](https://www.privateinternetaccess.com/buy-vpn-online) | 2026-10-26 |
-| **CyberGhost** | No Black Friday deal yet. Current Halloween offer: 2 yr + 2 mo $2.19/mo ($56.94 first 26 mo) | Halloween offer; end not stated | not stated | ⚪ Not yet | [official](https://www.cyberghostvpn.com/) | 2026-10-26 |
-| **Mullvad** | Flat €5/mo; no sales or lifetime plans | — | not stated | ⛔ Never discounts | [official](https://mullvad.net/en/pricing) | 2026-10-26 |
-| **IPVanish** | Official Black Friday: 2-yr Essential $2.19/mo ($52.56 first 24 mo, was $359.76, save 85%); Complete $2.79/mo ($66.96, save 82%); Advanced $3.29/mo ($78.96, save 81%, includes 1TB cloud + Secure Browser). Yearly Essential $3.89/mo | BF live Oct 2026; end not stated (JS countdown) | not stated | 🟢 Live | [official](https://www.ipvanish.com/black-friday/) | 2026-10-26 |
-| **Cliproxy** | Happy Halloween on homepage: Dynamic from $0.58/GB, Long-term Static $3.00/month (−70% graphic). No BF label; end not stated. Dashboard login-walled | Halloween offer, Oct 23 2026; end not stated | not stated | 🟡 Early | [official](https://cliproxy.com/) | 2026-10-26 |
+| **Surfshark** | 2-yr (27 mo) Starter or One $2.49/mo, $67.23 upfront (page labels One the Black Friday deal); One+ $3.99/mo ($107.73) | Live since Oct 12 | not stated | 🟢 Live | [official](https://surfshark.com/pricing) | 2026-10-27 |
+| **NordVPN** | Black Friday on the official page: 2-yr +3 mo Basic $3.49/mo ($94.23 first 27 mo), Complete $3.99/mo ($107.73), Prime $6.99/mo ($188.73). Last year's (2025): low $2.99/mo | Oct 21 – Dec 9 2026 (official FAQ) | 2026-12-09 | 🟢 Live | [official](https://nordvpn.com/black-friday/) | 2026-10-27 |
+| **ExpressVPN** | 2-yr Basic $2.99/mo +4 mo ($83.72 upfront). Last year's (2025): $2.44/mo final week | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://www.expressvpn.com/pricing) | 2026-10-27 |
+| **Proton VPN** | 2-yr Plus $2.99/mo ($71.76 upfront, 70% off); Proton Unlimited $7.99/mo. Partner 75%/$2.49 claim not on official page | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://protonvpn.com/black-friday) | 2026-10-27 |
+| **Private Internet Access** | Halloween Price Slash: 3 yr + 3 mo $2.03/mo (renews $79 every 3 yrs); 2 yr + 2 mo $2.19/mo ($56.94). The earlier $34.58 offer is no longer shown | Halloween offer, Oct 2026; end not stated | not stated | 🟡 Early | [official](https://www.privateinternetaccess.com/buy-vpn-online) | 2026-10-27 |
+| **CyberGhost** | No Black Friday deal yet. Current Halloween offer: 2 yr + 2 mo $2.19/mo ($56.94 first 26 mo) | Halloween offer; end not stated | not stated | ⚪ Not yet | [official](https://www.cyberghostvpn.com/) | 2026-10-27 |
+| **Mullvad** | Flat €5/mo; no sales or lifetime plans | — | not stated | ⛔ Never discounts | [official](https://mullvad.net/en/pricing) | 2026-10-27 |
+| **IPVanish** | Official Black Friday: 2-yr Essential $2.19/mo ($52.56 first 24 mo, was $359.76, save 85%); Complete $2.79/mo ($66.96, save 82%); Advanced $3.29/mo ($78.96, save 81%, includes 1TB cloud + Secure Browser). Yearly Essential $3.89/mo | BF live Oct 2026; end not stated (JS countdown) | not stated | 🟢 Live | [official](https://www.ipvanish.com/black-friday/) | 2026-10-27 |
+| **Cliproxy** | Halloween/floating promo still on public site: Residential from $0.58/GB, Long-term Static $3.00/month; Save 70%. No Black Friday label. Dashboard login-walled. | Promo seen Oct 2026; end not stated | not stated | 🟡 Early | [official](https://cliproxy.com/) | 2026-10-27 |
 
 ### 🖥️ Hosting & VPS
 
 | Service | Deal | Dates | Ends | Status | Link | Checked |
 |---|---|---|---|---|---|---|
-| **Hostinger** | Hosting from $2.49/mo (48 mo), VPS from $6.49/mo, .com $0.01 1st yr | Oct 19 – Dec 14, 2026 | 2026-12-14 | 🟢 Live | [official](https://www.hostinger.com/black-friday) | 2026-10-26 |
-| **RackNerd** | Today 1GB KVM $21.99/yr, 2GB $35.99/yr. Last year's (2025): 1GB $10.60/yr | — | not stated | ⚪ Not yet | [official](https://www.racknerd.com/blackfriday) | 2026-10-26 |
-| **BandwagonHost** | No live 2026 promo; 20G KVM $49.99/yr. Old BF codes only in HTML comments. Last year's (2025): ~19% off | — | not stated | ⚪ Not yet | [report](https://www.vpscpt.com/archives/2025-black-friday-vps-promotion-recommendations) | 2026-10-26 |
-| **Vultr** | Last year's (2025): VPS from $2.50/mo; up to $300 new-user credit | — | not stated | ⚪ Not yet | [report](https://www.idcspy.com/141215.html) | 2026-10-22 |
+| **Hostinger** | Hosting from $2.49/mo (48 mo), VPS from $6.49/mo, .com $0.01 1st yr | Oct 19 – Dec 14, 2026 | 2026-12-14 | 🟢 Live | [official](https://www.hostinger.com/black-friday) | 2026-10-27 |
+| **RackNerd** | Today 1GB KVM $21.99/yr, 2GB $35.99/yr. Last year's (2025): 1GB $10.60/yr | — | not stated | ⚪ Not yet | [official](https://www.racknerd.com/blackfriday) | 2026-10-27 |
+| **BandwagonHost** | No live 2026 promo; 20G KVM $49.99/yr. Old BF codes only in HTML comments. Last year's (2025): ~19% off | — | not stated | ⚪ Not yet | [report](https://www.vpscpt.com/archives/2025-black-friday-vps-promotion-recommendations) | 2026-10-27 |
+| **Vultr** | Last year's (2025): VPS from $2.50/mo; up to $300 new-user credit | — | not stated | ⚪ Not yet | [report](https://www.idcspy.com/141215.html) | 2026-10-27 |
 | **DigitalOcean / Linode / Hetzner** | No verified deal found | — | not stated | ⚪ Not yet | — | 2026-10-22 |
-| **DMIT** | List prices only on official pricing (e.g. LAX.AS3.T1 TINY $6.90/mo). No BF/promo banner. Last year's (2025): buy-two-get-one Pro + cashback (third-party/archived) | — | not stated | ⚪ Not yet | [official](https://www.dmit.io/pages/pricing) | 2026-10-26 |
+| **DMIT** | List prices only on official pricing (e.g. LAX.AS3.T1 TINY $6.90/mo). No BF/promo banner. Last year's (2025): buy-two-get-one Pro + cashback (third-party/archived) | — | not stated | ⚪ Not yet | [official](https://www.dmit.io/pages/pricing) | 2026-10-27 |
 
 ### 🍎 Mac & dev tools
 
 | Service | Deal | Dates | Ends | Status | Link | Checked |
 |---|---|---|---|---|---|---|
-| **Smooth Recorder** | $19 one-time instead of $49 (next 100 buyers; first 100 at $9 sold out) | Oct 2026, limited quantity | not stated | 🟢 Live | [official](https://www.smoothrecorder.com) | 2026-10-26 |
-| **Shotomatic** | 40% off lifetime with code BF2026: 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). One-time; subscriptions excluded; prices before tax | Live since Oct 18 2026 (maker); coupon has no stated end date | not stated | 🟢 Live | [official](https://www.shotomatic.com/pricing?discount_code=BF2026) | 2026-10-26 |
-| **SpaceWise** | Pro lifetime $3.99 instead of $7.99 (launch deal, 3 devices) | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://www.spacewisemac.in/pricing) | 2026-10-26 |
+| **Smooth Recorder** | $19 one-time instead of $49 (next 100 buyers; first 100 at $9 sold out) | Oct 2026, limited quantity | not stated | 🟢 Live | [official](https://www.smoothrecorder.com) | 2026-10-27 |
+| **Shotomatic** | 40% off lifetime with code BF2026: 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). One-time; subscriptions excluded; prices before tax | Live since Oct 18 2026 (maker); coupon has no stated end date | not stated | 🟢 Live | [official](https://www.shotomatic.com/pricing?discount_code=BF2026) | 2026-10-27 |
+| **SpaceWise** | Pro lifetime $3.99 instead of $7.99 (launch deal, 3 devices) | Oct 2026, end not stated | not stated | 🟢 Live | [official](https://www.spacewisemac.in/pricing) | 2026-10-27 |
 | **Vitals** | Claimed AppSumo lifetime deal (founder's X post only). Not found on AppSumo search on Oct 21 or Oct 22 | Posted Oct 10, 2026 | not stated | 🟠 Unverified | [report](https://x.com/attacomsian/status/2108834703218561084) | 2026-10-22 |
-| **Folder Preview Pro** | A third-party post says 30% off with code BFF2026; the official page shows $9.99 with no sale yet | Nov 27 – Dec 3, 2026 (claimed) | not stated | 🟠 Unverified | [report](https://x.com/IndieMarkdowns/status/2112593838716182670) | 2026-10-26 |
-| **Wins** | Third-party claim: 40% off code BF26 Nov 20–Dec 12. Official site: Wins 3.6 launch offer 40% code wins36 ends Oct 31 2026 (Single $11.99 / Pro $23.99 / X $29.99) — not BF | Claimed BF Nov 20–Dec 12; launch offer to Oct 31 2026 | not stated | 🟠 Unverified | [report](https://x.com/IndieMarkdowns/status/2113043678726140304) | 2026-10-26 |
+| **Folder Preview Pro** | A third-party post says 30% off with code BFF2026; the official page shows $9.99 with no sale yet | Nov 27 – Dec 3, 2026 (claimed) | not stated | 🟠 Unverified | [report](https://x.com/IndieMarkdowns/status/2112593838716182670) | 2026-10-27 |
+| **Wins** | Third-party claim: 40% off code BF26 Nov 20–Dec 12. Official site: Wins 3.6 launch offer 40% code wins36 ends Oct 31 2026 (Single $11.99 / Pro $23.99 / X $29.99) — not BF | Claimed BF Nov 20–Dec 12; launch offer to Oct 31 2026 | not stated | 🟠 Unverified | [report](https://x.com/IndieMarkdowns/status/2113043678726140304) | 2026-10-27 |
 | **Tailscale** | No 2026 deal yet | — | not stated | ⚪ Not yet | [official](https://tailscale.com/pricing) | 2026-10-26 |
-| **CleanShot X** | Last year's (2025): 30% off ($20.30); today Basic $35 one-time | — | not stated | ⚪ Not yet | [official](https://cleanshot.com/pricing) | 2026-10-26 |
+| **CleanShot X** | Last year's (2025): 30% off ($20.30); today Basic $35 one-time | — | not stated | ⚪ Not yet | [official](https://cleanshot.com/pricing) | 2026-10-27 |
 | **Unclutter BF Mac Apps Collection** | Last year's (2025): 12 Mac apps $76 (was $331) | — | not stated | ⚪ Not yet | [report](https://www.cultofmac.com/deals/best-black-friday-2025-mac-apps) | 2026-10-22 |
-| **Raycast Pro** | Last year's (2025): 30% off Pro; today $10/mo or $96/yr | — | not stated | ⚪ Not yet | [report](https://www.reddit.com/r/raycastapp/comments/1p9r6u3/black_friday_30_off_on_raycast/) | 2026-10-26 |
+| **Raycast Pro** | Last year's (2025): 30% off Pro; today $10/mo or $96/yr | — | not stated | ⚪ Not yet | [report](https://www.reddit.com/r/raycastapp/comments/1p9r6u3/black_friday_30_off_on_raycast/) | 2026-10-27 |
 | **Bartender 6** | Last year's (2025): 20% off | — | not stated | ⚪ Not yet | [report](https://9to5mac.com/2025/12/01/black-friday-cyber-monday-app-discounts-deal/) | 2026-10-26 |
-| **TablePlus** | Basic $99; Standard 2-seat $129 (from $198). Disabled BLACK_FRIDAY_2026 25% banner (enable=false) — not active. Last year's (2025): 25% code BLACK_FRIDAY_2025 | — | not stated | ⚪ Not yet | [official](https://tableplus.com/pricing) | 2026-10-26 |
+| **TablePlus** | Basic $99; Standard 2-seat $129 (from $198). Disabled BLACK_FRIDAY_2026 25% banner (enable=false) — not active. Last year's (2025): 25% code BLACK_FRIDAY_2025 | — | not stated | ⚪ Not yet | [official](https://tableplus.com/pricing) | 2026-10-27 |
 | **CleanMyMac** | Last year's (2025): 30% off Basic/Plus | — | not stated | ⚪ Not yet | [report](https://www.popsci.com/gear/cleanmymac-software-black-friday-deal/) | 2026-10-22 |
 | **Things 3** | Last year's (2025): 30% off (Mac $34.99) | — | not stated | ⚪ Not yet | [report](https://9to5mac.com/2025/12/01/black-friday-cyber-monday-app-discounts-deal/) | 2026-10-26 |
 | **Framer** | Last year's (2025): 50% off first year | — | not stated | ⚪ Not yet | [report](https://designerup.co/blog/the-absolute-best-black-friday-and-cyber-monday-deals-for-designers-2025-edition/) | 2026-10-26 |
 | **Paste** | Last year's (2025): $14.99 first year (was $29.99); today $29.99/yr | — | not stated | ⚪ Not yet | [report](https://allthings.how/the-most-useful-mac-and-ios-app-deals-for-black-friday-2025/) | 2026-10-26 |
-| **Setapp** | No verified deal; today Mac $14.99/mo | — | not stated | ⚪ Not yet | [official](https://setapp.com/pricing) | 2026-10-26 |
-| **Skylum Luminar** | Official Black Friday: Desktop Only $99 (was $417, 77% off); All Platforms $139 (was $477, 71% off); Max $159 (was $546, 71% off). One-time perpetual; AI tools renew after 365 days | Black Friday offer live Oct 2026 | not stated | 🟢 Live | [official](https://skylum.com/luminar/pricing) | 2026-10-26 |
-| **Picmal** | Official Black Friday: one-Mac license $14.50 instead of $29 (50% off). No code | Until Nov 30 2026 | 2026-11-30 | 🟢 Live | [official](https://picmal.app/pricing) | 2026-10-26 |
+| **Setapp** | No verified deal; today Mac $14.99/mo | — | not stated | ⚪ Not yet | [official](https://setapp.com/pricing) | 2026-10-27 |
+| **Skylum Luminar** | Official Black Friday: Desktop Only $99 (was $417, 77% off); All Platforms $139 (was $477, 71% off); Max $159 (was $546, 71% off). One-time perpetual; AI tools renew after 365 days | Black Friday offer live Oct 2026 | not stated | 🟢 Live | [official](https://skylum.com/luminar/pricing) | 2026-10-27 |
+| **Picmal** | Official Black Friday: one-Mac license $14.50 instead of $29 (50% off). No code | Until Nov 30 2026 | 2026-11-30 | 🟢 Live | [official](https://picmal.app/pricing) | 2026-10-27 |
 | **JetBrains** | No verified deal found | — | not stated | ⚪ Not yet | — | 2026-10-21 |
 | **Warp, Superhuman, Linear, Obsidian Sync, Fantastical, Arc/Dia, RapidAPI** | No official deal yet; avoid grey-market resales | — | not stated | ⚪ Not yet | — | 2026-10-22 |
-| **Enconvo** | Maker-side announcement (MacWorthy / IndieMarkdowns): 30% off lifetime licenses with code BLACKFRIDAY2026, Nov 23–30. Official enconvo.com pricing today shows Standard $49 / Premium $99 once with no Black Friday label yet (MacWorthy quoted older $59/$119 list prices) | Nov 23 – Nov 30, 2026 (claimed) | not stated | 🟠 Unverified | [report](https://macworthy.com/deals/black-friday/) | 2026-10-26 |
-| **Univocal** | Announced on official purchase page: Black Friday Nov 20–30 $15 with code BF2026 (was $39 lifetime, up to 3 Macs). Sale window not open yet | Nov 20 – Nov 30 2026 | 2026-11-30 | ⚪ Not yet | [official](https://univocalapp.com/purchase/) | 2026-10-26 |
+| **Enconvo** | Maker-side announcement (MacWorthy / IndieMarkdowns): 30% off lifetime licenses with code BLACKFRIDAY2026, Nov 23–30. Official enconvo.com pricing today shows Standard $49 / Premium $99 once with no Black Friday label yet (MacWorthy quoted older $59/$119 list prices) | Nov 23 – Nov 30, 2026 (claimed) | not stated | 🟠 Unverified | [report](https://macworthy.com/deals/black-friday/) | 2026-10-27 |
+| **Univocal** | Announced on official purchase page: Black Friday Nov 20–30 $15 with code BF2026 (was $39 lifetime, up to 3 Macs). Sale window not open yet | Nov 20 – Nov 30 2026 | 2026-11-30 | ⚪ Not yet | [official](https://univocalapp.com/purchase/) | 2026-10-27 |
 
 ### 🔍 SEO
 
@@ -180,13 +180,13 @@ Bundles built only from the verified live deals above.
 
 | Service | Deal | Dates | Ends | Status | Link | Checked |
 |---|---|---|---|---|---|---|
-| **1Password** | New customers, first year, annual billing: Individual $2.99/mo (reg $3.99), Families $4.49/mo (reg $5.99). Not labelled Black Friday. Last year's (2025): 50% off annual | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://1password.com/pricing/password-manager) | 2026-10-26 |
+| **1Password** | New customers, first year, annual billing: Individual $2.99/mo (reg $3.99), Families $4.49/mo (reg $5.99). Not labelled Black Friday. Last year's (2025): 50% off annual | Oct 2026, end not stated | not stated | 🟡 Early | [official](https://1password.com/pricing/password-manager) | 2026-10-27 |
 | **Adobe Creative Cloud Pro** | Last year's (2025): 50% off first year ($34.97/mo) | — | not stated | ⚪ Not yet | [report](https://www.macrumors.com/2025/11/19/adobe-black-friday-sale/) | 2026-10-21 |
 | **Notion** | Last year's (2025): 25% off Plus annual (unconfirmed) | — | not stated | ⚪ Not yet | [report](https://www.kickidler.com/info/top-black-friday-deals-for-saas) | 2026-10-26 |
 | **Canva Pro** | Last year's (2025): 30–50% off annual (unconfirmed) | — | not stated | ⚪ Not yet | [report](https://www.kickidler.com/info/top-black-friday-deals-for-saas) | 2026-10-21 |
-| **Pabbly Plus** | Announced: $799/yr instead of $1,428/yr (44% off), 100 seats; waitlist open until Nov 4 | Goes live Nov 4 | not stated | ⚪ Not yet | [official](https://blackfriday.pabbly.com/) | 2026-10-26 |
+| **Pabbly Plus** | Announced: $799/yr instead of $1,428/yr (44% off), 100 seats; waitlist open until Nov 4 | Goes live Nov 4 | not stated | ⚪ Not yet | [official](https://blackfriday.pabbly.com/) | 2026-10-27 |
 | **Spark Mail** | No 2026 deal yet; Plus $99/yr or $10/mo | — | not stated | ⚪ Not yet | [official](https://sparkmailapp.com/pricing) | 2026-10-26 |
-| **X Premium** | Official x.ai/pricing: Free $0, Plus $8, Premium $30, Super $100, Ultra $200 /mo; no BF monthly/annual discount | — | not stated | ⚪ Not yet | [official](https://x.ai/pricing) | 2026-10-26 |
+| **X Premium** | Official x.ai/pricing: Free $0, Plus $8, Premium $30, Super $100, Ultra $200 /mo; no BF monthly/annual discount | — | not stated | ⚪ Not yet | [official](https://x.ai/pricing) | 2026-10-27 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).

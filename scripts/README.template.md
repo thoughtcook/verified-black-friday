@@ -33,7 +33,7 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | 1 | [Smooth Recorder](https://www.smoothrecorder.com) | $19 one-time | $30 off $49 (~61%) | Mac screen recorder, lifetime licence, limited to 100 buyers |
 | 2 | [Proton VPN](https://protonvpn.com/black-friday) | $2.99/mo (2-yr, $71.76 upfront) | 70% off (per Cybernews; the official page shows the $2.99/mo price) | Official Black Friday page is already live |
 | 3 | [Hostinger](https://www.hostinger.com/black-friday) | Hosting from $2.49/mo · VPS from $6.49/mo · .com $0.01 | Up to 80% off hosting | Ends Dec 14, 2026 |
-| 4 | [ElevenLabs](https://elevenlabs.io/pricing) | Creator $11 first month | 50% off month 1 (then $22/mo) | AI voice for videos and podcasts |
+| 4 | [ElevenLabs](https://elevenlabs.io/pricing) | Starter $1 first month (to Nov 1) / Creator $11 | 83% / 50% off month 1 | AI voice for videos and podcasts |
 | 5 | [SpaceWise](https://www.spacewisemac.in/pricing) | $3.99 lifetime | $4 off $7.99 (50%) | Clears Docker, Xcode and node_modules clutter on Mac and Windows |
 
 ## ⏰ Key dates
@@ -60,7 +60,7 @@ Bundles built only from the verified live deals above.
 |---|---|---|
 | 🚀 **Indie launch stack** | Hostinger web hosting + .com domain + business email | from $2.49/mo (48 mo) + $0.01 first year |
 | 🛰️ **Indie VPS stack** | Hostinger VPS + Proton VPN Plus | from $6.49/mo + $2.99/mo (2-yr) |
-| 🎙️ **AI creator stack** | ElevenLabs Creator + Smooth Recorder | $11 first month + $19 one-time |
+| 🎙️ **AI creator stack** | ElevenLabs Starter ($1 first mo to Nov 1) or Creator ($11) + Smooth Recorder | from $1 first month + $19 one-time |
 | 🍎 **Mac dev cleanup stack** | SpaceWise Pro + Smooth Recorder | $3.99 + $19 = $22.99 one-time |
 | 🔒 **Cheapest 2-yr privacy** | Private Internet Access or CyberGhost | $56.94 for 2 yr + 2 mo ($2.19/mo) |
 

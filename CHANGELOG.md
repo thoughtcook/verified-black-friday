@@ -1,5 +1,11 @@
 # Changelog of price changes
 
+## 2026-10-27 (quick check)
+
+- **ElevenLabs (BETTER/clarified):** Official pricing now recorded with Starter first month **$1** (83% off, then $6/mo) labelled Until Nov 1, plus Creator first month $11 (50% off). Previously Starter $1 was only listed as last year's (2025) ref.
+- Rechecked priority VPN/VPS/AI/Mac/watchlist on official pages; no other price changes vs Oct 26.
+- CapCut Desktop + Dreamina still end **2026-10-30**.
+
 ## 2026-10-26 (growth review)
 
 - **NEW Live (community / maker issue #1):** Shotomatic — official pricing with code BF2026: lifetime 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). Link includes vendor discount_code (not affiliate). End date not stated. Verified on shotomatic.com/pricing this run; earlier checks without the code saw list price only.
