@@ -1,5 +1,13 @@
 # Changelog of price changes
 
+## 2026-10-28 (quick check)
+
+- **NEW Live:** Deepvue — official `/black-friday-2026`: Core + Journal **$490/yr** (was $990), rate locked while active; masterclasses bonus to Nov 12; $490 lock to **Dec 4 2026**.
+- Rechecked priority VPN/VPS/AI/Mac/watchlist on official pages; no price regressions vs Oct 27.
+- Proton still official **70%** (not partner-claimed 75%). CapCut Desktop + Dreamina still end **2026-10-30**. Wins launch offer still ends **2026-10-31**.
+- Still no promo: DMIT, Typeless, Eden, Readwise, Fitbod Lifetime (no Lifetime IAP on App Store), X Premium, TablePlus (disabled BF2026 banner).
+
+
 ## 2026-10-27 (quick check)
 
 - **ElevenLabs (BETTER/clarified):** Official pricing now recorded with Starter first month **$1** (83% off, then $6/mo) labelled Until Nov 1, plus Creator first month $11 (50% off). Previously Starter $1 was only listed as last year's (2025) ref.
