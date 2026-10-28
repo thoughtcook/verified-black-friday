@@ -14,7 +14,7 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/thoughtcook/verified-black-friday?style=social)](https://github.com/thoughtcook/verified-black-friday/stargazers)
 
-**[🌐 Browse & filter the deals](https://thoughtcook.github.io/verified-black-friday/)** · **[📦 JSON](data/deals.json)** · **[📄 CSV](data/deals.csv)** · **[➕ Submit a deal](../../issues/new?template=submit-deal.yml)**
+**[🌐 Browse & filter the deals](https://thoughtcook.github.io/verified-black-friday/)** · **[📦 JSON](data/deals.json)** · **[📄 CSV](data/deals.csv)** · **[➕ Submit a deal](https://github.com/thoughtcook/verified-black-friday/issues/new?template=submit-deal.yml)**
 
 </div>
 
@@ -93,7 +93,7 @@ Bundles built only from the verified live deals above.
 7. A weekly GitHub Action checks every link and validates the data schema.
 
 ## ❓ FAQ
-**Why isn't X on the list?** Either it has no 2026 deal yet or we couldn't verify one. [Suggest it](../../issues/new?template=submit-deal.yml) with an official link.
+**Why isn't X on the list?** Either it has no 2026 deal yet or we couldn't verify one. [Suggest it](https://github.com/thoughtcook/verified-black-friday/issues/new?template=submit-deal.yml) with an official link.
 **Do you earn money from this?** No. There are no affiliate links or sponsored placements.
 **Can I use the data?** Yes. It's CC0, so you can use it anywhere without asking or crediting us.
 **A price is wrong!** Open an issue with the official link and we'll fix it and log the change in [CHANGELOG.md](CHANGELOG.md).
@@ -101,7 +101,7 @@ Bundles built only from the verified live deals above.
 **Why do some rows show 2025 prices?** To show what to expect. They're always labelled "Last year's (2025)".
 
 ## 🤝 Contributing
-Use the [deal form](../../issues/new?template=submit-deal.yml) or open a PR. An **official vendor link is required**. Edit `data/deals.json`, then run `python3 scripts/build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Use the [deal form](https://github.com/thoughtcook/verified-black-friday/issues/new?template=submit-deal.yml) or open a PR. An **official vendor link is required**. Edit `data/deals.json`, then run `python3 scripts/build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Disclaimer
 Not affiliated with any vendor listed. Prices and terms change without notice, and regional prices and taxes vary, so always confirm on the vendor's site before you buy. There are no affiliate links. The data is CC0.
