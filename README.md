@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-67-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-81-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-20-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10--29-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -117,6 +117,14 @@ Bundles built only from the verified live deals above.
 | **Perplexity** | Last year's (2025): Pro 50% off via PayPal | — | not stated | ⚪ Not yet | [report](https://jenlehner.com/blog-content/black-friday-2025) | 2026-10-29 |
 | **Grammarly** | Last year's (2025): ~50% off Pro annual | — | not stated | ⚪ Not yet | [report](https://prodfolks.substack.com/p/black-friday-for-pms) | 2026-10-29 |
 | **ChatGPT / Claude** | No discount found | — | not stated | ⚪ Not yet | — | 2026-10-29 |
+| **Runway** | Official runway.com/pricing (Oct 29): no Black Friday label. Standing annual (~20%): Standard $12/mo (from $15), Pro $28 (from $35), Max $76 (from $95). Separate product promo: Kling 4.0 generations 25% off until Nov 30 — not BF-labelled | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://runway.com/pricing) | 2026-10-29 |
+| **Lovable** | Official lovable.dev/pricing + docs (Oct 29): no BF. Pro from $25/mo (100 credits; annual $250 = $21/mo); Business from $50/mo (100 credits; annual $500 = $42/mo). Student/teacher 50% off Pro 100-credit monthly (12 mo). Higher credit tiers on pricing page | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://lovable.dev/pricing) | 2026-10-29 |
+| **Wispr Flow** | Official wisprflow.ai/pricing (Oct 29): no BF label. Free $0; Pro $15/user/mo monthly or $12/user/mo annual (standing 20% annual). Student/edu 50% off Pro; non-profits discounted. Notetaker full access through Nov 30 (rollout note) — not BF-labelled | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://wisprflow.ai/pricing) | 2026-10-29 |
+| **Replit** | Official replit.com/pricing (Oct 29): no BF. Core $20/mo or $18/mo billed annually; Pro $100/mo or $90/mo billed annually; Enterprise custom. Standing annual strike-through only — not BF-labelled | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://replit.com/pricing) | 2026-10-29 |
+| **Google AI Pro** | Official one.google.com/about/google-ai-plans/ (Oct 29, US view): Google AI Plus $4.99/mo; AI Pro $19.99/mo; AI Ultra from $99.99/mo (5x) / $199.99/mo (20x). No Black Friday promo on page | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://one.google.com/about/google-ai-plans/) | 2026-10-29 |
+| **Gamma** | Official gamma.app/pricing (Oct 29): Cloudflare challenge blocked price cards this run — dollar amounts NOT re-verified. Plan tiers Free / Plus / Pro / Ultra / Business on official page. No BF promo confirmed | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://gamma.app/pricing) | 2026-10-29 |
+| **Higgsfield** | Official higgsfield.ai/pricing (Oct 29): page JS-renders prices; no BF text in HTML. Official blog (Oct 24 2026, prices verified on pricing page): Starter $15/mo (200 credits); Plus $49/mo (1,000); Ultra $129/mo (3,000); Team $79/seat; Scale $215/seat. No Black Friday label | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://higgsfield.ai/pricing) | 2026-10-29 |
+| **Manus** | Official manus.im/pricing (Oct 29 JS) + help center membership article: Free $0 (300 daily credits); Pro from $20/mo (4,000 credits) or $40/mo (8,000); Team from $20/seat/mo; annual ~17% off. No Black Friday label | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://manus.im/pricing) | 2026-10-29 |
 
 ### 🔒 VPN
 
@@ -143,6 +151,7 @@ Bundles built only from the verified live deals above.
 | **Vultr** | Last year's (2025): VPS from $2.50/mo; up to $300 new-user credit | — | not stated | ⚪ Not yet | [report](https://www.idcspy.com/141215.html) | 2026-10-29 |
 | **DigitalOcean / Linode / Hetzner** | No verified deal found | — | not stated | ⚪ Not yet | — | 2026-10-29 |
 | **DMIT** | Official homepage + /pages/pricing: list prices only, no BF/promo banner. Sample: LAX.AS3.T1 TINY $6.90/mo. Last year's (2025): BF buy-two-get-one Pro + spend cashback | — | not stated | ⚪ Not yet | [official](https://www.dmit.io/pages/pricing) | 2026-10-29 |
+| **Railway** | Official railway.com/pricing (Oct 29): Free Trial $5 one-time credit; Free $0 ($1/mo usage); Hobby $5/mo; Pro $20/mo workspace; Enterprise custom. Usage-based beyond included credits. No BF promo | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://railway.com/pricing) | 2026-10-29 |
 
 ### 🍎 Mac & dev tools
 
@@ -192,6 +201,10 @@ Bundles built only from the verified live deals above.
 | **Spark Mail** | No 2026 deal yet; Plus $99/yr or $10/mo | — | not stated | ⚪ Not yet | [official](https://sparkmailapp.com/pricing) | 2026-10-29 |
 | **X Premium** | Free $0, Plus $8/mo, Premium $30/mo, Super $100/mo, Ultra $200/mo; monthly only in page text; no monthly/annual discount, no BF. Volume 'Discounts at scale' only | — | not stated | ⚪ Not yet | [official](https://x.ai/pricing) | 2026-10-29 |
 | **Deepvue** | Official BF page: Core + Journal $490/yr (was $990), rate locked while active. Masterclasses bonus if join by Nov 12; $490 lock ends Dec 4 (then $990/yr) | Live; $490 lock to Dec 4 2026 | 2026-12-04 | 🟢 Live | [official](https://deepvue.com/black-friday-2026/) | 2026-10-29 |
+| **Supabase** | Official supabase.com/pricing (Oct 29): Free $0; Pro from $25/mo (incl. $10 compute credits); Team from $599/mo; Enterprise custom. No BF promo | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://supabase.com/pricing) | 2026-10-29 |
+| **n8n** | Official n8n.io/pricing (Oct 29): Cloud Starter 20€/mo billed annually; Pro 50€/mo billed annually; Business 667€/mo billed annually (self-hosted); Enterprise contact. Standing Startup plan: 50% off Business if <20 employees. No Black Friday label | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://n8n.io/pricing/) | 2026-10-29 |
+| **PostHog** | Official posthog.com/pricing (Oct 29): free forever tier (e.g. 1M analytics events/mo); pay-as-you-go above limits; annual/volume discounts via sales. No Black Friday promo | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://posthog.com/pricing) | 2026-10-29 |
+| **Gumloop** | Official gumloop.com/pricing (Oct 29): Pro starts at $37/mo after free 14-day trial (20,000 credits on Pro per page FAQ). Enterprise custom. No Black Friday promo | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://gumloop.com/pricing) | 2026-10-29 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).
