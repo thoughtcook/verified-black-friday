@@ -1,5 +1,9 @@
 # Changelog of price changes
 
+## 2026-10-30 (Lenny Newsletter watch)
+
+- **NEW Not yet:** Lenny's Newsletter — official [/subscribe](https://www.lennysnewsletter.com/subscribe) + [Product Pass](https://www.lennysproductpass.com/) (Oct 30): **no BF/CM 2026 promo**. Standing Annual **$200/yr**, Insider **$400/yr**; Substack nicknames **$20/mo** / **$200/yr**. Historical 2022 CM ~20% off annual gift only. Newsletter/product itself (Lenny-mentioned tools already separate rows).
+
 ## 2026-10-30 (quick check)
 
 - **NEW Live:** Sintra AI — official [pricing](https://sintra.ai/pricing) sale (not BF-labelled): 1-mo **$48.50/mo** (50% off $97); 3-mo **$23.60/mo** (60% off $59); 12-mo **$15.60/mo** (70% off $52); 250 credits/mo; 14-day MBG. Headline "The sale you've been waiting for". End not stated.

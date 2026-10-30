@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-83-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-84-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-21-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10--30-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
