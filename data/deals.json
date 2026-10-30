@@ -7,7 +7,7 @@
     "dates": "Live since Oct 12",
     "link": "https://surfshark.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -18,7 +18,7 @@
     "dates": "Oct 21 – Dec 9 2026 (official FAQ)",
     "link": "https://nordvpn.com/black-friday/",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": "2026-12-09"
   },
   {
@@ -29,18 +29,18 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://www.expressvpn.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
     "category": "VPN",
     "service": "Proton VPN",
     "status": "Early",
-    "deal": "2-yr Plus $2.99/mo ($71.76 upfront, 70% off); Proton Unlimited $7.99/mo. Partner 75%/$2.49 claim still not on official page (headline still up to -70% on Oct 29)",
+    "deal": "Official /pricing (Oct 30): 2-yr VPN Plus $3.49/mo (65% off, billed $83.76/24 mo) — prior JS-card $2.99/mo ($71.76) not seen this run. Unlimited $7.99/mo ($191.76/24 mo). /black-friday countdown teaser only; partner 75%/$2.49 still not on official page",
     "dates": "Oct 2026, end not stated",
-    "link": "https://protonvpn.com/black-friday",
+    "link": "https://protonvpn.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -51,7 +51,7 @@
     "dates": "Halloween offer, Oct 2026; end not stated",
     "link": "https://www.privateinternetaccess.com/buy-vpn-online",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -62,7 +62,7 @@
     "dates": "Halloween offer; end not stated",
     "link": "https://www.cyberghostvpn.com/",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -85,7 +85,7 @@
     "ends": "",
     "link": "https://www.ipvanish.com/black-friday/",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "VPN",
@@ -96,7 +96,7 @@
     "ends": "",
     "link": "https://www.purevpn.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "VPS",
@@ -106,7 +106,7 @@
     "dates": "Oct 19 – Dec 14, 2026",
     "link": "https://www.hostinger.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": "2026-12-14"
   },
   {
@@ -161,7 +161,7 @@
     "dates": "—",
     "link": "https://www.dmit.io/pages/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -172,30 +172,41 @@
     "dates": "Starter promo to Nov 1 2026; Creator end not stated",
     "link": "https://elevenlabs.io/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": "2026-11-01"
+  },
+  {
+    "category": "AI",
+    "service": "Sintra AI",
+    "status": "Live",
+    "deal": "Official pricing sale (not BF-labelled): 1-mo Save 50% $48.50/mo (was $97); 3-mo Save 60% $23.60/mo (was $59); 12-mo Save 70% $15.60/mo (was $52). 250 credits/mo; 14-day MBG. Headline \"The sale you've been waiting for\"",
+    "dates": "Live by Oct 30 2026; end not stated",
+    "link": "https://sintra.ai/pricing",
+    "link_type": "official",
+    "last_checked": "2026-10-30",
+    "ends": ""
   },
   {
     "category": "AI",
     "service": "CapCut (Desktop)",
     "status": "Live",
-    "deal": "Up to 60% off first year of Pro (new/non-members), 40% off first year of Ultra (eligible). CapCut Desktop only",
+    "deal": "Still up to 60% off first year of Pro (new/non-members), 40% off first year of Ultra (eligible). CapCut Desktop only — ENDS TODAY (Oct 30)",
     "dates": "Oct 20–30 2026",
     "link": "https://www.capcut.com/tools/capcut-black-friday-sale",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": "2026-10-30"
   },
   {
     "category": "AI",
     "service": "Dreamina (CapCut AI)",
     "status": "Live",
-    "deal": "US Basic first month $0.29 (98% off), then $15/mo; 1,575 credits/mo. Higher tiers 40–50% off intro (region-dependent). Separate from CapCut Desktop BF",
-    "dates": "Oct 21 – Oct 30 2026",
+    "deal": "US Basic first month $0.29 (98% off) then $15/mo; membership campaign Oct 21–30 — ENDS TODAY. Separate credit/plan discounts Oct 27–Nov 6 may continue after membership intro ends",
+    "dates": "Oct 21–30 2026 ($0.29 intro); credit/plan discounts to Nov 6",
     "ends": "2026-10-30",
     "link": "https://dreamina.capcut.com/ai-video/dreamina-october-offer-faq-2026",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "AI",
@@ -205,7 +216,7 @@
     "dates": "Live Oct 2026 – Dec 1 2026",
     "link": "https://www.kavel.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": "2026-12-01"
   },
   {
@@ -227,7 +238,7 @@
     "dates": "—",
     "link": "https://x.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -249,7 +260,7 @@
     "dates": "—",
     "link": "https://www.typeless.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -348,7 +359,7 @@
     "dates": "Oct 2026, limited quantity",
     "link": "https://www.smoothrecorder.com",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -360,7 +371,7 @@
     "ends": "",
     "link": "https://www.shotomatic.com/pricing?discount_code=BF2026",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "Mac/Dev",
@@ -370,7 +381,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://www.spacewisemac.in/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -392,18 +403,18 @@
     "dates": "Nov 27 – Dec 3, 2026 (claimed)",
     "link": "https://x.com/IndieMarkdowns/status/2112593838716182670",
     "link_type": "report",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
     "category": "Mac/Dev",
     "service": "Wins",
     "status": "Unverified",
-    "deal": "X claim of BF code BF26 Nov 20–Dec 12 still Unverified. Official: Wins 3.6 launch offer 40% off code wins36, first 100, ENDS Oct 31 2026. Single $19.99→$11.99, Pro $39.99→$23.99, X $49.99→$29.99",
+    "deal": "X claim of BF code BF26 Nov 20–Dec 12 still Unverified. Official wins.cool: Wins 3.6 launch offer 40% off code wins36, first 100, ENDS Oct 31 2026 (tomorrow). Single $19.99→$11.99, Pro $39.99→$23.99, X $49.99→$29.99",
     "dates": "Launch offer to Oct 31 2026; claimed BF Nov 20–Dec 12",
-    "link": "https://x.com/IndieMarkdowns/status/2113043678726140304",
-    "link_type": "report",
-    "last_checked": "2026-10-29",
+    "link": "https://wins.cool",
+    "link_type": "official",
+    "last_checked": "2026-10-30",
     "ends": "2026-10-31"
   },
   {
@@ -425,7 +436,7 @@
     "dates": "—",
     "link": "https://cleanshot.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -469,7 +480,7 @@
     "dates": "—",
     "link": "https://tableplus.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -524,7 +535,7 @@
     "dates": "—",
     "link": "https://setapp.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -536,18 +547,18 @@
     "ends": "",
     "link": "https://skylum.com/luminar/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "Mac/Dev",
     "service": "Picmal",
     "status": "Not yet",
-    "deal": "Announced on official page (script): Black Friday half price $14.50 (was $29) with code BLACKFRIDAY, Nov 23 – Dec 1 2026. Marketing banner still says 'Until 30 November' but checkout promo window starts Nov 23 — NOT active Oct 29",
+    "deal": "Announced on official page (script): Black Friday half price $14.50 (was $29) with code BLACKFRIDAY, Nov 23 – Dec 1 2026. Marketing banner still says 'Until 30 November' but checkout promo window starts Nov 23 — NOT active Oct 30",
     "dates": "Goes live Nov 23 – Dec 1 2026",
     "ends": "2026-12-01",
     "link": "https://picmal.app/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "Mac/Dev",
@@ -579,7 +590,7 @@
     "dates": "Oct 2026, end not stated",
     "link": "https://1password.com/pricing/password-manager",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -591,7 +602,7 @@
     "ends": "2026-12-09",
     "link": "https://nordpass.com/black-friday/",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "SaaS",
@@ -634,7 +645,7 @@
     "dates": "Goes live Nov 4",
     "link": "https://blackfriday.pabbly.com/",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -656,7 +667,7 @@
     "dates": "—",
     "link": "https://x.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -667,7 +678,7 @@
     "dates": "—",
     "link": "https://eden.so/pricing/",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -678,7 +689,7 @@
     "dates": "—",
     "link": "https://readwise.io/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -689,7 +700,7 @@
     "dates": "—",
     "link": "https://help.fitbod.me/hc/en-us/articles/360004904714-How-to-Subscribe-to-Fitbod",
     "link_type": "official",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -700,7 +711,18 @@
     "dates": "Nov 23 – Nov 30, 2026 (claimed)",
     "link": "https://macworthy.com/deals/black-friday/",
     "link_type": "report",
-    "last_checked": "2026-10-29",
+    "last_checked": "2026-10-30",
+    "ends": ""
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "DevUtils",
+    "status": "Unverified",
+    "deal": "Maker/IndieMarkdowns claim 50% off all plans for BF 2026. Official pricing (Oct 30) still Basic $29 / Personal $39 perpetual — no discount visible yet",
+    "dates": "BF 2026 (claimed; not on official pricing yet)",
+    "link": "https://devutils.com/pricing/",
+    "link_type": "official",
+    "last_checked": "2026-10-30",
     "ends": ""
   },
   {
@@ -712,7 +734,7 @@
     "ends": "",
     "link": "https://cliproxy.com/",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "Mac/Dev",
@@ -723,7 +745,7 @@
     "ends": "2026-11-30",
     "link": "https://univocalapp.com/purchase/",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "SaaS",
@@ -734,160 +756,160 @@
     "ends": "2026-12-04",
     "link": "https://deepvue.com/black-friday-2026/",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "AI",
     "service": "Runway",
     "status": "Not yet",
-    "deal": "Official runway.com/pricing (Oct 29): no Black Friday label. Standing annual (~20%): Standard $12/mo (from $15), Pro $28 (from $35), Max $76 (from $95). Separate product promo: Kling 4.0 generations 25% off until Nov 30 — not BF-labelled",
+    "deal": "Official runway.com/pricing (Oct 30): no Black Friday label. Standing annual (~20%): Standard $12/mo (from $15), Pro $28 (from $35), Max $76 (from $95). Separate product promo: Kling 4.0 generations 25% off until Nov 30 — not BF-labelled",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://runway.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "AI",
     "service": "Lovable",
     "status": "Not yet",
-    "deal": "Official lovable.dev/pricing + docs (Oct 29): no BF. Pro from $25/mo (100 credits; annual $250 = $21/mo); Business from $50/mo (100 credits; annual $500 = $42/mo). Student/teacher 50% off Pro 100-credit monthly (12 mo). Higher credit tiers on pricing page",
+    "deal": "Official lovable.dev/pricing + docs (Oct 30): no BF. Pro from $25/mo (100 credits; annual $250 = $21/mo); Business from $50/mo (100 credits; annual $500 = $42/mo). Student/teacher 50% off Pro 100-credit monthly (12 mo). Higher credit tiers on pricing page",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://lovable.dev/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "Productivity",
     "service": "Granola",
     "status": "Not yet",
-    "deal": "Official granola.ai/pricing (Oct 29): Basic $0; Business $14/user/mo; Enterprise $35/user/mo. No BF promo",
+    "deal": "Official granola.ai/pricing (Oct 30): Basic $0; Business $14/user/mo; Enterprise $35/user/mo. No BF promo",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://www.granola.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "AI",
     "service": "Wispr Flow",
     "status": "Not yet",
-    "deal": "Official wisprflow.ai/pricing (Oct 29): no BF label. Free $0; Pro $15/user/mo monthly or $12/user/mo annual (standing 20% annual). Student/edu 50% off Pro; non-profits discounted. Notetaker full access through Nov 30 (rollout note) — not BF-labelled",
+    "deal": "Official wisprflow.ai/pricing (Oct 30): no BF label. Free $0; Pro $15/user/mo monthly or $12/user/mo annual (standing 20% annual). Student/edu 50% off Pro; non-profits discounted. Notetaker full access through Nov 30 (rollout note) — not BF-labelled",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://wisprflow.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "SaaS",
     "service": "Supabase",
     "status": "Not yet",
-    "deal": "Official supabase.com/pricing (Oct 29): Free $0; Pro from $25/mo (incl. $10 compute credits); Team from $599/mo; Enterprise custom. No BF promo",
+    "deal": "Official supabase.com/pricing (Oct 30): Free $0; Pro from $25/mo (incl. $10 compute credits); Team from $599/mo; Enterprise custom. No BF promo",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://supabase.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "VPS",
     "service": "Railway",
     "status": "Not yet",
-    "deal": "Official railway.com/pricing (Oct 29): Free Trial $5 one-time credit; Free $0 ($1/mo usage); Hobby $5/mo; Pro $20/mo workspace; Enterprise custom. Usage-based beyond included credits. No BF promo",
+    "deal": "Official railway.com/pricing (Oct 30): Free Trial $5 one-time credit; Free $0 ($1/mo usage); Hobby $5/mo; Pro $20/mo workspace; Enterprise custom. Usage-based beyond included credits. No BF promo",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://railway.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "SaaS",
     "service": "n8n",
     "status": "Not yet",
-    "deal": "Official n8n.io/pricing (Oct 29): Cloud Starter 20€/mo billed annually; Pro 50€/mo billed annually; Business 667€/mo billed annually (self-hosted); Enterprise contact. Standing Startup plan: 50% off Business if <20 employees. No Black Friday label",
+    "deal": "Official n8n.io/pricing (Oct 30): Cloud Starter 20€/mo billed annually; Pro 50€/mo billed annually; Business 667€/mo billed annually (self-hosted); Enterprise contact. Standing Startup plan: 50% off Business if <20 employees. No Black Friday label",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://n8n.io/pricing/",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "AI",
     "service": "Replit",
     "status": "Not yet",
-    "deal": "Official replit.com/pricing (Oct 29): no BF. Core $20/mo or $18/mo billed annually; Pro $100/mo or $90/mo billed annually; Enterprise custom. Standing annual strike-through only — not BF-labelled",
+    "deal": "Official replit.com/pricing (Oct 30): no BF. Core $20/mo or $18/mo billed annually; Pro $100/mo or $90/mo billed annually; Enterprise custom. Standing annual strike-through only — not BF-labelled",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://replit.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "AI",
     "service": "Google AI Pro",
     "status": "Not yet",
-    "deal": "Official one.google.com/about/google-ai-plans/ (Oct 29, US view): Google AI Plus $4.99/mo; AI Pro $19.99/mo; AI Ultra from $99.99/mo (5x) / $199.99/mo (20x). No Black Friday promo on page",
+    "deal": "Official one.google.com/about/google-ai-plans/ (Oct 30, US view): Google AI Plus $4.99/mo; AI Pro $19.99/mo; AI Ultra from $99.99/mo (5x) / $199.99/mo (20x). No Black Friday promo on page",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://one.google.com/about/google-ai-plans/",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "AI",
     "service": "Gamma",
     "status": "Not yet",
-    "deal": "Official gamma.app/pricing (Oct 29): Cloudflare challenge blocked price cards this run — dollar amounts NOT re-verified. Plan tiers Free / Plus / Pro / Ultra / Business on official page. No BF promo confirmed",
+    "deal": "Official gamma.app/pricing (Oct 30): Cloudflare challenge blocked price cards this run — dollar amounts NOT re-verified. Plan tiers Free / Plus / Pro / Ultra / Business on official page. No BF promo confirmed",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://gamma.app/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "AI",
     "service": "Higgsfield",
     "status": "Not yet",
-    "deal": "Official higgsfield.ai/pricing (Oct 29): page JS-renders prices; no BF text in HTML. Official blog (Oct 24 2026, prices verified on pricing page): Starter $15/mo (200 credits); Plus $49/mo (1,000); Ultra $129/mo (3,000); Team $79/seat; Scale $215/seat. No Black Friday label",
+    "deal": "Official higgsfield.ai/pricing (Oct 30): page JS-renders prices; no BF text in HTML. Official blog (Oct 24 2026, prices verified on pricing page): Starter $15/mo (200 credits); Plus $49/mo (1,000); Ultra $129/mo (3,000); Team $79/seat; Scale $215/seat. No Black Friday label",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://higgsfield.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "SaaS",
     "service": "PostHog",
     "status": "Not yet",
-    "deal": "Official posthog.com/pricing (Oct 29): free forever tier (e.g. 1M analytics events/mo); pay-as-you-go above limits; annual/volume discounts via sales. No Black Friday promo",
+    "deal": "Official posthog.com/pricing (Oct 30): free forever tier (e.g. 1M analytics events/mo); pay-as-you-go above limits; annual/volume discounts via sales. No Black Friday promo",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://posthog.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "AI",
     "service": "Manus",
     "status": "Not yet",
-    "deal": "Official manus.im/pricing (Oct 29 JS) + help center membership article: Free $0 (300 daily credits); Pro from $20/mo (4,000 credits) or $40/mo (8,000); Team from $20/seat/mo; annual ~17% off. No Black Friday label",
+    "deal": "Official manus.im/pricing (Oct 30 JS) + help center membership article: Free $0 (300 daily credits); Pro from $20/mo (4,000 credits) or $40/mo (8,000); Team from $20/seat/mo; annual ~17% off. No Black Friday label",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://manus.im/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   },
   {
     "category": "SaaS",
     "service": "Gumloop",
     "status": "Not yet",
-    "deal": "Official gumloop.com/pricing (Oct 29): Pro starts at $37/mo after free 14-day trial (20,000 credits on Pro per page FAQ). Enterprise custom. No Black Friday promo",
+    "deal": "Official gumloop.com/pricing (Oct 30): Pro starts at $37/mo after free 14-day trial (20,000 credits on Pro per page FAQ). Enterprise custom. No Black Friday promo",
     "dates": "Check Nov 3 / 16 / 24",
     "ends": "",
     "link": "https://gumloop.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-10-29"
+    "last_checked": "2026-10-30"
   }
 ]

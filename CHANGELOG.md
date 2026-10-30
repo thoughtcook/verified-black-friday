@@ -1,5 +1,15 @@
 # Changelog of price changes
 
+## 2026-10-30 (quick check)
+
+- **NEW Live:** Sintra AI — official [pricing](https://sintra.ai/pricing) sale (not BF-labelled): 1-mo **$48.50/mo** (50% off $97); 3-mo **$23.60/mo** (60% off $59); 12-mo **$15.60/mo** (70% off $52); 250 credits/mo; 14-day MBG. Headline "The sale you've been waiting for". End not stated.
+- **WORSE:** Proton VPN — official `/pricing` now 2-yr Plus **$3.49/mo** (65%, $83.76/24 mo); prior JS-card $2.99/$71.76 not seen. Unlimited still $7.99/mo. `/black-friday` countdown only; partner 75% still not official.
+- **CapCut Desktop + Dreamina:** still Live; membership/$0.29 intro **ENDS TODAY (Oct 30)**. Dreamina separate credit/plan discounts may continue Oct 27–Nov 6.
+- **NEW Unverified:** DevUtils — maker claim 50% BF; official pricing still Basic $29 / Personal $39 with no discount yet.
+- **Wins:** launch offer wins36 still ends **Oct 31**; claimed BF BF26 remains Unverified.
+- Rechecked priority LIVE/EARLY + always-watch; no other price changes.
+- Still no promo: DMIT, Eden, Readwise, Fitbod Lifetime, Typeless, X Premium/Grok, CyberGhost (Halloween), TablePlus (disabled banner), Picmal (script Nov 23–Dec 1), Pabbly (Nov 4), CleanShot, Setapp, Univocal, PH/Lenny watches.
+
 ## 2026-10-28 (quick check)
 
 - **NEW Live:** Deepvue — official `/black-friday-2026`: Core + Journal **$490/yr** (was $990), rate locked while active; masterclasses bonus to Nov 12; $490 lock to **Dec 4 2026**.
