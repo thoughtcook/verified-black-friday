@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-84-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-85-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-21-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10--30-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -127,6 +127,7 @@ Bundles built only from the verified live deals above.
 | **Gamma** | Official gamma.app/pricing (Oct 30): Cloudflare challenge blocked price cards this run — dollar amounts NOT re-verified. Plan tiers Free / Plus / Pro / Ultra / Business on official page. No BF promo confirmed | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://gamma.app/pricing) | 2026-10-30 |
 | **Higgsfield** | Official higgsfield.ai/pricing (Oct 30): page JS-renders prices; no BF text in HTML. Official blog (Oct 24 2026, prices verified on pricing page): Starter $15/mo (200 credits); Plus $49/mo (1,000); Ultra $129/mo (3,000); Team $79/seat; Scale $215/seat. No Black Friday label | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://higgsfield.ai/pricing) | 2026-10-30 |
 | **Manus** | Official manus.im/pricing (Oct 30 JS) + help center membership article: Free $0 (300 daily credits); Pro from $20/mo (4,000 credits) or $40/mo (8,000); Team from $20/seat/mo; annual ~17% off. No Black Friday label | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://manus.im/pricing) | 2026-10-30 |
+| **Factory AI** | Official factory.ai/pricing + factory.com/pricing + docs.factory.com/pricing/individuals (Oct 30): no BF/CM 2026 label. Standing Pro $20/mo, Plus $100/mo, Max $200/mo; Teams $60/mo + $40/seat; Business/Enterprise custom. Historical only (not plan BF): Aug 2026 ~60% off OpenAI/Grok model usage until Sep 4 2026 7pm PT — ended. | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://factory.ai/pricing) | 2026-10-30 |
 
 ### 🔒 VPN
 

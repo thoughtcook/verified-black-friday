@@ -1,5 +1,9 @@
 # Changelog of price changes
 
+## 2026-10-30 (Factory AI watch)
+
+- **NEW Not yet:** Factory AI (Droids) — official [/pricing](https://factory.ai/pricing) (= factory.com/pricing) + [docs individuals](https://docs.factory.com/pricing/individuals) (Oct 30): **no BF/CM 2026 promo**. Standing **Pro $20/mo**, **Plus $100/mo**, **Max $200/mo**; **Teams $60/mo + $40/seat**; Business/Enterprise custom. Historical only: Aug 2026 ~60% off OpenAI/Grok **model usage** until Sep 4 2026 7pm PT (not a plan BF sale; ended).
+
 ## 2026-10-30 (Lenny Newsletter watch)
 
 - **NEW Not yet:** Lenny's Newsletter — official [/subscribe](https://www.lennysnewsletter.com/subscribe) + [Product Pass](https://www.lennysproductpass.com/) (Oct 30): **no BF/CM 2026 promo**. Standing Annual **$200/yr**, Insider **$400/yr**; Substack nicknames **$20/mo** / **$200/yr**. Historical 2022 CM ~20% off annual gift only. Newsletter/product itself (Lenny-mentioned tools already separate rows).
