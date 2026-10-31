@@ -944,5 +944,27 @@
     "link": "https://creatune.ai/black-friday",
     "link_type": "official",
     "last_checked": "2026-10-31"
+  },
+  {
+    "category": "SaaS",
+    "service": "AdBlock Premium",
+    "status": "Not yet",
+    "deal": "Official getadblock.com/en/premium + /en/video-plus (Oct 31): no Black Friday/Cyber Monday 2026 label; /black-friday → 404. Standing Premium $4/mo or $40/yr (annual BEST VALUE SAVE 16%). 7-day trial on video-plus; 60-day money-back. Includes enhanced YouTube blocking, AdBlock VPN, cookie/distraction controls. Historical only (2023 blog, not 2026): Nov 24–Dec 3 2023 Premium+VPN yearly 50% off ($20, code SAVE50).",
+    "dates": "Check Nov 3 / 16 / 24",
+    "ends": "",
+    "link": "https://getadblock.com/en/premium/",
+    "link_type": "official",
+    "last_checked": "2026-10-31"
+  },
+  {
+    "category": "SaaS",
+    "service": "AdGuard",
+    "status": "Early",
+    "deal": "Official license page titled Halloween sale + blog/halloween2026 (Oct 31): NOT Black Friday-labelled. Ad Blocker: Personal 1-yr $17.93 (was $29.88, 40% off); Family 1-yr $39.53 (40% off promo; renews $65.88/yr); Personal lifetime $55.99 (was $79.99, 30%); Family lifetime $118.99 (was $239.97, 30%). Blog also: VPN 80% off 2-yr; DNS Personal 55% off (VPN/DNS dollars not re-fetched).",
+    "dates": "Halloween Oct 26 – Nov 1 2026",
+    "ends": "2026-11-01",
+    "link": "https://adguard.com/en/license.html",
+    "link_type": "official",
+    "last_checked": "2026-10-31"
   }
 ]

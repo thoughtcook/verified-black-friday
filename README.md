@@ -6,8 +6,8 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-86-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-19-brightgreen)](#-best-live-deals-right-now)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-88-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-20-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10--31-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
@@ -55,6 +55,7 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | Service | Deal | Dates | Ends | Status | Link | Checked |
 |---|---|---|---|---|---|---|
 | **ElevenLabs** | Starter first month 83% off $1 (then $6/mo); "Until" badge still on card (date text blank this run; prior Until Nov 1). Creator first month 50% off $11 (then $22/mo). Last year's (2025): Starter $1 first month at BF | Starter promo to Nov 1 2026; Creator end not stated | 2026-11-01 | 🟢 Live | [official](https://elevenlabs.io/pricing) | 2026-10-31 |
+| **AdGuard** | Official license page titled Halloween sale + blog/halloween2026 (Oct 31): NOT Black Friday-labelled. Ad Blocker: Personal 1-yr $17.93 (was $29.88, 40% off); Family 1-yr $39.53 (40% off promo; renews $65.88/yr); Personal lifetime $55.99 (was $79.99, 30%); Family lifetime $118.99 (was $239.97, 30%). Blog also: VPN 80% off 2-yr; DNS Personal 55% off (VPN/DNS dollars not re-fetched). | Halloween Oct 26 – Nov 1 2026 | 2026-11-01 | 🟡 Early | [official](https://adguard.com/en/license.html) | 2026-10-31 |
 | **Kavel** | EARLY BLACK FRIDAY: 2× credits on every new plan (first month monthly / whole first year yearly), normal price. Starter $100/yr. Ends Dec 1 | Live Oct 2026 – Dec 1 2026 | 2026-12-01 | 🟢 Live | [official](https://www.kavel.ai/pricing) | 2026-10-31 |
 | **Deepvue** | Core + Journal $490/yr (was $990); rate locked while sub stays active. Masterclasses bonus to Nov 12; $490 lock to Dec 4 | Live; $490 lock to Dec 4 2026 | 2026-12-04 | 🟢 Live | [official](https://deepvue.com/black-friday-2026/) | 2026-10-31 |
 | **NordVPN** | Black Friday on the official page: from $3.49/mo; Deal ends Dec 9 2026. 2-yr +3 mo Basic $3.49/mo ($94.23), Complete $3.99/mo ($107.73), Prime $6.99/mo ($188.73). Last year's (2025): low $2.99/mo | Oct 21 – Dec 9 2026 (official FAQ) | 2026-12-09 | 🟢 Live | [official](https://nordvpn.com/black-friday/) | 2026-10-31 |
@@ -208,6 +209,8 @@ Bundles built only from the verified live deals above.
 | **n8n** | Official n8n.io/pricing (Oct 30): Cloud Starter 20€/mo billed annually; Pro 50€/mo billed annually; Business 667€/mo billed annually (self-hosted); Enterprise contact. Standing Startup plan: 50% off Business if <20 employees. No Black Friday label | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://n8n.io/pricing/) | 2026-10-30 |
 | **PostHog** | Official posthog.com/pricing (Oct 30): free forever tier (e.g. 1M analytics events/mo); pay-as-you-go above limits; annual/volume discounts via sales. No Black Friday promo | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://posthog.com/pricing) | 2026-10-30 |
 | **Gumloop** | Official gumloop.com/pricing (Oct 30): Pro starts at $37/mo after free 14-day trial (20,000 credits on Pro per page FAQ). Enterprise custom. No Black Friday promo | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://gumloop.com/pricing) | 2026-10-30 |
+| **AdBlock Premium** | Official getadblock.com/en/premium + /en/video-plus (Oct 31): no Black Friday/Cyber Monday 2026 label; /black-friday → 404. Standing Premium $4/mo or $40/yr (annual BEST VALUE SAVE 16%). 7-day trial on video-plus; 60-day money-back. Includes enhanced YouTube blocking, AdBlock VPN, cookie/distraction controls. Historical only (2023 blog, not 2026): Nov 24–Dec 3 2023 Premium+VPN yearly 50% off ($20, code SAVE50). | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://getadblock.com/en/premium/) | 2026-10-31 |
+| **AdGuard** | Official license page titled Halloween sale + blog/halloween2026 (Oct 31): NOT Black Friday-labelled. Ad Blocker: Personal 1-yr $17.93 (was $29.88, 40% off); Family 1-yr $39.53 (40% off promo; renews $65.88/yr); Personal lifetime $55.99 (was $79.99, 30%); Family lifetime $118.99 (was $239.97, 30%). Blog also: VPN 80% off 2-yr; DNS Personal 55% off (VPN/DNS dollars not re-fetched). | Halloween Oct 26 – Nov 1 2026 | 2026-11-01 | 🟡 Early | [official](https://adguard.com/en/license.html) | 2026-10-31 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).
