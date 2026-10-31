@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-88-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-89-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-20-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10--31-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -184,6 +184,7 @@ Bundles built only from the verified live deals above.
 | **Enconvo** | Maker-side claim: 30% off lifetime with code BLACKFRIDAY2026, Nov 23–30. Official pricing still Standard $49 / Premium $99 / Teams $139 once — no BF label or code field | Nov 23 – Nov 30, 2026 (claimed) | not stated | 🟠 Unverified | [report](https://macworthy.com/deals/black-friday/) | 2026-10-30 |
 | **DevUtils** | Maker/IndieMarkdowns claim 50% off all plans for BF 2026. Official pricing (Oct 30) still Basic $29 / Personal $39 perpetual — no discount visible yet | BF 2026 (claimed; not on official pricing yet) | not stated | 🟠 Unverified | [official](https://devutils.com/pricing/) | 2026-10-30 |
 | **Univocal** | Announced on official purchase page: Black Friday Nov 20–30 $15 with code BF2026 (was $39 lifetime, up to 3 Macs). Sale window not open yet | Nov 20 – Nov 30 2026 | 2026-11-30 | ⚪ Not yet | [official](https://univocalapp.com/purchase/) | 2026-10-31 |
+| **AppsByMo (Atelier, Vigil, Cue, Scry and 10 more Mac and iPhone apps)** | 50% off every paid app: code BLACKFRIDAY at checkout on appsbymo.app (e.g. Cue $29 → $14.50, Scry $24 → $12); App Store prices halved, no code (e.g. Wick $15.99 → $7.99) | Nov 27 – Nov 30 2026 (vendor's own submission) | 2026-11-30 | ⚪ Not yet | [official](https://appsbymo.app/) | 2026-10-31 |
 
 ### 🔍 SEO
 
