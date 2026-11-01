@@ -977,5 +977,16 @@
     "link": "https://fluentmac.app/buy",
     "link_type": "official",
     "last_checked": "2026-11-01"
+  },
+  {
+    "category": "SaaS",
+    "service": "pwn.guide",
+    "status": "Live",
+    "deal": "20% off every plan with code BLKFRI20, forever (every renewal) and on Lifetime: Plus $57.48/yr or $149 lifetime, Certificate $95.89/yr or $249 lifetime before the code. Card checkout",
+    "dates": "Nov 1 - Dec 5 2026",
+    "ends": "2026-12-05",
+    "link": "https://pwn.guide/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-01"
   }
 ]

@@ -6,8 +6,8 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-89-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-20-brightgreen)](#-best-live-deals-right-now)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-90-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-21-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--11--01-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
@@ -58,6 +58,7 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | **AdGuard** | Halloween sale (NOT Black Friday-labelled): Ad Blocker Personal 1-yr $17.93 (was $29.88, 40%); Family 1-yr $39.53 (40%; renews $65.88); Personal lifetime $55.99 (30%); Family lifetime $118.99 (30%). Blog: VPN 80% off 2-yr; DNS Personal 55% off. Ends Nov 1 2026. | Halloween Oct 26 – Nov 1 2026 (ENDS TODAY) | 2026-11-01 | 🟡 Early | [official](https://adguard.com/en/license.html) | 2026-11-01 |
 | **Kavel** | EARLY BLACK FRIDAY: 2× credits on every new plan (first month monthly / whole first year yearly), normal price, no code. Starter $100/yr. Ends Dec 1 | Live Oct 2026 - Dec 1 2026 | 2026-12-01 | 🟢 Live | [official](https://www.kavel.ai/pricing) | 2026-11-01 |
 | **Deepvue** | Official /black-friday-2026: Core + Journal $490/yr (was $990). $490 lock to Dec 4; masterclasses bonus to Nov 12 | Live Oct 2026; $490 lock to Dec 4 2026; masterclasses bonus to Nov 12 2026 | 2026-12-04 | 🟢 Live | [official](https://deepvue.com/black-friday-2026/) | 2026-11-01 |
+| **pwn.guide** | 20% off every plan with code BLKFRI20, forever (every renewal) and on Lifetime: Plus $57.48/yr or $149 lifetime, Certificate $95.89/yr or $249 lifetime before the code. Card checkout | Nov 1 - Dec 5 2026 | 2026-12-05 | 🟢 Live | [official](https://pwn.guide/pricing) | 2026-11-01 |
 | **NordVPN** | Black Friday on the official page: from $3.49/mo; Deal ends Dec 9 2026. Up to 78% off + 3 mo. Last year's (2025): low $2.99/mo | Oct 21 - Dec 9 2026 (official /black-friday FAQ); 2025 ref: ran Oct 16-Dec 10 | 2026-12-09 | 🟢 Live | [official](https://nordvpn.com/black-friday/) | 2026-11-01 |
 | **NordPass** | Official /black-friday live. Prior official reads: Premium 2-yr $1.39/mo; Family $2.49/mo. Confirm at checkout. Ends Dec 9 2026 | Oct 21 - Dec 9 2026 | 2026-12-09 | 🟢 Live | [official](https://nordpass.com/black-friday/) | 2026-11-01 |
 | **Hostinger** | BF sale: web hosting from $2.49/mo (80% off), VPS from $6.49/mo (67% off), .com $0.01 1st yr; no code. Sale Oct 19–Dec 14 2026 | Oct 19 - Dec 14 2026 | 2026-12-14 | 🟢 Live | [official](https://www.hostinger.com/black-friday) | 2026-11-01 |
@@ -209,6 +210,7 @@ Bundles built only from the verified live deals above.
 | **AdBlock Premium** | Premium $4/mo or $40/yr. No BF/CM 2026 label. Watching | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://getadblock.com/en/premium/) | 2026-11-01 |
 | **AdGuard** | Halloween sale (NOT Black Friday-labelled): Ad Blocker Personal 1-yr $17.93 (was $29.88, 40%); Family 1-yr $39.53 (40%; renews $65.88); Personal lifetime $55.99 (30%); Family lifetime $118.99 (30%). Blog: VPN 80% off 2-yr; DNS Personal 55% off. Ends Nov 1 2026. | Halloween Oct 26 – Nov 1 2026 (ENDS TODAY) | 2026-11-01 | 🟡 Early | [official](https://adguard.com/en/license.html) | 2026-11-01 |
 | **n8n (automation)** | Official pricing (Oct 29): Starter 20€/mo annual; Pro 50€/mo annual; Business 667€/mo annual; Startup 50% off Business (<20 employees). No BF label. Watching | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://n8n.io/pricing/) | 2026-11-01 |
+| **pwn.guide** | 20% off every plan with code BLKFRI20, forever (every renewal) and on Lifetime: Plus $57.48/yr or $149 lifetime, Certificate $95.89/yr or $249 lifetime before the code. Card checkout | Nov 1 - Dec 5 2026 | 2026-12-05 | 🟢 Live | [official](https://pwn.guide/pricing) | 2026-11-01 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).
