@@ -1,5 +1,20 @@
 # Changelog of price changes
 
+## 2026-11-02 (full Monday check)
+
+- **BETTER → Live:** Wins — official [wins.cool](https://wins.cool) **11.11 Sale 40%**, code `1111_26`, ends **Nov 11 2026**: Single **$11.99** / Pro **$23.99** / X **$29.99**. Claimed BF26 Nov 20–Dec 12 still Unverified note.
+- **NEW Live:** Tidio Lyro AI — [tidio.com/black-friday](https://www.tidio.com/black-friday/) Early BF: Lyro monthly **$1 first 2 months**; codes BFCM50…; through **Dec 5**.
+- **NEW Live:** NeoTiler — [getneotiler.com](https://getneotiler.com) lifetime **$6.99** (was $9.99) code **BF30** through **Dec 1 2026**.
+- **NEW Live:** Compresto — [compresto.app/pricing](https://compresto.app/pricing) **40%** code **BFCM26**; Personal lifetime **$29.40** from $49.
+- **NEW Live:** Codexpert / EasyCommerce — [codexpert.io/coupon](https://codexpert.io/coupon/) up to **70%**; EasyCommerce Pro Personal **$59.70**/yr from $199 through Cyber Monday.
+- **NEW Live:** Systeme.io — [blackfriday.systeme.io](https://blackfriday.systeme.io) Startup **$170/yr**.
+- **BETTER → Early:** CyberGhost — Halloween still **$2.19/mo** 26-mo ($56.94).
+- **NEW Not yet (announced):** Dubsado — 50% first-year annual starts **Nov 23 9am PT** ([page](https://www.dubsado.com/black-friday-2026)).
+- **NEW Not yet (announced):** Vogoo AI — 40% yearly **BLACKFRIDAY** **Nov 27–30 UTC** ([page](https://vogoo.ai/black-friday)).
+- **WORSE → Not yet:** AdGuard — Halloween Oct 26–Nov 1 **ended**; watching for BF.
+- **WORSE → Not yet:** ElevenLabs — Starter **$1** first-month **ended** (past Nov 1); Creator $11 still shown (uncertain).
+- Rechecked SAME Live/Early: Surfshark, NordVPN, Express, Proton, PIA, IPVanish, PureVPN, Hostinger, Cliproxy, 1Password, NordPass, Cutfac, Shotomatic, Kavel, Deepvue, Sintra, Smooth Recorder, Luminar. Runway: Kling 4.0 gens 25% off to Nov 30 (product promo, not full BF).
+
 ## 2026-10-30 (Factory AI watch)
 
 - **NEW Not yet:** Factory AI (Droids) — official [/pricing](https://factory.ai/pricing) (= factory.com/pricing) + [docs individuals](https://docs.factory.com/pricing/individuals) (Oct 30): **no BF/CM 2026 promo**. Standing **Pro $20/mo**, **Plus $100/mo**, **Max $200/mo**; **Teams $60/mo + $40/seat**; Business/Enterprise custom. Historical only: Aug 2026 ~60% off OpenAI/Grok **model usage** until Sep 4 2026 7pm PT (not a plan BF sale; ended).
