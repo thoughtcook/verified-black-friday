@@ -1,6 +1,8 @@
-# Changelog of price changes
-
 ## 2026-11-02 (full Monday check)
+
+- **UPDATED Live:** Cutfac — added verified Polar **BF2026** checkout (−40%): 1 Mac **$29.40** (was $49); launch first-100 prices still on [cutfac.com/pricing](https://cutfac.com/pricing). Thanks issue #3.
+- **NEW Live:** pwn.guide — official [/pricing](https://pwn.guide/pricing) BF banner **20%** code **BLKFRI20** through **Dec 5**; Plus **$57.48/yr** / **$149** lifetime before code. Thanks PR #5.
+- **NEW Not yet:** AppsByMo — official [appsbymo.app](https://appsbymo.app/) announces BF **50%** every app **Nov 27–30** code **BLACKFRIDAY**. Thanks PR #4.
 
 - **BETTER → Live:** Wins — official [wins.cool](https://wins.cool) **11.11 Sale 40%**, code `1111_26`, ends **Nov 11 2026**: Single **$11.99** / Pro **$23.99** / X **$29.99**. Claimed BF26 Nov 20–Dec 12 still Unverified note.
 - **NEW Live:** Tidio Lyro AI — [tidio.com/black-friday](https://www.tidio.com/black-friday/) Early BF: Lyro monthly **$1 first 2 months**; codes BFCM50…; through **Dec 5**.
