@@ -1,3 +1,7 @@
+## 2026-11-03 (CiteWing maker submission)
+
+- **NEW Not yet:** [CiteWing](https://citewing.com) — official homepage publishes Black Friday **36% OFF monthly Pro**, **$95/month** (was **$149/month**), auto-applied, **Nov 15–30, 2026**. $19 for a 7-day trial, then $95/month; cancel anytime. Excludes the separately advertised directory service.
+
 ## 2026-11-03 (Tuesday quick check)
 
 - **NEW Live:** Perch — [perch.run/black-friday](https://perch.run/black-friday) lifetime **$17.40** (was $29), 40% code **BLACKFRIDAY2026**; first 500; Perch Pro iPhone **$29/yr** to Dec 1. Through **1 Dec 2026 PT** or 500 orders.

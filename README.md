@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-107-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-108-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-33-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--11--03-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -213,6 +213,7 @@ Bundles built only from the verified live deals above.
 | **Semrush** | Official pricing (Oct 29): no BF; SEO $117.33/mo billed annually or $139 monthly (up to 17% off annual); 7-day trial | Expected late Nov | not stated | ⚪ Not yet | [official](https://www.semrush.com/prices/) | 2026-11-01 |
 | **Ahrefs** | Ahrefs officially says it never runs seasonal discounts incl. Black Friday; only annual billing ~17% off | n/a | not stated | ⛔ Never discounts | [official](https://help.ahrefs.com/en/articles/1406260-do-you-offer-any-discounts-or-free-trials) | 2026-11-01 |
 | **Rapid Indexer** | Official homepage: BF top-up credit bonuses +20% all / +30% on $100+ / +40% on $1,000+ (credits never expire). | Through 27 Nov 2026 23:59 UTC | 2026-11-27 | 🟢 Live | [official](https://rapid-indexer.com/) | 2026-11-03 |
+| **CiteWing** | AI Backlink Outreach Agent to get recommended by AI. Official Black Friday: 36% OFF monthly Pro, $95/month (was $149/month). Auto-applied; no code needed. $19 for a 7-day trial, then $95/month. Cancel anytime | Nov 15–30, 2026 (official homepage) | 2026-11-30 | ⚪ Not yet | [official](https://citewing.com) | 2026-11-03 |
 
 ### 🧰 SaaS & productivity
 
