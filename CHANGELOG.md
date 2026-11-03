@@ -1,3 +1,18 @@
+## 2026-11-03 (Tuesday quick check)
+
+- **NEW Live:** Perch — [perch.run/black-friday](https://perch.run/black-friday) lifetime **$17.40** (was $29), 40% code **BLACKFRIDAY2026**; first 500; Perch Pro iPhone **$29/yr** to Dec 1. Through **1 Dec 2026 PT** or 500 orders.
+- **NEW Live:** Omnisend — [omnisend.com/bfcm](https://www.omnisend.com/bfcm/) **30%** first 3 months, code **BLACK-FRIDAY-2026**; free migration ≤5 days. End not stated on page.
+- **NEW Live:** SciFig — [scifig.ai/black-friday](https://scifig.ai/black-friday) Extra **20%** new sub first mo/yr + upgrades/credits (auto). Starter example **$80** first year. Through **1 Dec 2026 23:59 PT**.
+- **NEW Live:** Growave — [growave.io/bfcm-deals](https://www.growave.io/bfcm-deals) Growth **$159/mo** (was $199) lifetime 20%. Through **1 Dec 2026 23:59 ET**.
+- **NEW Live:** Rapid Indexer — [rapid-indexer.com](https://rapid-indexer.com/) BF top-up credits **+20% / +30% $100+ / +40% $1000+** through **27 Nov 2026 23:59 UTC**.
+- **NEW Live:** PastePal + Almighty — [indiegoodies.com/blackfriday](https://indiegoodies.com/blackfriday) 50% lifetime **$7.49** (was $14.99), code **INDIEGOODIESBF26**.
+- **BETTER → Live:** Cutfac — official [cutfac.com/pricing](https://cutfac.com/pricing) now Black Friday-labelled; **BF2026**: 1 Mac **$29.40** / 3 **$41.40** / 5 **$59.40**.
+- **NEW Not yet (announced):** Scrollsequence — 50% all plans code **BFCM2026**, **Nov 24–Dec 31 2026**.
+- **NEW Not yet (announced):** EngageBay — offer page countdown to **Nov 27 2026** (blog 40% claim conflicts — not live).
+- **AppsByMo:** refreshed Not yet — 50% code **BLACKFRIDAY** **Nov 27–30 2026**.
+- **Hygiene:** Vultr link → [vultr.com/pricing](https://www.vultr.com/pricing/) (no BF). X Premium watch URL → [help.x.com X Premium](https://help.x.com/en/using-x/x-premium) (403 this run; not rechecked). Keep Grok/x.ai separate.
+- Rechecked SAME Live/Early + always-watch: Surfshark/Nord/Express/Proton/CyberGhost/PIA/IPVanish/PureVPN, Hostinger, Cliproxy, Eden, Readwise, Fitbod, DMIT, Typeless, x.ai; Sintra, 1P, NordPass, Luminar, Smooth, Kavel, Wins, Shotomatic, Deepvue, Tidio, NeoTiler, Compresto, Codexpert, Systeme. CapCut/Dreamina still ended. Pabbly still goes live **Nov 4**.
+
 ## 2026-11-02 (full Monday check)
 
 - **UPDATED Live:** Cutfac — added verified Polar **BF2026** checkout (−40%): 1 Mac **$29.40** (was $49); launch first-100 prices still on [cutfac.com/pricing](https://cutfac.com/pricing). Thanks issue #3.
