@@ -1175,5 +1175,38 @@
     "link": "https://www.engagebay.com/offer",
     "link_type": "official",
     "last_checked": "2026-11-03"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Presentify",
+    "status": "Unverified",
+    "deal": "Vendor submission: 30% off with code PRESENTIFY30, $9.80 (was $14), one-time purchase, no subscription. Direct purchase from presentifyapp.com only (not App Store or Setapp). Not yet shown on the official site.",
+    "dates": "Nov 18 - Dec 2 2026 (vendor-announced)",
+    "ends": "2026-12-02",
+    "link": "https://presentifyapp.com",
+    "link_type": "official",
+    "last_checked": "2026-11-03"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "FaceScreen",
+    "status": "Unverified",
+    "deal": "Vendor submission: 30% off with code FACESCREEN30, $4.19 (was $5.99), one-time purchase, no subscription. Direct purchase from facescreen.app only (not App Store or Setapp). Not yet shown on the official site.",
+    "dates": "Nov 18 - Dec 2 2026 (vendor-announced)",
+    "ends": "2026-12-02",
+    "link": "https://facescreen.app",
+    "link_type": "official",
+    "last_checked": "2026-11-03"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "KeyScreen",
+    "status": "Unverified",
+    "deal": "Vendor submission: 30% off with code KEYSCREEN30, $4.19 (was $5.99), one-time purchase, no subscription. Direct purchase from keyscreen.app only (not App Store or Setapp). Not yet shown on the official site.",
+    "dates": "Nov 18 - Dec 2 2026 (vendor-announced)",
+    "ends": "2026-12-02",
+    "link": "https://keyscreen.app",
+    "link_type": "official",
+    "last_checked": "2026-11-03"
   }
 ]

@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-107-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-110-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-33-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--11--03-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -205,6 +205,9 @@ Bundles built only from the verified live deals above.
 | **Perch** | Official perch.run/black-friday: Lifetime licence $17.40 (was $29), 40% off, code BLACKFRIDAY2026; first 500 orders; team seats same $17.40. Also Perch Pro iPhone $29/yr (was $49) until Dec 1, no code. | 2 Nov – 1 Dec 2026 PT or until first 500 orders | 2026-12-01 | 🟢 Live | [official](https://perch.run/black-friday) | 2026-11-03 |
 | **PastePal** | Official Indie Goodies BF page: 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-03 |
 | **Almighty** | Official Indie Goodies BF page: 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-03 |
+| **Presentify** | Vendor submission: 30% off with code PRESENTIFY30, $9.80 (was $14), one-time purchase, no subscription. Direct purchase from presentifyapp.com only (not App Store or Setapp). Not yet shown on the official site. | Nov 18 - Dec 2 2026 (vendor-announced) | 2026-12-02 | 🟠 Unverified | [official](https://presentifyapp.com) | 2026-11-03 |
+| **FaceScreen** | Vendor submission: 30% off with code FACESCREEN30, $4.19 (was $5.99), one-time purchase, no subscription. Direct purchase from facescreen.app only (not App Store or Setapp). Not yet shown on the official site. | Nov 18 - Dec 2 2026 (vendor-announced) | 2026-12-02 | 🟠 Unverified | [official](https://facescreen.app) | 2026-11-03 |
+| **KeyScreen** | Vendor submission: 30% off with code KEYSCREEN30, $4.19 (was $5.99), one-time purchase, no subscription. Direct purchase from keyscreen.app only (not App Store or Setapp). Not yet shown on the official site. | Nov 18 - Dec 2 2026 (vendor-announced) | 2026-12-02 | 🟠 Unverified | [official](https://keyscreen.app) | 2026-11-03 |
 
 ### 🔍 SEO
 
