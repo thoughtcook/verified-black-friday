@@ -1,3 +1,14 @@
+## 2026-11-04 (Wednesday quick check)
+
+- **NEW Live:** HostPapa — [hostpapa.com/deals](https://www.hostpapa.com/deals/) Black Friday Web/WP hosting from **$1.25/mo**; VPS from **$2.95/mo**; Dedicated from **$47.96/mo**; no code. End not stated on official page.
+- **NEW Live:** Later — [later.com/black-friday-sale](https://later.com/black-friday-sale/) **6 months free** on new annual Growth/Scale via code **LATERBF26** (Growth shown **$37.50/mo**). **Nov 1 – Dec 4 2026**.
+- **NEW Live:** Bimg AI — [bimg.ai/black-friday](https://bimg.ai/black-friday) **50%** first month or first year + every annual renewal. **Nov 3 – Dec 3 2026**.
+- **NEW Live:** Vogoo AI — [vogoo.ai/black-friday](https://vogoo.ai/black-friday) yearly plans **40%** code **BLACKFRIDAY** (Pro **$89.64**/yr). **Nov 3 – Nov 30 2026 UTC** (was listed as Nov 27–30 announced).
+- **BETTER:** Hostinger — web hosting **$2.49 → $1.99/mo** (85% off); VPS still **$6.49**; through **Dec 14 2026**.
+- **CHANGED Early:** CyberGhost / PIA — Halloween → Early Access Black Friday labels; CyberGhost **$2.19**/28 mo ($61.32); PIA **$2.03**/3yr+4mo.
+- **WORSE (not alerted):** Omnisend — same 30% code now until Dec 1 and **former paying customers on Free only**.
+- **Not live yet:** Pabbly (~13:00 SGT go-live), Picmal offer script Nov 23–Dec 1, TablePlus banner still `enable="false"`, Internxt BF page ends Dec 3 but plan $ JS-opaque.
+
 ## 2026-11-03 (Tuesday quick check)
 
 - **NEW Live:** Perch — [perch.run/black-friday](https://perch.run/black-friday) lifetime **$17.40** (was $29), 40% code **BLACKFRIDAY2026**; first 500; Perch Pro iPhone **$29/yr** to Dec 1. Through **1 Dec 2026 PT** or 500 orders.
