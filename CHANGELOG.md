@@ -1,3 +1,15 @@
+## 2026-11-05 (Thursday full check)
+
+- **NEW Live:** Cloudways — [cloudways.com/en/promo-code.php](https://www.cloudways.com/en/promo-code.php) **80%** off first 2 months, code **BFCM802**; Flexible **$11→$2.2/mo**, Autonomous **$20→$4/mo**; new customers. Hellobar timer **Dec 6, 2026 13:00**.
+- **NEW Live:** Pabbly Plus — [blackfriday.pabbly.com](https://blackfriday.pabbly.com/) Plus **$799/yr** (was $1,428), coupon **BFCM26**; early window JS `LAUNCH_DATE=2026-11-04T05:00:00Z` / `DEAL_END=2026-11-06T05:00:00Z`; after early ends, grab again **Nov 27 2026**. Lifetime Connect etc. also **BFCM26** (~10% extra).
+- **NEW Live:** CapCut (Desktop) — [capcut.com/tools/capcut-black-friday-sale](https://www.capcut.com/tools/capcut-black-friday-sale) first month **$3.99 or less** monthly; **PC only**; eligible new/expiring/lapsed; prices vary by region (replaced ended Oct 30 leftover).
+- **NEW Live:** Fluent (Mac AI) — [fluentmac.app/buy?discount_code=BF2026](https://fluentmac.app/buy?discount_code=BF2026) **25%** code **BF2026** until **Dec 1**; Basic **$49→$36.75**, Standard **$69→$51.75**, Team **$29→$21.75**/seat.
+- **NEW Live:** Internxt — [internxt.com/black-friday](https://internxt.com/black-friday) + official blog **87%** off; from **€1.29/mo** 1TB; lifetime from **€247**; ends **Dec 3 2026**; discount auto at checkout (plan $ cards still JS-opaque — euros from blog).
+- **BETTER:** ExpressVPN — still Early; Basic **$2.99/mo** ($83.72/28 mo), Advanced **$4.19** ($117.32), Pro **$7.19** ($201.32) — lower than prior ~$3/$4.50/$7.50.
+- **BETTER:** Wins — still Live; now **Black Friday** code **BF_26** 40% (was 11.11/`1111_26`); **$11.99/$23.99/$29.99**; window **Nov 1 – Dec 1 2026** (+08).
+- **CHANGED:** HostPapa — still Live from $1.25 / VPS $2.95 / Dedicated $47.96; end now **Dec 7, 2026** 11:59pm EST (was unstated).
+- **Watch / Not yet:** Parallels Desktop added (countdown only, no official $). TablePlus banner still `enable="false"`; Picmal OfferWindow Nov 23–Dec 1; Typeless/Eden/Readwise/Fitbod/DMIT/X Premium (403) no promo; Cliproxy Early with no BF label.
+
 ## 2026-11-04 (Wednesday quick check)
 
 - **NEW Live:** HostPapa — [hostpapa.com/deals](https://www.hostpapa.com/deals/) Black Friday Web/WP hosting from **$1.25/mo**; VPS from **$2.95/mo**; Dedicated from **$47.96/mo**; no code. End not stated on official page.
