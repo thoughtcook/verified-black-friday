@@ -1,3 +1,12 @@
+## 2026-11-06 (Friday quick check)
+
+- **NEW Early:** SiteGround — [siteground.com/web-hosting.htm](https://www.siteground.com/web-hosting.htm) Early Black Friday: StartUp **$1.99/mo** (88% off, renews $17.99); GrowBig **$3.99** / GoGeek **$5.99** (86%, renews $29.99/$44.99); prepaid 12 mo. End not stated.
+- **NEW Live:** Scalenut — [scalenut.com/pricing](https://scalenut.com/pricing) BF Early Access **65%** off annual + 3X limits: Starter **$21**/mo (was $59); Plus **$31** (was $89); Professional **$70** (was $199); billed annually; monthly full price; non-refundable. End not stated.
+- **NEW Live:** Sender — [sender.net/pricing](https://www.sender.net/pricing/) Black Friday: **60%** on 24-month (40% Standard / 60% Professional) or **30%** on 12-month; first-time users; no code. End not stated on page.
+- **NEW Live:** Rank Math PRO — [rankmath.com/offer](https://rankmath.com/offer/) Anniversary Sale up to **40%** OFF (not BF-labelled); page countdown **2026-11-10 16:00:00**.
+- **CHANGED:** Compresto — still Live 40% **BFCM26**; official end now **Dec 1 2026** (Personal $49→$29.40; Standard $69→$41.40).
+- **Watch:** Pabbly Plus early window still Live until **2026-11-06T05:00:00Z** (13:00 SGT); then return **Nov 27**. TablePlus banner still `enable="false"`. Always-watch Eden/Readwise/Fitbod/Cliproxy/DMIT/X Premium/Typeless — no promo.
+
 ## 2026-11-05 (Thursday full check)
 
 - **NEW Live:** Cloudways — [cloudways.com/en/promo-code.php](https://www.cloudways.com/en/promo-code.php) **80%** off first 2 months, code **BFCM802**; Flexible **$11→$2.2/mo**, Autonomous **$20→$4/mo**; new customers. Hellobar timer **Dec 6, 2026 13:00**.
