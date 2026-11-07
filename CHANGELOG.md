@@ -1,3 +1,9 @@
+## 2026-11-07 (Saturday quick check)
+
+- **NEW Live:** Proton Pass — [proton.me/pass/black-friday](https://proton.me/pass/black-friday) Pass Plus **60%** → **$1.99/mo** ($23.88 first year, renews $35.88); Family **$33.48** first year; Unlimited cross-sell **50%** → **$6.49/mo** ($77.88).
+- **CHANGED:** Pabbly Plus — early window **ended** Nov 6 05:00Z; waitlist; returns **Nov 27** (status → Not yet).
+- Rechecked VPN/hosting/AI/Mac quick set + always-watch DMIT/Cliproxy: no other new/better verified promos. TablePlus banner still disabled; Parallels countdown only.
+
 ## 2026-11-06 (Friday quick check)
 
 - **NEW Early:** SiteGround — [siteground.com/web-hosting.htm](https://www.siteground.com/web-hosting.htm) Early Black Friday: StartUp **$1.99/mo** (88% off, renews $17.99); GrowBig **$3.99** / GoGeek **$5.99** (86%, renews $29.99/$44.99); prepaid 12 mo. End not stated.
