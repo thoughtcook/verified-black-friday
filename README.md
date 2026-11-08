@@ -6,9 +6,9 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-118-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-45-brightgreen)](#-best-live-deals-right-now)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--11--07-informational)](CHANGELOG.md)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-120-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-47-brightgreen)](#-best-live-deals-right-now)
+[![Last checked](https://img.shields.io/badge/last_checked-2026--11--08-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
@@ -26,7 +26,7 @@
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
 
 ## 🏆 Top 5 picks
-_Savings are worked out only from prices shown on the linked official page (checked 2026-11-07)._
+_Savings are worked out only from prices shown on the linked official page (checked 2026-11-08)._
 
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | Service | Deal | Dates | Ends | Status | Link | Checked |
 |---|---|---|---|---|---|---|
 | **Rank Math PRO** | Official /offer (Nov 7): PRO Anniversary Sale up to 40% OFF (not BF-labelled). Countdown 2026-11-10 16:00:00. | Anniversary sale live Nov 6 2026 | 2026-11-10 | 🟢 Live | [official](https://rankmath.com/offer/) | 2026-11-07 |
+| **Picmal (Mac design/export tool)** | Official /pricing (Nov 8): Black Friday LIVE. Script startsAt 2026-11-07T00:00:00Z endsAt 2026-11-24T08:00:00Z; code BLACKFRIDAY applied (data-offer). 1 Mac $29→$14.50 (printed). 2/5/10 Mac list $39/$89/$149; offer-on copy says 2 Macs is $5 more than the $14.50 1-Mac price. Marketing bar still says 50% off until 30 November — script endsAt Nov 24 08:00Z is authoritative. | Nov 7 – Nov 24 2026 (script window) | 2026-11-24 | 🟢 Live | [official](https://picmal.app/pricing) | 2026-11-08 |
 | **Rapid Indexer** | Official homepage (Nov 3): BF top-up credit bonuses +20% all / +30% on $100+ / +40% on $1,000+ (credits never expire). Through 27 Nov 2026 23:59 UTC. | Through 27 Nov 2026 23:59 UTC | 2026-11-27 | 🟢 Live | [official](https://rapid-indexer.com/) | 2026-11-05 |
 | **Vogoo AI** | Official /black-friday (Nov 5): LIVE — 40% off yearly plans with code BLACKFRIDAY. Lite $6.45/mo (reg $10.75); Pro $7.47/mo / $89.64 billed yearly (reg $12.45/$149.40). Monthly/credit packs excluded. Auto dates 00:00 UTC Nov 3 – 23:59 UTC Nov 30 2026. | Nov 3 – Nov 30 2026 UTC (live) | 2026-11-30 | 🟢 Live | [official](https://vogoo.ai/black-friday) | 2026-11-06 |
 | **Kavel (AI image/video)** | Official pricing banner (Nov 3): 'EARLY BLACK FRIDAY' 2x credits on every new plan (first month on monthly, whole first year on yearly), normal price, no code. Starter $100/yr ($8.33/mo). Ends December 1. | Live Oct 2026 - Dec 1 2026 | 2026-12-01 | 🟢 Live | [official](https://www.kavel.ai/pricing) | 2026-11-06 |
@@ -99,6 +100,7 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | **Growave (Shopify loyalty)** | Official /bfcm-deals (Nov 3): Growth $159/mo (was $199) lifetime 20% for new + upgrades to Growth; auto at checkout. Through 1 Dec 2026 23:59 ET. | Through 1 Dec 2026 23:59 ET | not stated | 🟢 Live | [official](https://www.growave.io/bfcm-deals) | 2026-11-05 |
 | **PastePal (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-06 |
 | **Almighty (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-06 |
+| **BearConnect (LinkedIn automation)** | Official home + /pricing (Nov 8): banner “Black Friday: 50% Off for 6 Months” code 50OFFBC. List: Starter $56 / LinkedIn account / month billed annually ($670/year per account); Growth $237/month for 5 LinkedIn accounts billed annually (additional accounts $47/month each). Discounted totals after 50% not printed. End date not stated. | BF live as of Nov 8 2026; end not stated | not stated | 🟢 Live | [official](https://bearconnect.io/pricing/) | 2026-11-08 |
 
 ## 🧱 Stack builders
 Bundles built only from the verified live deals above.
@@ -188,6 +190,7 @@ Bundles built only from the verified live deals above.
 | **DMIT** | Official /pages/pricing (Nov 7 WebFetch): list prices only, no BF banner. Last year's (2025) BF buy-two-get-one Pro + cashback. | Check Nov 16 / 24 | not stated | ⚪ Not yet | [official](https://www.dmit.io/pages/pricing) | 2026-11-07 |
 | **Railway** | Official pricing (Nov 3): Hobby $5/mo; Pro $20/mo; Free/$1 usage; Trial $5 credit. No BF promo. Watching | Check Nov 16 / 24 | not stated | ⚪ Not yet | [official](https://railway.com/pricing) | 2026-11-06 |
 | **HostPapa** | Official /deals (Nov 5): Black Friday — Web/WordPress hosting from $1.25/mo; VPS from $2.95/mo; Dedicated from $47.96/mo; up to 90% off; no code (auto in cart). New customers first term (e.g. Essentials 3-yr renews $7.29/mo). Offer valid until Dec 7, 2026 11:59pm EST. | BF live Nov 2026; ends Dec 7 2026 11:59pm EST | 2026-12-07 | 🟢 Live | [official](https://www.hostpapa.com/deals/) | 2026-11-06 |
+| **CloudLinux / Imunify360** | Official Imunify homepage (Nov 8): title “Imunify Hero — Black Friday”; “Up to 40% OFF for new customers.” No dollar prices or end date on page. Official CloudLinux OS X posts (Nov 4–6) say offers start Nov 9, up to 40% yearly Imunify360 and 30% yearly CloudLinux until Nov 30, new customers. cloudlinux.com itself had no BF text this run. Recheck Nov 9. | Stated go-live Nov 9 2026 through Nov 30 (official X); Imunify page already teasers 40% off | 2026-11-30 | ⚪ Not yet | [official](https://www.imunify360.com/) | 2026-11-08 |
 
 ### 🍎 Mac & dev tools
 
@@ -204,7 +207,7 @@ Bundles built only from the verified live deals above.
 | **Paste** | Last year's (2025) $14.99 first year (was $29.99). Official Oct 29: Personal $29.99/yr ($2.49/mo); students/educators 30% off first year; no BF | BF 2025 | not stated | ⚪ Not yet | [report](https://allthings.how/the-most-useful-mac-and-ios-app-deals-for-black-friday-2025/) | 2026-11-06 |
 | **Setapp** | No verified BF discount. Official Nov 3: Mac plan visible; no BF promo text |  | not stated | ⚪ Not yet | [official](https://setapp.com/pricing) | 2026-11-06 |
 | **Skylum Luminar (photo editor)** | Official skylum.com/luminar pricing (Nov 3): Black Friday banner up to 77% off. Perpetual: All Platforms $139 (was $477); Max $159 (was $546). One-time. End not stated | Black Friday offer live Oct 24 2026; end not stated | not stated | 🟢 Live | [official](https://skylum.com/luminar/pricing) | 2026-11-06 |
-| **Picmal (Mac design/export tool)** | Official /pricing (Nov 5): list 1 Mac $29 (offer-off). Marketing bar half-price BF Until 30 November, but OfferWindow script startsAt 2026-11-23T08:00:00Z endsAt 2026-12-01T08:00:00Z — not live yet. When live: $14.50 one-time code BLACKFRIDAY. | Scripted window Nov 23 – Dec 1 2026 UTC (not live Nov 5) | 2026-12-01 | ⚪ Not yet | [official](https://picmal.app/pricing) | 2026-11-06 |
+| **Picmal (Mac design/export tool)** | Official /pricing (Nov 8): Black Friday LIVE. Script startsAt 2026-11-07T00:00:00Z endsAt 2026-11-24T08:00:00Z; code BLACKFRIDAY applied (data-offer). 1 Mac $29→$14.50 (printed). 2/5/10 Mac list $39/$89/$149; offer-on copy says 2 Macs is $5 more than the $14.50 1-Mac price. Marketing bar still says 50% off until 30 November — script endsAt Nov 24 08:00Z is authoritative. | Nov 7 – Nov 24 2026 (script window) | 2026-11-24 | 🟢 Live | [official](https://picmal.app/pricing) | 2026-11-08 |
 | **Warp, Superhuman, Linear, Obsidian Sync, Fantastical, Arc/Dia, RapidAPI** | No official BF deal (Oct 29 official pages: warp.dev, superhuman.com (17% off = annual billing), linear.app, obsidian.md). SIGNAL ONLY: flexibits.com pricing HTML has a hidden 'Black Friday Sale! Save 20%' banner whose script dates are 2025-11-24 to 2025-12-02 (Last year's (2025) Fantastical 20% off). Only grey-market reseller posts on Reddit otherwise |  | not stated | ⚪ Not yet | — | 2026-11-04 |
 | **Vitals (Mac)** | AppSumo lifetime deal claimed in founder X post (Oct 10 2026); AppSumo search for Vitals (Oct 29) shows no Vitals listing | Oct 2026 | not stated | 🟠 Unverified | [official](https://x.com/attacomsian/status/2108834703218561084) | 2026-11-04 |
 | **Smooth Recorder (Mac)** | Official site (Nov 3): $19 one-time lifetime instead of $49 (next 100 buyers; first 100 at $9 all claimed). Still live. | Oct 2026 | not stated | 🟢 Live | [official](https://www.smoothrecorder.com) | 2026-11-05 |
@@ -212,7 +215,7 @@ Bundles built only from the verified live deals above.
 | **Tailscale** | Official pricing (Oct 29): no promo text | Check Nov 3 / 16 / 24 | not stated | ⚪ Not yet | [official](https://tailscale.com/pricing) | 2026-11-06 |
 | **Folder Preview Pro (Anybox)** | X post by @IndieMarkdowns (Oct 20) says maker-confirmed 30% off with code BFF2026. Official page (Oct 30): anybox.app/folder-preview-pro returns 404. Last year's (2025) 30% off ($6.99) | Nov 27-Dec 3 2026 (claimed) | 2026-12-03 | 🟠 Unverified | [official](https://x.com/IndieMarkdowns/status/2112593838716182670) | 2026-11-06 |
 | **Wins (Mac window manager)** | Official wins.cool (Nov 7): Black Friday code BF_26 40%; Single $11.99 / Pro $23.99 / X $29.99. Ends Dec 1 2026. | Nov 1 – Dec 1 2026 | 2026-12-01 | 🟢 Live | [official](https://wins.cool/) | 2026-11-07 |
-| **Enconvo (Mac AI agent)** | Maker-side announcement (MacWorthy / IndieMarkdowns): 30% off lifetime licenses with code BLACKFRIDAY2026, Nov 23–30. Official enconvo.com/pricing (Oct 30) still Standard $49 / Premium $99 / Teams $139 once — no Black Friday label or code field yet | Nov 23 – Nov 30, 2026 (claimed) | 2026-11-30 | 🟠 Unverified | [official](https://macworthy.com/deals/black-friday/) | 2026-11-06 |
+| **Enconvo (Mac AI agent)** | Maker-side announcement (MacWorthy / IndieMarkdowns): 30% off lifetime licenses with code BLACKFRIDAY2026, Nov 23–30. Official enconvo.com/pricing (Nov 8) now Standard $59 / Premium $119 / Teams $159 once (was $49 / $99 / $139) — still no Black Friday label or code field. | Nov 23 – Nov 30, 2026 (claimed) | 2026-11-30 | 🟠 Unverified | [official](https://enconvo.com/pricing) | 2026-11-08 |
 | **DevUtils** | Maker/IndieMarkdowns claim 50% off all plans for BF 2026. Official https://devutils.com/pricing/ (Oct 30) still Basic $29 / Personal $39 perpetual — NO discount visible yet | BF 2026 (claimed; not on official pricing yet) | not stated | 🟠 Unverified | [official](https://devutils.com/pricing/) | 2026-11-06 |
 | **Univocal (Mac dictation/read-aloud)** | ANNOUNCED official purchase (Nov 7): BF Nov 20–Dec 1 code BF2026 $15 (was $39 lifetime). Window not open yet; list $39. | Goes live Nov 20 – Dec 1 2026 | 2026-12-01 | ⚪ Not yet | [official](https://univocalapp.com/purchase/) | 2026-11-07 |
 | **Shotomatic** | 40% off lifetime with code BF2026: 1 Mac $23.40 (was $39); up to 3 Macs $65.40 (was $109). One-time; subscriptions excluded; before tax. Official pricing with discount_code (not affiliate). End not stated. Rechecked Nov 3. | Live since Oct 18 2026; coupon no stated end | not stated | 🟢 Live | [official](https://www.shotomatic.com/pricing?discount_code=BF2026) | 2026-11-06 |
@@ -224,7 +227,7 @@ Bundles built only from the verified live deals above.
 | **Perch (Mac coding-agent menu bar)** | Official perch.run/black-friday (Nov 3): Lifetime licence $17.40 (was $29), 40% off, code BLACKFRIDAY2026; first 500 orders; team seats same $17.40. Also Perch Pro iPhone $29/yr (was $49) until Dec 1, no code. | 2 Nov – 1 Dec 2026 PT or until first 500 orders | not stated | 🟢 Live | [official](https://perch.run/black-friday) | 2026-11-06 |
 | **PastePal (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-06 |
 | **Almighty (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-06 |
-| **AppsByMo (Mac suite)** | ANNOUNCED on official homepage (Nov 3): 50% off every app, code BLACKFRIDAY; App Store prices halved. Window Nov 27–30 2026. Not live yet. | Goes live Nov 27 – Nov 30 2026 | 2026-11-30 | ⚪ Not yet | [official](https://appsbymo.app/) | 2026-11-06 |
+| **AppsByMo (Mac suite)** | ANNOUNCED on official homepage (Nov 8): visible upcoming text “50% off every paid app, Nov 9 to Dec 1”; hidden live copy: 50% off every app with code BLACKFRIDAY, App Store prices halved. Authoritative data-start=2026-11-26T21:00:00Z data-end=2026-12-01T08:00:00Z — not live yet. | Script window Nov 26 21:00 UTC – Dec 1 08:00 UTC (visible text says Nov 9–Dec 1) | 2026-12-01 | ⚪ Not yet | [official](https://appsbymo.app/) | 2026-11-08 |
 
 ### 🔍 SEO
 
@@ -271,6 +274,7 @@ Bundles built only from the verified live deals above.
 | **EngageBay** | Official /offer (Nov 3): Coming soon / countdown to Fri 27 Nov 2026. Blog/list claims 40% off all plans + 50k email credits Nov 9–Dec 4 — start date conflicts with offer page Nov 27. Treat as announced, not live. | Stated go-live 27 Nov 2026 on offer page (announced) | not stated | ⚪ Not yet | [official](https://www.engagebay.com/offer) | 2026-11-06 |
 | **Later (social scheduling)** | Official /black-friday-sale (Nov 5): 6 months free on new annual Growth or Scale (3 mo already in annual + 3 via code LATERBF26). Growth shown $37.50/mo billed yearly. New customers only; web checkout not iOS; no renewals/upgrades/monthly. | Nov 1 – Dec 4 2026 | 2026-12-04 | 🟢 Live | [official](https://later.com/black-friday-sale/) | 2026-11-05 |
 | **Internxt** | Official blog (Nov 2) + /black-friday (Nov 5): 87% off; from €1.29/mo 1TB; lifetime from €247. Sale ends Dec 3 2026; discount auto at checkout. Plan $ cards on sale page still JS-opaque — euro figures from official blog.internxt.com/black-friday-deals/. | Sale ends Dec 3 2026 | 2026-12-03 | 🟢 Live | [official](https://internxt.com/black-friday) | 2026-11-06 |
+| **BearConnect (LinkedIn automation)** | Official home + /pricing (Nov 8): banner “Black Friday: 50% Off for 6 Months” code 50OFFBC. List: Starter $56 / LinkedIn account / month billed annually ($670/year per account); Growth $237/month for 5 LinkedIn accounts billed annually (additional accounts $47/month each). Discounted totals after 50% not printed. End date not stated. | BF live as of Nov 8 2026; end not stated | not stated | 🟢 Live | [official](https://bearconnect.io/pricing/) | 2026-11-08 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).

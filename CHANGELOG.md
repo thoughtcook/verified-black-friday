@@ -1,3 +1,12 @@
+## 2026-11-08 (Sunday quick check)
+
+- **NEW Live:** Picmal — [picmal.app/pricing](https://picmal.app/pricing) Black Friday **50%** code **BLACKFRIDAY**. Script window **2026-11-07T00:00:00Z – 2026-11-24T08:00:00Z** (marketing bar still says until 30 November — script end is authoritative). 1 Mac **$29→$14.50** (printed). 2/5/10 Mac list **$39/$89/$149**; offer-on copy says 2 Macs is **$5 more** than the $14.50 1-Mac price.
+- **NEW Live:** BearConnect — [bearconnect.io/pricing](https://bearconnect.io/pricing/) banner **50% off for 6 months**, code **50OFFBC**. List: Starter **$56**/LinkedIn account/mo billed annually (**$670**/year); Growth **$237**/mo for 5 accounts (additional **$47**/mo each). Discounted totals not printed; end not stated.
+- **CHANGED (not live):** AppsByMo — visible text now “Nov 9 to Dec 1”; authoritative `data-start=2026-11-26T21:00:00Z` / `data-end=2026-12-01T08:00:00Z`; code **BLACKFRIDAY** when it opens.
+- **CHANGED (still Unverified):** Enconvo official list now Standard **$59** / Premium **$119** / Teams **$159** (was $49/$99/$139); still no on-page BF banner.
+- **Watch / Not yet:** CloudLinux / Imunify360 added — Imunify homepage teasers “Up to 40% OFF” for new customers; official CloudLinux OS X posts say offers start **Nov 9** through **Nov 30** (40% yearly Imunify360 / 30% yearly CloudLinux). Recheck Nov 9.
+- Rechecked VPN/hosting/AI/Mac quick set + always-watch DMIT/Cliproxy/Eden/Readwise/Fitbod/Typeless: no other new/better verified promos. TablePlus banner still disabled; Parallels countdown only; X Premium still 403; SiteGround 403 both paths (Nov 7 prices kept).
+
 ## 2026-11-07 (Saturday quick check)
 
 - **NEW Live:** Proton Pass — [proton.me/pass/black-friday](https://proton.me/pass/black-friday) Pass Plus **60%** → **$1.99/mo** ($23.88 first year, renews $35.88); Family **$33.48** first year; Unlimited cross-sell **50%** → **$6.49/mo** ($77.88).
