@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-120-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-121-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-47-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--11--08-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -228,6 +228,7 @@ Bundles built only from the verified live deals above.
 | **PastePal (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-06 |
 | **Almighty (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-06 |
 | **AppsByMo (Mac suite)** | ANNOUNCED on official homepage (Nov 8): visible upcoming text “50% off every paid app, Nov 9 to Dec 1”; hidden live copy: 50% off every app with code BLACKFRIDAY, App Store prices halved. Authoritative data-start=2026-11-26T21:00:00Z data-end=2026-12-01T08:00:00Z — not live yet. | Script window Nov 26 21:00 UTC – Dec 1 08:00 UTC (visible text says Nov 9–Dec 1) | 2026-12-01 | ⚪ Not yet | [official](https://appsbymo.app/) | 2026-11-08 |
+| **Sip (Mac color picker)** | Vendor-submitted: 50% off with code BLACKFRIDAY26 from Nov 27. Official /pricing (Nov 8): $29.99 per seat, includes 1 year of updates (extensions 70% of original price); no BF banner on page yet. | Nov 27 – Dec 1 2026 (vendor-stated) | 2026-12-01 | ⚪ Not yet | [official](https://sipapp.io/pricing/) | 2026-11-08 |
 
 ### 🔍 SEO
 

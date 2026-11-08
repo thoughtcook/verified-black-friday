@@ -1318,5 +1318,16 @@
     "link": "https://www.imunify360.com/",
     "link_type": "official",
     "last_checked": "2026-11-08"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Sip (Mac color picker)",
+    "status": "Not yet",
+    "deal": "Vendor-submitted: 50% off with code BLACKFRIDAY26 from Nov 27. Official /pricing (Nov 8): $29.99 per seat, includes 1 year of updates (extensions 70% of original price); no BF banner on page yet.",
+    "dates": "Nov 27 – Dec 1 2026 (vendor-stated)",
+    "ends": "2026-12-01",
+    "link": "https://sipapp.io/pricing/",
+    "link_type": "official",
+    "last_checked": "2026-11-08"
   }
 ]
