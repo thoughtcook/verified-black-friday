@@ -31,17 +31,17 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
 | 1 | [Smooth Recorder](https://www.smoothrecorder.com) | $19 one-time | $30 off $49 (~61%) | Mac screen recorder, lifetime licence, limited to 100 buyers |
-| 2 | [Proton VPN](https://protonvpn.com/black-friday) | $2.99/mo (2-yr, $71.76 upfront) | 70% off (per Cybernews; the official page shows the $2.99/mo price) | Official Black Friday page is already live |
-| 3 | [Hostinger](https://www.hostinger.com/black-friday) | Hosting from $2.49/mo · VPS from $6.49/mo · .com $0.01 | Up to 80% off hosting | Ends Dec 14, 2026 |
-| 4 | [ElevenLabs](https://elevenlabs.io/pricing) | Starter $1 first month (to Nov 1) / Creator $11 | 83% / 50% off month 1 | AI voice for videos and podcasts |
-| 5 | [SpaceWise](https://www.spacewisemac.in/pricing) | $3.99 lifetime | $4 off $7.99 (50%) | Clears Docker, Xcode and node_modules clutter on Mac and Windows |
+| 2 | [Proton VPN](https://protonvpn.com/black-friday) | $2.99/mo (1-yr, $35.88 first year) | 70% off (official /black-friday) | Official Black Friday page is live |
+| 3 | [Hostinger](https://www.hostinger.com/black-friday) | Hosting from $1.99/mo · VPS from $6.49/mo · .com $0.01 | Up to 85% off hosting | Ends Dec 14, 2026 |
+| 4 | [Proton Pass](https://proton.me/pass/black-friday) | Pass Plus $1.99/mo ($23.88 first year) | 60% off first year | Official Black Friday page is live |
+| 5 | [SpaceWise](https://www.spacewisemac.in/pricing) | $3.99 lifetime (code DIWALI50) | $4 off $7.99 (50%) | Diwali promo through Nov 11, 2026 (not BF-labelled) |
 
 ## ⏰ Key dates
 | Date (2026) | What happens |
 |---|---|
 | Oct 20 | First full verification ✅ |
 | Oct 21 to Dec 2 | Daily rechecks (full rechecks on Mondays and Thursdays) |
-| Oct 30 | CapCut Desktop Black Friday sale ends |
+| Nov 11 | SpaceWise Diwali $3.99 promo ends |
 | Nov 20 to Dec 2 | Full recheck every day |
 | **Nov 27** | **Black Friday** |
 | **Nov 30** | **Cyber Monday** |

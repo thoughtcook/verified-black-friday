@@ -1,3 +1,13 @@
+## 2026-11-09 (Monday full check)
+
+- **NEW Live:** SpaceWise — [spacewisemac.in/pricing](https://www.spacewisemac.in/pricing) Diwali sale (not Black Friday-labelled). Lifetime Pro **$3.99** (was $7.99), code **DIWALI50**, through **11 Nov 2026**.
+- **SYNC / Live:** Proton VPN — [protonvpn.com/black-friday](https://protonvpn.com/black-friday) official BF page (already recorded locally Nov 7). VPN Plus 1-yr **70%** → **$2.99/mo** (billed **$35.88** first year, renews $83.88). Public repo had been left on the Early `/pricing` 2-yr **$3.49/mo** figure.
+- **CHANGED (still Unverified):** Vitals — AppSumo listing now confirmed at [appsumo.com/products/vitals-for-mac](https://appsumo.com/products/vitals-for-mac/) **$15** lifetime (was $39). Official [vitalsmac.com/pricing](https://vitalsmac.com/pricing) is launch **$15** lifetime / **$9** year and is not BF-labelled.
+- **CHANGED (still Not yet):** CloudLinux / Imunify360 — Imunify HTML now contains yearly 40% cards (Single **$144→$86.40/yr**, 30 users **$300→$180**, 250 **$420→$252**, Unlimited **$540→$324**; new partners; hidden footnote until Dec 5) but CSS `#bf-hero,#bf-pricing-hero{display:none!important}` hides them. cloudlinux.com still has no 30% BF text.
+- **CHANGED:** Omnisend still Live 30% / **BLACK-FRIDAY-2026** through Dec 1; eligibility copy now conflicts (former paying→Free vs new customers and Free-plan upgrades).
+- **Watch / Not yet:** Adblock Plus added — official [adblockplus.org/premium](https://adblockplus.org/premium) standing Yearly **$40** or Monthly **$4**, no BF. AppsByMo still not live (script `data-start=2026-11-26T21:00:00Z` despite visible “Nov 9”). EngageBay still coming soon **27 Nov 2026**. Rank Math anniversary countdown still **2026-11-10 16:00:00**.
+- Rechecked the full list. Always-watch DMIT/Cliproxy/Eden/Readwise/Fitbod/Typeless: no promo. TablePlus banner still disabled; Parallels countdown only; X Premium / SiteGround / Perplexity / Gamma / Adobe still blocked or unreadable (previous prices kept). ExpressVPN Early Access dollars disagreed between curl SSR and WebFetch — listed figures left unchanged.
+
 ## 2026-11-08 (Sunday quick check)
 
 - **NEW Live:** Picmal — [picmal.app/pricing](https://picmal.app/pricing) Black Friday **50%** code **BLACKFRIDAY**. Script window **2026-11-07T00:00:00Z – 2026-11-24T08:00:00Z** (marketing bar still says until 30 November — script end is authoritative). 1 Mac **$29→$14.50** (printed). 2/5/10 Mac list **$39/$89/$149**; offer-on copy says 2 Macs is **$5 more** than the $14.50 1-Mac price.
