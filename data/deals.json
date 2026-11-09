@@ -1329,5 +1329,27 @@
     "link": "https://www.imunify360.com/",
     "link_type": "official",
     "last_checked": "2026-11-09"
+  },
+  {
+    "category": "SaaS",
+    "service": "LabEx Pro (1 Year)",
+    "status": "Live",
+    "deal": "Vendor-confirmed: 30% OFF one-year membership with code 2026BF30. Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud.",
+    "dates": "Active now - Dec 7, 2026",
+    "ends": "2026-12-07",
+    "link": "https://labex.io/checkout?type=2&coupon=2026BF30",
+    "link_type": "official",
+    "last_checked": "2026-11-09"
+  },
+  {
+    "category": "SaaS",
+    "service": "LabEx Pro (2 Years)",
+    "status": "Live",
+    "deal": "Vendor-confirmed: 50% OFF two-year membership with code 2026BF50. Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud.",
+    "dates": "Active now - Dec 7, 2026",
+    "ends": "2026-12-07",
+    "link": "https://labex.io/checkout?type=4&coupon=2026BF50",
+    "link_type": "official",
+    "last_checked": "2026-11-09"
   }
 ]

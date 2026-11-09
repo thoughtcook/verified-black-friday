@@ -6,8 +6,8 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-121-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-48-brightgreen)](#-best-live-deals-right-now)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-123-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-50-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--11--09-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
@@ -73,6 +73,8 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | **Tidio Lyro AI** | Official /black-friday (Nov 3): Early BF — Lyro AI Agent monthly $1 for first 2 months (e.g. 50 conversations plan was $78→$1). Promo codes BFCM50…BFCM1000 by quota. Offer expires December 5. | Early BF live; through Dec 5 2026 | 2026-12-05 | 🟢 Live | [official](https://www.tidio.com/black-friday/) | 2026-11-09 |
 | **Cloudways** | Official promo-code.php (Nov 7): 80% off first 2 months, code BFCM802; Flexible $11→$2.2/mo; Autonomous $20→$4/mo; new customers. Hellobar Dec 6 2026 13:00. | BF live Nov 2026 | 2026-12-06 | 🟢 Live | [official](https://www.cloudways.com/en/promo-code.php) | 2026-11-09 |
 | **HostPapa** | Official /deals (Nov 5): Black Friday — Web/WordPress hosting from $1.25/mo; VPS from $2.95/mo; Dedicated from $47.96/mo; up to 90% off; no code (auto in cart). New customers first term (e.g. Essentials 3-yr renews $7.29/mo). Offer valid until Dec 7, 2026 11:59pm EST. | BF live Nov 2026; ends Dec 7 2026 11:59pm EST | 2026-12-07 | 🟢 Live | [official](https://www.hostpapa.com/deals/) | 2026-11-09 |
+| **LabEx Pro (1 Year)** | Vendor-confirmed: 30% OFF one-year membership with code 2026BF30. Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | Active now - Dec 7, 2026 | 2026-12-07 | 🟢 Live | [official](https://labex.io/checkout?type=2&coupon=2026BF30) | 2026-11-09 |
+| **LabEx Pro (2 Years)** | Vendor-confirmed: 50% OFF two-year membership with code 2026BF50. Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | Active now - Dec 7, 2026 | 2026-12-07 | 🟢 Live | [official](https://labex.io/checkout?type=4&coupon=2026BF50) | 2026-11-09 |
 | **NordVPN** | Official /black-friday (Nov 7 WebFetch): From $3.49/mo; up to 78% off + 3 mo. Ends Dec 9 2026. FAQ Oct 21–Dec 9 2026. Last year's (2025) BF low $2.99/mo | Oct 21 - Dec 9 2026 | 2026-12-09 | 🟢 Live | [official](https://nordvpn.com/black-friday/) | 2026-11-09 |
 | **NordPass** | Official /black-friday (Nov 7 WebFetch): live until Dec 9. FAQ up to 50% OFF annual Personal + 3 extra months. USD cards JS-opaque this run. Business BF20OFF 20%. | Oct 21 - Dec 9 2026 | 2026-12-09 | 🟢 Live | [official](https://nordpass.com/black-friday/) | 2026-11-09 |
 | **Hostinger** | Official BF (Nov 7): web hosting from $1.99/mo (85% off); VPS from $6.49/mo (67% off); .com $0.01 1st yr; no code. Oct 19–Dec 14 2026. | Oct 19 - Dec 14 2026 | 2026-12-14 | 🟢 Live | [official](https://www.hostinger.com/black-friday) | 2026-11-09 |
@@ -277,6 +279,8 @@ Bundles built only from the verified live deals above.
 | **Later (social scheduling)** | Official /black-friday-sale (Nov 5): 6 months free on new annual Growth or Scale (3 mo already in annual + 3 via code LATERBF26). Growth shown $37.50/mo billed yearly. New customers only; web checkout not iOS; no renewals/upgrades/monthly. | Nov 1 – Dec 4 2026 | 2026-12-04 | 🟢 Live | [official](https://later.com/black-friday-sale/) | 2026-11-09 |
 | **Internxt** | Official blog (Nov 2) + /black-friday (Nov 5): 87% off; from €1.29/mo 1TB; lifetime from €247. Sale ends Dec 3 2026; discount auto at checkout. Plan $ cards on sale page still JS-opaque — euro figures from official blog.internxt.com/black-friday-deals/. | Sale ends Dec 3 2026 | 2026-12-03 | 🟢 Live | [official](https://internxt.com/black-friday) | 2026-11-09 |
 | **BearConnect (LinkedIn automation)** | Official home + /pricing (Nov 8): banner “Black Friday: 50% Off for 6 Months” code 50OFFBC. List: Starter $56 / LinkedIn account / month billed annually ($670/year per account); Growth $237/month for 5 LinkedIn accounts billed annually (additional accounts $47/month each). Discounted totals after 50% not printed. End date not stated. | BF live as of Nov 8 2026; end not stated | not stated | 🟢 Live | [official](https://bearconnect.io/pricing/) | 2026-11-09 |
+| **LabEx Pro (1 Year)** | Vendor-confirmed: 30% OFF one-year membership with code 2026BF30. Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | Active now - Dec 7, 2026 | 2026-12-07 | 🟢 Live | [official](https://labex.io/checkout?type=2&coupon=2026BF30) | 2026-11-09 |
+| **LabEx Pro (2 Years)** | Vendor-confirmed: 50% OFF two-year membership with code 2026BF50. Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | Active now - Dec 7, 2026 | 2026-12-07 | 🟢 Live | [official](https://labex.io/checkout?type=4&coupon=2026BF50) | 2026-11-09 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).
