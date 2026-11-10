@@ -1373,5 +1373,16 @@
     "link": "https://www.imunify360.com/",
     "link_type": "official",
     "last_checked": "2026-11-10"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Dirstarter (Next.js directory template)",
+    "status": "Live",
+    "deal": "Official site (Nov 10): 50% off the one-time lifetime license with code BF2026. Basic $75 (was $150); Pro $100 (was $200). The official coupon URL https://dirstarter.com/?discountCode=BF2026 shows the discounted prices. Vendor-submitted.",
+    "dates": "Live Nov 10 2026; ends Dec 1 2026",
+    "ends": "2026-12-01",
+    "link": "https://dirstarter.com/?discountCode=BF2026",
+    "link_type": "official",
+    "last_checked": "2026-11-10"
   }
 ]
