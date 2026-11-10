@@ -8,7 +8,7 @@
     "ends": "",
     "link": "https://surfshark.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPN",
@@ -19,7 +19,7 @@
     "ends": "2026-12-09",
     "link": "https://nordvpn.com/black-friday/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPN",
@@ -30,18 +30,18 @@
     "ends": "",
     "link": "https://www.expressvpn.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPN",
     "service": "Proton VPN",
     "status": "Live",
-    "deal": "Official /black-friday (Nov 9): LIVE BF. VPN Plus 1-yr 70% off → $2.99/mo; billed $35.88 first 12 mo; renews $83.88/12 mo (was $9.99/mo list). Unlimited welcome 92% off $1.00 first month then $12.99/mo. /pricing has no Early/BF label this run; standing 2-yr Plus $3.49/mo ($83.76/24), renews $83.88/12.",
+    "deal": "Official /black-friday (Nov 10): still LIVE BF. VPN Plus 1-yr 70% off → $2.99/mo; billed $35.88 first 12 mo; renews $83.88/12 mo (was $9.99/mo list). Unlimited welcome 92% off $1.00 first month then $12.99/mo. End not stated on /black-friday. /pricing (Nov 10) now defaults to the same 1-yr Plus $2.99/mo ($35.88/12) and Unlimited 50% off $6.49/mo ($77.88/12) with coupon BF2026NEW, but still has no “Black Friday”/“Early” text. Previous standing 2-yr Plus $3.49/mo ($83.76/24) is gone from default SSR (remains only in hydration JSON).",
     "dates": "BF live as of Nov 9 2026; end not stated on /black-friday this run",
     "ends": "",
     "link": "https://protonvpn.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPN",
@@ -52,7 +52,7 @@
     "ends": "",
     "link": "https://www.cyberghostvpn.com/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPN",
@@ -63,7 +63,7 @@
     "ends": "",
     "link": "https://www.privateinternetaccess.com/buy-vpn-online",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPN",
@@ -74,7 +74,7 @@
     "ends": "",
     "link": "https://mullvad.net/en/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPN",
@@ -85,7 +85,7 @@
     "ends": "",
     "link": "https://www.ipvanish.com/black-friday/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPN",
@@ -96,7 +96,7 @@
     "ends": "",
     "link": "https://www.purevpn.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPS",
@@ -107,7 +107,7 @@
     "ends": "",
     "link": "https://www.racknerd.com/blackfriday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPS",
@@ -118,7 +118,7 @@
     "ends": "",
     "link": "https://bandwagonhost.com/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPS",
@@ -129,7 +129,7 @@
     "ends": "2026-12-14",
     "link": "https://www.hostinger.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPS",
@@ -151,7 +151,7 @@
     "ends": "2026-12-06",
     "link": "https://www.cloudways.com/en/promo-code.php",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPS",
@@ -162,7 +162,7 @@
     "ends": "",
     "link": "https://www.vultr.com/pricing/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPS",
@@ -173,18 +173,18 @@
     "ends": "",
     "link": "",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPS",
     "service": "DMIT",
     "status": "Not yet",
-    "deal": "Official /pages/pricing (Nov 7 WebFetch): list prices only, no BF banner. Last year's (2025) BF buy-two-get-one Pro + cashback.",
-    "dates": "Check Nov 16 / 24",
+    "deal": "Official dmit.io /pages/pricing (Nov 10 WebFetch; curl 403 CF): list prices only, no BF/promo banner. Event/black-friday pages not live. Sample LAX.AS3.T1 TINY $6.90/Monthly; WEE $36.90/Annually. Last year's (2025) BF buy-two-get-one Pro + spend cashback is not live.",
+    "dates": "Last year's (2025) BF typically late Nov; recheck Nov 16 / 24",
     "ends": "",
     "link": "https://www.dmit.io/pages/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -195,7 +195,7 @@
     "ends": "",
     "link": "https://elevenlabs.io/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -206,7 +206,7 @@
     "ends": "",
     "link": "https://sintra.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -217,7 +217,7 @@
     "ends": "",
     "link": "https://scalenut.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -228,7 +228,7 @@
     "ends": "",
     "link": "https://cursor.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -239,7 +239,7 @@
     "ends": "",
     "link": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -250,7 +250,7 @@
     "ends": "",
     "link": "https://www.jasper.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -261,7 +261,7 @@
     "ends": "",
     "link": "https://www.descript.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -283,7 +283,7 @@
     "ends": "",
     "link": "https://www.grammarly.com/plans",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -294,7 +294,7 @@
     "ends": "",
     "link": "",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -316,7 +316,7 @@
     "ends": "",
     "link": "https://1password.com/pricing/password-manager",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -327,7 +327,7 @@
     "ends": "2026-12-09",
     "link": "https://nordpass.com/black-friday/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -338,7 +338,7 @@
     "ends": "",
     "link": "https://proton.me/pass/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -349,7 +349,7 @@
     "ends": "",
     "link": "https://www.kickidler.com/info/top-black-friday-deals-for-saas",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -360,7 +360,7 @@
     "ends": "",
     "link": "https://www.kickidler.com/info/top-black-friday-deals-for-saas",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -371,7 +371,7 @@
     "ends": "",
     "link": "",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -382,7 +382,7 @@
     "ends": "",
     "link": "https://cleanshot.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -393,7 +393,7 @@
     "ends": "",
     "link": "https://www.cultofmac.com/deals/best-black-friday-2025-mac-apps",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -404,7 +404,7 @@
     "ends": "",
     "link": "https://www.reddit.com/r/raycastapp/comments/1p9r6u3/black_friday_30_off_on_raycast/",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -415,7 +415,7 @@
     "ends": "",
     "link": "https://9to5mac.com/2025/12/01/black-friday-cyber-monday-app-discounts-deal/",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -426,7 +426,7 @@
     "ends": "",
     "link": "https://tableplus.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -437,7 +437,7 @@
     "ends": "",
     "link": "https://www.popsci.com/gear/cleanmymac-software-black-friday-deal/",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -448,7 +448,7 @@
     "ends": "",
     "link": "https://9to5mac.com/2025/12/01/black-friday-cyber-monday-app-discounts-deal/",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -459,7 +459,7 @@
     "ends": "",
     "link": "https://designerup.co/blog/the-absolute-best-black-friday-and-cyber-monday-deals-for-designers-2025-edition/",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -470,7 +470,7 @@
     "ends": "",
     "link": "https://allthings.how/the-most-useful-mac-and-ios-app-deals-for-black-friday-2025/",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -481,7 +481,7 @@
     "ends": "",
     "link": "https://setapp.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -503,7 +503,7 @@
     "ends": "2026-11-24",
     "link": "https://picmal.app/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -514,7 +514,7 @@
     "ends": "",
     "link": "",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -525,7 +525,7 @@
     "ends": "",
     "link": "https://appsumo.com/products/vitals-for-mac/",
     "link_type": "report",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -542,12 +542,12 @@
     "category": "Mac/Dev",
     "service": "SpaceWise 2.0 (Mac)",
     "status": "Live",
-    "deal": "Official /pricing (Nov 9): Diwali sale (not Black Friday-labelled). Visible banner Lifetime Pro $3.99 (was $7.99), code DIWALI50; title \"Offer valid till Nov 11, 2026\". Schema/meta still list $7.99.",
+    "deal": "Official /pricing (Nov 10): Diwali sale still live (not BF-labelled). Lifetime Pro $3.99 (was $7.99), code DIWALI50; offer valid till Nov 11, 2026.",
     "dates": "Through Nov 11 2026 (Diwali promo; not BF)",
     "ends": "2026-11-11",
     "link": "https://www.spacewisemac.in/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -558,18 +558,29 @@
     "ends": "",
     "link": "https://sparkmailapp.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SEO",
     "service": "Rank Math PRO",
     "status": "Live",
-    "deal": "Official /offer (Nov 7): PRO Anniversary Sale up to 40% OFF (not BF-labelled). Countdown 2026-11-10 16:00:00.",
-    "dates": "Anniversary sale live Nov 6 2026",
+    "deal": "Official /offer (Nov 10 morning): still PRO Anniversary Sale up to 40% OFF (not BF-labelled). Countdown still 2026-11-10 16:00:00 with no timezone. Previously $8.99 visible; a $5.59 sale figure was not in readable HTML this run, so not recorded. Recheck after the countdown stamp.",
+    "dates": "Anniversary sale live Nov 6 2026; page countdown to 2026-11-10 16:00:00 (tz not stated)",
     "ends": "2026-11-10",
     "link": "https://rankmath.com/offer/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
+  },
+  {
+    "category": "SaaS",
+    "service": "WP Rocket",
+    "status": "Live",
+    "deal": "Official /black-friday-2026 and /pricing (Nov 10): LIVE BF. 1-year 40% off code black-friday; 3-year 60% off code black-friday-3y; first-time purchase, renews at regular price. dataLayer list−discount: 1-yr Single $35.97; Plus $71.97; Multi 50 $179.97. 3-yr Single $70.36; Plus $140.92; Multi 50 $352.60. Also Multi 100 1-yr $239.97 / 3-yr $467.51; Multi 500 1-yr $359.97 / 3-yr $705.40. Countdown data-date=2026-11-28; some CTA copy says November 27.",
+    "dates": "BF live Nov 10 2026; countdown to Nov 28 2026 (some copy says Nov 27)",
+    "ends": "2026-11-28",
+    "link": "https://wp-rocket.me/black-friday-2026/",
+    "link_type": "official",
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SEO",
@@ -580,7 +591,7 @@
     "ends": "",
     "link": "https://www.semrush.com/prices/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SEO",
@@ -591,7 +602,7 @@
     "ends": "",
     "link": "https://help.ahrefs.com/en/articles/1406260-do-you-offer-any-discounts-or-free-trials",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -602,7 +613,7 @@
     "ends": "",
     "link": "https://tailscale.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -624,7 +635,7 @@
     "ends": "",
     "link": "https://x.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -635,7 +646,18 @@
     "ends": "",
     "link": "https://www.heygen.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
+  },
+  {
+    "category": "AI",
+    "service": "Pictory",
+    "status": "Live",
+    "deal": "Official /pricing/ (Nov 10): LIVE Black Friday Offer on Professional annual — $29.50/month billed annually (was $59), code BLACKFRIDAY2026. End date not stated on the pricing page.",
+    "dates": "BF live as of Nov 10 2026; end not stated on official /pricing/",
+    "ends": "",
+    "link": "https://pictory.ai/pricing/",
+    "link_type": "official",
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -646,7 +668,7 @@
     "ends": "",
     "link": "https://www.typeless.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -657,7 +679,7 @@
     "ends": "",
     "link": "https://www.capcut.com/tools/capcut-black-friday-sale",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -668,7 +690,7 @@
     "ends": "2026-10-30",
     "link": "https://dreamina.capcut.com/ai-video/dreamina-october-offer-faq-2026",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -679,7 +701,7 @@
     "ends": "2026-12-03",
     "link": "https://x.com/IndieMarkdowns/status/2112593838716182670",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -690,7 +712,7 @@
     "ends": "",
     "link": "https://eden.so/pricing/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -701,7 +723,7 @@
     "ends": "",
     "link": "https://readwise.io/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -712,7 +734,7 @@
     "ends": "",
     "link": "https://help.fitbod.me/hc/en-us/articles/360004904714-How-to-Subscribe-to-Fitbod",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -723,7 +745,7 @@
     "ends": "2026-12-01",
     "link": "https://www.kavel.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -734,7 +756,7 @@
     "ends": "2026-11-27",
     "link": "https://blackfriday.pabbly.com/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -756,7 +778,7 @@
     "ends": "2026-11-30",
     "link": "https://enconvo.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -767,7 +789,7 @@
     "ends": "",
     "link": "https://devutils.com/pricing/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPN",
@@ -778,7 +800,7 @@
     "ends": "",
     "link": "https://cliproxy.com/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -789,7 +811,7 @@
     "ends": "2026-12-01",
     "link": "https://univocalapp.com/purchase/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -811,7 +833,7 @@
     "ends": "2026-12-04",
     "link": "https://deepvue.com/black-friday-2026/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -822,7 +844,7 @@
     "ends": "",
     "link": "https://runway.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -833,7 +855,7 @@
     "ends": "",
     "link": "https://lovable.dev/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -844,7 +866,7 @@
     "ends": "",
     "link": "https://www.granola.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -855,7 +877,7 @@
     "ends": "",
     "link": "https://wisprflow.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -866,7 +888,7 @@
     "ends": "",
     "link": "https://supabase.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPS",
@@ -877,7 +899,7 @@
     "ends": "",
     "link": "https://railway.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -888,7 +910,7 @@
     "ends": "",
     "link": "https://n8n.io/pricing/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -899,7 +921,7 @@
     "ends": "",
     "link": "https://replit.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -910,7 +932,7 @@
     "ends": "",
     "link": "https://one.google.com/about/google-ai-plans/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -932,7 +954,7 @@
     "ends": "",
     "link": "https://higgsfield.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -943,7 +965,7 @@
     "ends": "",
     "link": "https://posthog.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -954,7 +976,7 @@
     "ends": "",
     "link": "https://manus.im/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -965,7 +987,7 @@
     "ends": "",
     "link": "https://gumloop.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -976,7 +998,7 @@
     "ends": "",
     "link": "https://www.lennysnewsletter.com/subscribe",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -987,7 +1009,7 @@
     "ends": "",
     "link": "https://factory.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -998,7 +1020,7 @@
     "ends": "2026-12-01",
     "link": "https://creatune.ai/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1009,7 +1031,7 @@
     "ends": "",
     "link": "https://getadblock.com/en/premium/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1020,7 +1042,7 @@
     "ends": "",
     "link": "https://adguard.com/en/license.html",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1031,7 +1053,7 @@
     "ends": "",
     "link": "https://adblockplus.org/premium",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -1064,7 +1086,7 @@
     "ends": "",
     "link": "https://www.parallels.com/products/desktop/buy/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -1075,7 +1097,7 @@
     "ends": "2026-12-05",
     "link": "https://www.tidio.com/black-friday/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -1108,7 +1130,7 @@
     "ends": "",
     "link": "https://codexpert.io/coupon/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1119,7 +1141,29 @@
     "ends": "",
     "link": "https://www.sender.net/pricing/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
+  },
+  {
+    "category": "SaaS",
+    "service": "MailerLite",
+    "status": "Not yet",
+    "deal": "Official /black-friday-deal (Nov 10): ANNOUNCED — 26% off annual plans Nov 17, 2026 14:00 UTC to Dec 18, 2026 16:00 UTC. Comfort $144/year from $107/year during the sale; Power $300/year from $222/year during the sale. Checkout code not printed on the page yet. Not live yet.",
+    "dates": "Starts Nov 17 2026 14:00 UTC – Dec 18 2026 16:00 UTC (announced)",
+    "ends": "2026-12-18",
+    "link": "https://www.mailerlite.com/black-friday-deal",
+    "link_type": "official",
+    "last_checked": "2026-11-10"
+  },
+  {
+    "category": "SaaS",
+    "service": "TimeCamp",
+    "status": "Not yet",
+    "deal": "Official /black-friday-2026 (Nov 10): ANNOUNCED — 30% off the annual Ultimate plan for the first 12 months, code TCBF26, first-time subscriptions only; then renews at the usual price. Starts Nov 23, 2026 00:00 UTC, ends Dec 5, 2026 23:59 UTC. Not live yet.",
+    "dates": "Nov 23 2026 00:00 UTC – Dec 5 2026 23:59 UTC (announced)",
+    "ends": "2026-12-05",
+    "link": "https://www.timecamp.com/black-friday-2026/",
+    "link_type": "official",
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1130,7 +1174,7 @@
     "ends": "",
     "link": "https://www.dubsado.com/black-friday-2026",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -1141,7 +1185,7 @@
     "ends": "2026-11-30",
     "link": "https://vogoo.ai/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1152,7 +1196,7 @@
     "ends": "",
     "link": "https://blackfriday.systeme.io",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -1174,7 +1218,7 @@
     "ends": "2026-12-01",
     "link": "https://www.omnisend.com/bfcm/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -1185,7 +1229,7 @@
     "ends": "2026-12-01",
     "link": "https://scifig.ai/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1196,7 +1240,7 @@
     "ends": "",
     "link": "https://www.growave.io/bfcm-deals",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SEO",
@@ -1207,7 +1251,7 @@
     "ends": "2026-11-27",
     "link": "https://rapid-indexer.com/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "Mac/Dev",
@@ -1234,13 +1278,13 @@
   {
     "category": "Mac/Dev",
     "service": "AppsByMo (Mac suite)",
-    "status": "Not yet",
-    "deal": "ANNOUNCED on official homepage (Nov 8): visible upcoming text “50% off every paid app, Nov 9 to Dec 1”; hidden live copy: 50% off every app with code BLACKFRIDAY, App Store prices halved. Authoritative data-start=2026-11-26T21:00:00Z data-end=2026-12-01T08:00:00Z — not live yet.",
-    "dates": "Script window Nov 26 21:00 UTC – Dec 1 08:00 UTC (visible text says Nov 9–Dec 1)",
-    "ends": "2026-12-01",
+    "status": "Live",
+    "deal": "Official homepage + content.js (Nov 10): LIVE. Script window start=2026-11-08T21:00:00Z end=2026-12-02T08:00:00Z. Code BLACKFRIDAY; 50% off every paid app; App Store prices halved. Static HTML still shows the pre-JS “upcoming” default — theme.js uses the script dates, which have already started. Individual app sale prices are in content.js; not restated here as invented 50% totals.",
+    "dates": "Nov 8 21:00 UTC – Dec 2 08:00 UTC (script; copy says 9 Nov – 1 Dec)",
+    "ends": "2026-12-02",
     "link": "https://appsbymo.app/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1251,18 +1295,18 @@
     "ends": "2026-12-31",
     "link": "https://beta.scrollsequence.com/black-friday-cyber-monday-deals",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
     "service": "EngageBay",
     "status": "Not yet",
-    "deal": "Official /offer (Nov 3): Coming soon / countdown to Fri 27 Nov 2026. Blog/list claims 40% off all plans + 50k email credits Nov 9–Dec 4 — start date conflicts with offer page Nov 27. Treat as announced, not live.",
-    "dates": "Stated go-live 27 Nov 2026 on offer page (announced)",
+    "deal": "Official /offer (Nov 10): still not live. Title/FAQ/CTA now read like a 40% Black Friday 2026 CRM offer (signup coupon ICbFKuOi), but the countdown is still “Counting down to Friday, 27 November 2026”. Treat the countdown start as authoritative.",
+    "dates": "Stated go-live 27 Nov 2026 on offer page countdown (announced)",
     "ends": "",
     "link": "https://www.engagebay.com/offer",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "VPS",
@@ -1273,7 +1317,7 @@
     "ends": "2026-12-07",
     "link": "https://www.hostpapa.com/deals/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1284,7 +1328,7 @@
     "ends": "2026-12-04",
     "link": "https://later.com/black-friday-sale/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "AI",
@@ -1295,7 +1339,7 @@
     "ends": "2026-12-03",
     "link": "https://bimg.ai/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1306,7 +1350,7 @@
     "ends": "2026-12-03",
     "link": "https://internxt.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   },
   {
     "category": "SaaS",
@@ -1322,12 +1366,12 @@
   {
     "category": "VPS",
     "service": "CloudLinux / Imunify360",
-    "status": "Not yet",
-    "deal": "Official Imunify homepage + imunify360.com/imunify360-pricing/ (Nov 9): BF hero and yearly 40% table exist in HTML but CSS #bf-hero,#bf-pricing-hero{display:none!important} hides them — not visually live. Hidden yearly cards: Single $144→$86.40/yr; 30 users $300→$180; 250 $420→$252; Unlimited $540→$324. Footnote: new partner accounts only; renewals revert to regular; until Dec 5 (official X said through Nov 30). cloudlinux.com itself has no BF/30% text (regular from $7/$12/$18 per server/mo). /black-friday 404 on both domains. Last year's (2025) VPS Bundle blog is a partner landing (up to 55%), not this promo.",
-    "dates": "Official X said Nov 9–Nov 30; hidden Imunify footnote until Dec 5; not visually live Nov 9",
-    "ends": "2026-11-30",
+    "status": "Live",
+    "deal": "Official Imunify homepage + imunify360.com/imunify360-pricing/ and cloudlinux.com/pricing + /deals (Nov 10): now visually LIVE. CSS flipped to show the BF heroes (original heroes hidden). Imunify yearly 40%: Single $144→$86.40/yr; 30 users $300→$180; 250 $420→$252; Unlimited $540→$324. CloudLinux yearly (new partner accounts): 1 Hosting Account from $63.00/server/yr (1 server 25% / 2–4 $54.00 / 5–49 $42.00 30% / 50+ $33.60 30%); 5 Hosting Accounts from $108.00 (2–4 $90.00 / 5–49 $75.60 / 50+ $58.80); Unlimited from $162.00 (2–4 $144.00 / 5–49 $117.60 / 50+ $109.20). Footnote: new partner accounts only; upfront yearly; renewals revert; until Dec 5, 2026. Official X still said through Nov 30. No coupon code.",
+    "dates": "Visually live Nov 10 2026; footnote until Dec 5 2026 (official X had said Nov 30)",
+    "ends": "2026-12-05",
     "link": "https://www.imunify360.com/",
     "link_type": "official",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-10"
   }
 ]
