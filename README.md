@@ -6,8 +6,8 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-125-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-52-brightgreen)](#-best-live-deals-right-now)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-126-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-53-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--11--10-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
@@ -42,6 +42,7 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | Oct 20 | First full verification ✅ |
 | Oct 21 to Dec 2 | Daily rechecks (full rechecks on Mondays and Thursdays) |
 | Nov 11 | SpaceWise Diwali $3.99 promo ends |
+| Nov 13 | Shadowsocks.au 双十一 promo ends (23:59 Beijing time) |
 | Nov 20 to Dec 2 | Full recheck every day |
 | **Nov 27** | **Black Friday** |
 | **Nov 30** | **Cyber Monday** |
@@ -56,6 +57,7 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 |---|---|---|---|---|---|---|
 | **Rank Math PRO** | Official /offer (Nov 10 morning): still PRO Anniversary Sale up to 40% OFF (not BF-labelled). Countdown still 2026-11-10 16:00:00 with no timezone. Previously $8.99 visible; a $5.59 sale figure was not in readable HTML this run, so not recorded. Recheck after the countdown stamp. | Anniversary sale live Nov 6 2026; page countdown to 2026-11-10 16:00:00 (tz not stated) | 2026-11-10 | 🟢 Live | [official](https://rankmath.com/offer/) | 2026-11-10 |
 | **SpaceWise 2.0 (Mac)** | Official /pricing (Nov 10): Diwali sale still live (not BF-labelled). Lifetime Pro $3.99 (was $7.99), code DIWALI50; offer valid till Nov 11, 2026. | Through Nov 11 2026 (Diwali promo; not BF) | 2026-11-11 | 🟢 Live | [official](https://www.spacewisemac.in/pricing) | 2026-11-10 |
+| **Shadowsocks.au** | Official /1111.php (Nov 10 ET): 2026 双十一促销 LIVE (not BF-labelled). 1-year 7折 (30% off), 2-year 65折 (35% off), 3-year 6折 (40% off); all Lite and Pro; new purchases and renewals. Window 2026-11-10 00:00 – 2026-11-13 23:59 Beijing time (Nov 9, 11:00 AM – Nov 13, 10:59 AM ET). Page does not print discounted dollar totals. Store list still shows Lite $19.95/yr and Pro $12.95/mo. After the event, regular prices return. One renewal discount per service; renewals require login (buying without login opens a new independent service). Each new purchase or renewal includes one lottery draw for a traffic reset card. | Nov 10, 00:00 – Nov 13, 23:59 Beijing time (Nov 9, 11:00 AM – Nov 13, 10:59 AM ET) | 2026-11-13 | 🟢 Live | [official](https://secure.shadowsocks.au/1111.php) | 2026-11-10 |
 | **Picmal (Mac design/export tool)** | Official /pricing (Nov 9): Black Friday LIVE. Script startsAt 2026-11-07T00:00:00Z endsAt 2026-11-24T08:00:00Z; code BLACKFRIDAY applied (data-offer). 1 Mac $29→$14.50 (printed). 2/5/10 Mac list $39/$89/$149; offer-on copy says 2 Macs is $5 more than the $14.50 1-Mac price. data-tiers attribute also lists offerPrice $14.50/$19.50/$44.50/$74.50 (read from HTML this run). Marketing bar still says 50% off until 30 November — script endsAt Nov 24 08:00Z is authoritative. | Nov 7 – Nov 24 2026 (script window) | 2026-11-24 | 🟢 Live | [official](https://picmal.app/pricing) | 2026-11-10 |
 | **Rapid Indexer** | Official homepage (Nov 3): BF top-up credit bonuses +20% all / +30% on $100+ / +40% on $1,000+ (credits never expire). Through 27 Nov 2026 23:59 UTC. | Through 27 Nov 2026 23:59 UTC | 2026-11-27 | 🟢 Live | [official](https://rapid-indexer.com/) | 2026-11-10 |
 | **WP Rocket** | Official /black-friday-2026 and /pricing (Nov 10): LIVE BF. 1-year 40% off code black-friday; 3-year 60% off code black-friday-3y; first-time purchase, renews at regular price. dataLayer list−discount: 1-yr Single $35.97; Plus $71.97; Multi 50 $179.97. 3-yr Single $70.36; Plus $140.92; Multi 50 $352.60. Also Multi 100 1-yr $239.97 / 3-yr $467.51; Multi 500 1-yr $359.97 / 3-yr $705.40. Countdown data-date=2026-11-28; some CTA copy says November 27. | BF live Nov 10 2026; countdown to Nov 28 2026 (some copy says Nov 27) | 2026-11-28 | 🟢 Live | [official](https://wp-rocket.me/black-friday-2026/) | 2026-11-10 |
@@ -180,6 +182,7 @@ Bundles built only from the verified live deals above.
 | **Mullvad** | Official pricing (Nov 3): flat ~$5.59 / other FX; page continues to say no lifetime or discounted rates (crypto fee note historically) |  | not stated | ⛔ Never discounts | [official](https://mullvad.net/en/pricing) | 2026-11-10 |
 | **IPVanish** | Official /black-friday (Nov 7): from $2.19/mo. 2-yr Essential $2.19; Complete $2.79. | BF live by Oct 16 2026 | not stated | 🟢 Live | [official](https://www.ipvanish.com/black-friday/) | 2026-11-10 |
 | **PureVPN** | Official /black-friday (Nov 7): 5-yr Standard $1.69/mo ($101.55, 87% off). | BF live Oct 2026 | not stated | 🟢 Live | [official](https://www.purevpn.com/black-friday) | 2026-11-10 |
+| **Shadowsocks.au** | Official /1111.php (Nov 10 ET): 2026 双十一促销 LIVE (not BF-labelled). 1-year 7折 (30% off), 2-year 65折 (35% off), 3-year 6折 (40% off); all Lite and Pro; new purchases and renewals. Window 2026-11-10 00:00 – 2026-11-13 23:59 Beijing time (Nov 9, 11:00 AM – Nov 13, 10:59 AM ET). Page does not print discounted dollar totals. Store list still shows Lite $19.95/yr and Pro $12.95/mo. After the event, regular prices return. One renewal discount per service; renewals require login (buying without login opens a new independent service). Each new purchase or renewal includes one lottery draw for a traffic reset card. | Nov 10, 00:00 – Nov 13, 23:59 Beijing time (Nov 9, 11:00 AM – Nov 13, 10:59 AM ET) | 2026-11-13 | 🟢 Live | [official](https://secure.shadowsocks.au/1111.php) | 2026-11-10 |
 | **Cliproxy (static ISP / residential proxies)** | Official cliproxy.com (Nov 7): residential from $0.58/GB; Dynamic from $0.72/GB; Static from $3.00/mo. No live BF label. | Promo-tier seen Oct 23 2026 | not stated | 🟡 Early | [official](https://cliproxy.com/) | 2026-11-10 |
 
 ### 🖥️ Hosting & VPS

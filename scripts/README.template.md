@@ -42,6 +42,7 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | Oct 20 | First full verification ✅ |
 | Oct 21 to Dec 2 | Daily rechecks (full rechecks on Mondays and Thursdays) |
 | Nov 11 | SpaceWise Diwali $3.99 promo ends |
+| Nov 13 | Shadowsocks.au 双十一 promo ends (23:59 Beijing time) |
 | Nov 20 to Dec 2 | Full recheck every day |
 | **Nov 27** | **Black Friday** |
 | **Nov 30** | **Cyber Monday** |

@@ -1,3 +1,7 @@
+## 2026-11-10 (evening, user-requested)
+
+- **NEW Live:** Shadowsocks.au — official [secure.shadowsocks.au/1111.php](https://secure.shadowsocks.au/1111.php) **2026 双十一促销** (not Black Friday-labelled). 1-year **7折** (30% off), 2-year **65折** (35% off), 3-year **6折** (40% off); all Lite and Pro; new purchases and renewals. Window **2026-11-10 00:00 – 2026-11-13 23:59 Beijing time** (Nov 9, 11:00 AM – Nov 13, 10:59 AM ET). Page does not print discounted dollar totals. Store list still shows Lite **$19.95/yr** and Pro **$12.95/mo**. After the event, regular prices return. One renewal discount per service; renewals require login (buying without login opens a new independent service).
+
 ## 2026-11-10 (Tuesday quick check)
 
 - **NEW Live:** WP Rocket — [wp-rocket.me/black-friday-2026](https://wp-rocket.me/black-friday-2026/) official BF. 1-year **40%** code **black-friday**; 3-year **60%** code **black-friday-3y**; first-time purchase, renews regular. dataLayer list−discount: 1-yr Single **$35.97** / Plus **$71.97** / Multi 50 **$179.97**; 3-yr Single **$70.36** / Plus **$140.92** / Multi 50 **$352.60**. Countdown **28 Nov 2026** (some copy says 27 Nov).
