@@ -18,6 +18,10 @@ for i, o in enumerate(d):
     if o.get('ends') and not re.fullmatch(r'\d{4}-\d{2}-\d{2}', o['ends']): errs.append(f'{n}: ends must be YYYY-MM-DD or empty')
     if re.search(r'2025', o.get('deal','')) and "Last year's (2025)" not in o['deal']: errs.append(f"{n}: 2025 figures need the \"Last year's (2025)\" prefix")
     if o.get('status') in ('Live','Early') and not o.get('link'): errs.append(f'{n}: live deals need a link')
+    FORBIDDEN = re.compile(r'shadowsocks|astrill|@?sonkitindustry|for johnny|\bhe uses\b', re.I)
+    for k, v in o.items():
+        if isinstance(v, str) and FORBIDDEN.search(v):
+            errs.append(f'{n}: forbidden string in {k}')
 rows = list(csv.DictReader(open(R/'data/deals.csv')))
 if [dict(r) for r in rows] != [{k: str(o[k]) for k in REQ} for o in d]: errs.append('data/deals.csv is out of sync, run scripts/build.py')
 print('\n'.join(errs) or f'OK: {len(d)} deals valid'); sys.exit(1 if errs else 0)

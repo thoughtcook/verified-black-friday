@@ -41,10 +41,12 @@ _Savings are worked out only from prices shown on the linked official page (chec
 |---|---|
 | Oct 20 | First full verification ✅ |
 | Oct 21 to Dec 2 | Daily rechecks (full rechecks on Mondays and Thursdays) |
-| Nov 11 | SpaceWise Diwali $3.99 promo ends |
+| Nov 11 | SpaceWise Diwali $3.99 promo ends; Rank Math Anniversary countdown stamp (tz not stated) |
 | Nov 20 to Dec 2 | Full recheck every day |
+| ~Nov 23 | TradingView official BF page still a teaser (no 2026 dollars yet) |
 | **Nov 27** | **Black Friday** |
 | **Nov 30** | **Cyber Monday** |
+| Dec 1 | Thrive Themes and OptinMonster BF sales end; Picmal script ends 08:00 UTC |
 | Dec 14 | Hostinger sale ends (latest end date published so far) |
 
 A live countdown is on the [website](https://thoughtcook.github.io/verified-black-friday/).
