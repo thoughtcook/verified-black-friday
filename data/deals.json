@@ -99,17 +99,6 @@
     "last_checked": "2026-11-10"
   },
   {
-    "category": "VPN",
-    "service": "Shadowsocks.au",
-    "status": "Live",
-    "deal": "Official /1111.php (Nov 10 ET): 2026 双十一促销 LIVE (not BF-labelled). 1-year 7折 (30% off), 2-year 65折 (35% off), 3-year 6折 (40% off); all Lite and Pro; new purchases and renewals. Window 2026-11-10 00:00 – 2026-11-13 23:59 Beijing time (Nov 9, 11:00 AM – Nov 13, 10:59 AM ET). Page does not print discounted dollar totals. Store list still shows Lite $19.95/yr and Pro $12.95/mo. After the event, regular prices return. One renewal discount per service; renewals require login (buying without login opens a new independent service). Each new purchase or renewal includes one lottery draw for a traffic reset card.",
-    "dates": "Nov 10, 00:00 – Nov 13, 23:59 Beijing time (Nov 9, 11:00 AM – Nov 13, 10:59 AM ET)",
-    "ends": "2026-11-13",
-    "link": "https://secure.shadowsocks.au/1111.php",
-    "link_type": "official",
-    "last_checked": "2026-11-10"
-  },
-  {
     "category": "VPS",
     "service": "RackNerd",
     "status": "Not yet",
