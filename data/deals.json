@@ -1430,6 +1430,17 @@
     "last_checked": "2026-11-12"
   },
   {
+    "category": "AI",
+    "service": "MindPal",
+    "status": "Live",
+    "deal": "Official pricing (Nov 12): Early Black Friday, 60% off your first year on annual plans, code BLACKFRIDAY2026 applied at checkout. Billed yearly, Pro $16/mo (was $39), Advanced $60/mo (was $149), Ultra $150/mo (was $374); renews at the regular annual price",
+    "dates": "Nov 10 - Dec 11 2026 (PT)",
+    "ends": "2026-12-11",
+    "link": "https://mindpal.io/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-12"
+  },
+  {
     "category": "SaaS",
     "service": "Internxt",
     "status": "Live",
