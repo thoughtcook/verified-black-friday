@@ -34,19 +34,21 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | 2 | [Proton VPN](https://protonvpn.com/black-friday) | $2.99/mo (1-yr, $35.88 first year) | 70% off (official /black-friday) | Official Black Friday page is live |
 | 3 | [Hostinger](https://www.hostinger.com/black-friday) | Hosting from $1.99/mo · VPS from $6.49/mo · .com $0.01 | Up to 85% off hosting | Ends Dec 14, 2026 |
 | 4 | [Proton Pass](https://proton.me/pass/black-friday) | Pass Plus $1.99/mo ($23.88 first year) | 60% off first year | Official Black Friday page is live |
-| 5 | [SpaceWise](https://www.spacewisemac.in/pricing) | $3.99 lifetime (code DIWALI50) | $4 off $7.99 (50%) | Diwali promo through Nov 11, 2026 (not BF-labelled) |
+| 5 | [Windscribe](https://windscribe.com/vpn-deals/black-friday-cyber-monday) | Pro $29/year (was $69) | 58% off; $2.42/mo billed yearly | Official BF page; renews at $29/year; ends Nov 30 |
 
 ## ⏰ Key dates
 | Date (2026) | What happens |
 |---|---|
 | Oct 20 | First full verification ✅ |
 | Oct 21 to Dec 2 | Daily rechecks (full rechecks on Mondays and Thursdays) |
-| Nov 11 | SpaceWise Diwali $3.99 promo ends; Rank Math Anniversary countdown stamp (tz not stated) |
+| Nov 11 | SpaceWise Diwali $3.99 promo ended (back to $7.99 lifetime) |
+| Nov 18 | Rank Math official countdown stamp 16:00:00 (tz not stated) |
+| Nov 28 | Coderick AI (SiteGround) annual 50% off countdown 06:00 UTC |
 | Nov 20 to Dec 2 | Full recheck every day |
 | ~Nov 23 | TradingView official BF page still a teaser (no 2026 dollars yet) |
 | **Nov 27** | **Black Friday** |
-| **Nov 30** | **Cyber Monday** |
-| Dec 1 | Thrive Themes and OptinMonster BF sales end; Picmal script ends 08:00 UTC |
+| **Nov 30** | **Cyber Monday**; Windscribe Pro $29/year ends |
+| Dec 1 | Kinsta, InMotion, Thrive Themes and OptinMonster BF sales end; Picmal script ends 08:00 UTC |
 | Dec 14 | Hostinger sale ends (latest end date published so far) |
 
 A live countdown is on the [website](https://thoughtcook.github.io/verified-black-friday/).
@@ -63,7 +65,7 @@ Bundles built only from the verified live deals above.
 | 🚀 **Indie launch stack** | Hostinger web hosting + .com domain + business email | from $2.49/mo (48 mo) + $0.01 first year |
 | 🛰️ **Indie VPS stack** | Hostinger VPS + Proton VPN Plus | from $6.49/mo + $2.99/mo (2-yr) |
 | 🎙️ **AI creator stack** | ElevenLabs Starter ($1 first mo to Nov 1) or Creator ($11) + Smooth Recorder | from $1 first month + $19 one-time |
-| 🍎 **Mac dev cleanup stack** | SpaceWise Pro + Smooth Recorder | $3.99 + $19 = $22.99 one-time |
+| 🍎 **Mac creator stack** | Picmal (1 Mac) + Smooth Recorder | $14.50 + $19 = $33.50 one-time |
 | 🔒 **Cheapest 2-yr privacy** | Private Internet Access or CyberGhost | $56.94 for 2 yr + 2 mo ($2.19/mo) |
 
 ## Legend

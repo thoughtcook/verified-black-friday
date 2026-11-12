@@ -8,6 +8,7 @@
 - **CHANGED (ended, not Live):** SpaceWise 2.0 — official [spacewisemac.in/pricing](https://www.spacewisemac.in/pricing). Diwali **$3.99** / **DIWALI50** ended **11 Nov 2026** (not extended). Lifetime Pro is back to **$7.99** once. No replacement promo.
 - **CHANGED (still Live):** Systeme.io — official [blackfriday.systeme.io](https://blackfriday.systeme.io). Startup still **$170/year**; Webinar **$470/year** and Unlimited **$970/year** are now printed.
 - Rechecked the full Thursday set. Always-watch DMIT / Cliproxy / Eden / Readwise / Fitbod / Typeless: no new paid-plan promo (Fitbod Lifetime still not listed). X Premium / Perplexity / Gamma / Adobe were not rechecked (403 or timeouts; previous status kept). TablePlus banner still disabled.
+- README hygiene: removed the ended SpaceWise Diwali $3.99 promo from Top 5 picks and the Mac stack (replaced with Windscribe and Picmal + Smooth Recorder).
 
 ## 2026-11-11 (Wednesday quick check)
 
