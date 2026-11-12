@@ -6,8 +6,8 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-133-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-58-brightgreen)](#-best-live-deals-right-now)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-134-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-59-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--11--12-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
@@ -87,6 +87,7 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | **HostPapa** | Official /deals (Nov 5): Black Friday — Web/WordPress hosting from $1.25/mo; VPS from $2.95/mo; Dedicated from $47.96/mo; up to 90% off; no code (auto in cart). New customers first term (e.g. Essentials 3-yr renews $7.29/mo). Offer valid until Dec 7, 2026 11:59pm EST. | BF live Nov 2026; ends Dec 7 2026 11:59pm EST | 2026-12-07 | 🟢 Live | [official](https://www.hostpapa.com/deals/) | 2026-11-12 |
 | **NordVPN** | Official /black-friday (Nov 7 WebFetch): From $3.49/mo; up to 78% off + 3 mo. Ends Dec 9 2026. FAQ Oct 21–Dec 9 2026. Last year's (2025) BF low $2.99/mo | Oct 21 - Dec 9 2026 | 2026-12-09 | 🟢 Live | [official](https://nordvpn.com/black-friday/) | 2026-11-12 |
 | **NordPass** | Official /black-friday (Nov 7 WebFetch): live until Dec 9. FAQ up to 50% OFF annual Personal + 3 extra months. USD cards JS-opaque this run. Business BF20OFF 20%. | Oct 21 - Dec 9 2026 | 2026-12-09 | 🟢 Live | [official](https://nordpass.com/black-friday/) | 2026-11-12 |
+| **MindPal** | Official pricing (Nov 12): Early Black Friday, 60% off your first year on annual plans, code BLACKFRIDAY2026 applied at checkout. Billed yearly, Pro $16/mo (was $39), Advanced $60/mo (was $149), Ultra $150/mo (was $374); renews at the regular annual price | Nov 10 - Dec 11 2026 (PT) | 2026-12-11 | 🟢 Live | [official](https://mindpal.io/pricing) | 2026-11-12 |
 | **Hostinger** | Official BF (Nov 7): web hosting from $1.99/mo (85% off); VPS from $6.49/mo (67% off); .com $0.01 1st yr; no code. Oct 19–Dec 14 2026. | Oct 19 - Dec 14 2026 | 2026-12-14 | 🟢 Live | [official](https://www.hostinger.com/black-friday) | 2026-11-12 |
 | **Surfshark** | Official pricing (Nov 7): One 'Black Friday deal' $2.49/mo +3 mo ($67.23 first 27 mo); Starter $2.49/mo ($67.23); One+ $3.99/mo ($107.73). Save 90%/83%. | Live by Oct 12 2026; 2025 ran to Dec 1 | not stated | 🟢 Live | [official](https://surfshark.com/pricing) | 2026-11-12 |
 | **ExpressVPN** | Official pricing (Nov 7): Black Friday Early Access. 2-yr Basic $2.99/mo +4 mo ($83.72/28 mo); Advanced $4.19 ($117.32); Pro $7.19 ($201.32). Last year's (2025) final week $2.44/mo | Live Oct 2026 | not stated | 🟡 Early | [official](https://www.expressvpn.com/pricing) | 2026-11-12 |
@@ -177,6 +178,7 @@ Bundles built only from the verified live deals above.
 | **Vogoo AI** | Official /black-friday (Nov 5): LIVE — 40% off yearly plans with code BLACKFRIDAY. Lite $6.45/mo (reg $10.75); Pro $7.47/mo / $89.64 billed yearly (reg $12.45/$149.40). Monthly/credit packs excluded. Auto dates 00:00 UTC Nov 3 – 23:59 UTC Nov 30 2026. | Nov 3 – Nov 30 2026 UTC (live) | 2026-11-30 | 🟢 Live | [official](https://vogoo.ai/black-friday) | 2026-11-12 |
 | **SciFig** | Official /black-friday (Nov 3): Extra 20% off new subscription first month/year + upgrades/credit packs (auto, no code). Example Starter $80 first year (renews $100/yr). Page claims up to 52% total vs 12× monthly on Pro annual first year. | Through 1 Dec 2026 23:59 PT | 2026-12-01 | 🟢 Live | [official](https://scifig.ai/black-friday) | 2026-11-12 |
 | **Bimg AI** | Official /black-friday (Nov 5): 50% off first month (monthly), or 50% off first year and every annual renewal. Campaign Nov 3 – Dec 3 2026. Choose plan on pricing page; confirm discount at checkout. | Nov 3 – Dec 3 2026 | 2026-12-03 | 🟢 Live | [official](https://bimg.ai/black-friday) | 2026-11-12 |
+| **MindPal** | Official pricing (Nov 12): Early Black Friday, 60% off your first year on annual plans, code BLACKFRIDAY2026 applied at checkout. Billed yearly, Pro $16/mo (was $39), Advanced $60/mo (was $149), Ultra $150/mo (was $374); renews at the regular annual price | Nov 10 - Dec 11 2026 (PT) | 2026-12-11 | 🟢 Live | [official](https://mindpal.io/pricing) | 2026-11-12 |
 
 ### 🔒 VPN
 
