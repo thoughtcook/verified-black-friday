@@ -8,7 +8,7 @@
 
 [![Deals tracked](https://img.shields.io/badge/deals_tracked-121-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-47-brightgreen)](#-best-live-deals-right-now)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--11--08-informational)](CHANGELOG.md)
+[![Last checked](https://img.shields.io/badge/last_checked-2026--11--12-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
@@ -26,7 +26,7 @@
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
 
 ## 🏆 Top 5 picks
-_Savings are worked out only from prices shown on the linked official page (checked 2026-11-08)._
+_Savings are worked out only from prices shown on the linked official page (checked 2026-11-12)._
 
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
@@ -228,7 +228,7 @@ Bundles built only from the verified live deals above.
 | **PastePal (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-06 |
 | **Almighty (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-06 |
 | **AppsByMo (Mac suite)** | ANNOUNCED on official homepage (Nov 8): visible upcoming text “50% off every paid app, Nov 9 to Dec 1”; hidden live copy: 50% off every app with code BLACKFRIDAY, App Store prices halved. Authoritative data-start=2026-11-26T21:00:00Z data-end=2026-12-01T08:00:00Z — not live yet. | Script window Nov 26 21:00 UTC – Dec 1 08:00 UTC (visible text says Nov 9–Dec 1) | 2026-12-01 | ⚪ Not yet | [official](https://appsbymo.app/) | 2026-11-08 |
-| **Sip (Mac color picker)** | Vendor-submitted: 50% off with code BLACKFRIDAY26 from Nov 27–29. Official Black Friday page: https://sipapp.io/blackfriday/. Cyber Monday code CYBERMONDAY26 runs Nov 30–Dec 2 at https://sipapp.io/cybermonday/. Pricing: $29.99 per seat, includes 1 year of updates (extensions 70% of original price). | Nov 27–29 2026 (Black Friday); Nov 30–Dec 2 2026 (Cyber Monday) | 2026-11-29 | ⚪ Not yet | [official](https://sipapp.io/blackfriday/) | 2026-11-10 |
+| **Sip (Mac color picker)** | Vendor-submitted: 50% off with code BLACKFRIDAY26 from Nov 27–29. Official Black Friday page: https://sipapp.io/blackfriday/. Cyber Monday code CYBERMONDAY26 runs Nov 30–Dec 2 at https://sipapp.io/cybermonday/. Pricing: $29.99 per seat, includes 1 year of updates (extensions 70% of original price). | Nov 27 – Nov 29 2026 (Black Friday); Nov 30 – Dec 2 2026 (Cyber Monday) | 2026-12-02 | ⚪ Not yet | [official](https://sipapp.io/blackfriday/) | 2026-11-12 |
 
 ### 🔍 SEO
 
