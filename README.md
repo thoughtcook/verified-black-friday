@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-136-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-138-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-59-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--11--13-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -251,6 +251,7 @@ Bundles built only from the verified live deals above.
 | **PastePal (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-13 |
 | **Almighty (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-13 |
 | **AppsByMo (Mac suite)** | Official homepage + content.js (Nov 10): LIVE. Script window start=2026-11-08T21:00:00Z end=2026-12-02T08:00:00Z. Code BLACKFRIDAY; 50% off every paid app; App Store prices halved. Static HTML still shows the pre-JS “upcoming” default — theme.js uses the script dates, which have already started. Individual app sale prices are in content.js; not restated here as invented 50% totals. | Nov 8 21:00 UTC – Dec 2 08:00 UTC (script; copy says 9 Nov – 1 Dec) | 2026-12-02 | 🟢 Live | [official](https://appsbymo.app/) | 2026-11-13 |
+| **Sip** | Official /blackfriday/ and /cybermonday/ (Nov 13): announced, not live. Black Friday 50% off Sip, Fri Nov 27–Sun Nov 29; CTA goes to sipapp.io/pricing/?coupon=BLACKFRIDAY26. Cyber Monday 50% off Mon Nov 30–Wed Dec 2; CTA uses coupon CYBERMONDAY26. Official /pricing/ still shows the standing $29.99/seat (1 year of updates; extensions 70% of original price) plus education 50% only — no live sale banner. | BF Nov 27–29 2026; CM Nov 30–Dec 2 2026 (announced; not live) | 2026-12-02 | ⚪ Not yet | [official](https://sipapp.io/blackfriday/) | 2026-11-13 |
 
 ### 🔍 SEO
 
@@ -308,6 +309,7 @@ Bundles built only from the verified live deals above.
 | **Later (social scheduling)** | Official /black-friday-sale (Nov 5): 6 months free on new annual Growth or Scale (3 mo already in annual + 3 via code LATERBF26). Growth shown $37.50/mo billed yearly. New customers only; web checkout not iOS; no renewals/upgrades/monthly. | Nov 1 – Dec 4 2026 | 2026-12-04 | 🟢 Live | [official](https://later.com/black-friday-sale/) | 2026-11-12 |
 | **Internxt** | Official blog (Nov 2) + /black-friday (Nov 5): 87% off; from €1.29/mo 1TB; lifetime from €247. Sale ends Dec 3 2026; discount auto at checkout. Plan $ cards on sale page still JS-opaque — euro figures from official blog.internxt.com/black-friday-deals/. | Sale ends Dec 3 2026 | 2026-12-03 | 🟢 Live | [official](https://internxt.com/black-friday) | 2026-11-12 |
 | **BearConnect (LinkedIn automation)** | Official home + /pricing (Nov 8): banner “Black Friday: 50% Off for 6 Months” code 50OFFBC. List: Starter $56 / LinkedIn account / month billed annually ($670/year per account); Growth $237/month for 5 LinkedIn accounts billed annually (additional accounts $47/month each). Discounted totals after 50% not printed. End date not stated. | BF live as of Nov 8 2026; end not stated | not stated | 🟢 Live | [official](https://bearconnect.io/pricing/) | 2026-11-12 |
+| **Koofr** | Official koofr.eu/black-friday/ (Nov 13): announced, page still says COMING SOON. 55% off yearly plans 250 GB to 5 TB, including gift cards, code BF2026, Nov 16–30 2026, prices per year ex VAT: 250 GB €17.70 (was €40); 500 GB €30.98 (was €69); 1 TB €44.26 (was €99); 2.5 TB €88.52 (was €197); 5 TB €154.92 (was €345). Free accounts upgrade with the code; paid accounts buy a gift card with the same code. No automatic renewals (Koofr does not store banking details). | Nov 16–30 2026 (announced; not live at this check) | 2026-11-30 | ⚪ Not yet | [official](https://koofr.eu/black-friday/) | 2026-11-13 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).
