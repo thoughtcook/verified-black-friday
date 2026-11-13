@@ -1516,5 +1516,60 @@
     "link": "https://koofr.eu/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-13"
+  },
+  {
+    "category": "SaaS",
+    "service": "OffSeq Threat Radar",
+    "status": "Live",
+    "deal": "Official /pricing (Nov 13): Black Friday x Cyber Monday 50% off the first payment, applied automatically (vendor-submitted). Annual: Individual €60 (was €120), Base €245 (was €490), Pro €745 (was €1,490), incl. 21% VAT; monthly €6 / €24.50 / €74.50 for the first month. Renews at the regular price. Free plan available",
+    "dates": "Live Nov 13 2026; ends Dec 1 2026 23:59 UTC",
+    "ends": "2026-12-01",
+    "link": "https://radar.offseq.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-13"
+  },
+  {
+    "category": "SaaS",
+    "service": "OffSeq Breach",
+    "status": "Live",
+    "deal": "Official pricing (Nov 13): 50% off the first billing period of any paid plan with code BLACK (vendor-submitted). First month Basic €12 (was €24), Pro €30 (was €60), Enterprise €60 (was €120), excl. VAT; renews at the regular price",
+    "dates": "Live Nov 13 2026; ends Dec 2 2026 23:59 UTC",
+    "ends": "2026-12-02",
+    "link": "https://breach.offseq.com/en#pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-13"
+  },
+  {
+    "category": "SaaS",
+    "service": "OffSeq Mirage",
+    "status": "Live",
+    "deal": "Official /pricing (Nov 13): Black Friday × Cyber Monday 50% off the first 3 months of any plan, code BFCM2026 pre-filled at checkout (vendor-submitted). Monthly Starter €24.50 (was €49), Pro €74.50 (was €149), Business €199.50 (was €399), excl. VAT; then the regular price",
+    "dates": "Live Nov 13 2026; ends Nov 30 2026 23:59 UTC",
+    "ends": "2026-11-30",
+    "link": "https://mirage.offseq.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-13"
+  },
+  {
+    "category": "SaaS",
+    "service": "Guard by OffSeq",
+    "status": "Live",
+    "deal": "Official /monitoring (Nov 13): Black Friday × Cyber Monday 50% off the full report, add-ons and the first month of monitoring, applied automatically (vendor-submitted). Full report €19.95 (was €39.90), monitoring €12.50 first month per domain (was €25), incl. 21% VAT; then €25/month. Free scan without an account",
+    "dates": "Live Nov 13 2026; ends Dec 1 2026 (midnight Riga, 22:00 UTC)",
+    "ends": "2026-12-01",
+    "link": "https://guard.report/monitoring",
+    "link_type": "official",
+    "last_checked": "2026-11-13"
+  },
+  {
+    "category": "SaaS",
+    "service": "OffSeq Pulse",
+    "status": "Live",
+    "deal": "Official /pricing (Nov 13): Black Friday 50% off the first year or first month for new customers, applied automatically (vendor-submitted). Pulse €2 per device/mo billed annually (was €4), €2.50 monthly (was €5); Managed €6 (was €12), excl. VAT; first 2 devices free; then the regular price",
+    "dates": "Live Nov 13 2026; ends Dec 2 2026 (midnight Riga, 22:00 UTC)",
+    "ends": "2026-12-02",
+    "link": "https://pulse.offseq.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-13"
   }
 ]
