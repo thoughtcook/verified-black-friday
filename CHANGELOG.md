@@ -1,3 +1,11 @@
+## 2026-11-13 (Friday quick check)
+
+- **NEW Live:** ON1 Photo RAW — official [on1.com/landing/black-friday](https://www.on1.com/landing/black-friday/). Black Friday sale on Photo RAW 2027. One-time Photo RAW 2027 **$59.99** (was $99.99); Photo RAW MAX 2027 **$129.99** (was $169.99). Subscriptions: MAX **$79.99/year** (was $89.99); ON1 Photo Studio **$139.99/year** (was $179.99). Ends **27 Nov 2026, 11:59 PM PT**.
+- **CHANGED (still Early):** SiteGround — official [siteground.com/web-hosting.htm](https://www.siteground.com/web-hosting.htm) still labelled Early Black Friday. StartUp **$1.99/mo** (88%, renews $17.99); GrowBig **$3.99/mo** (86%, renews $29.99); GoGeek **$5.99/mo** (86%, renews $44.99); prepaid 12 months. End not stated.
+- **Watch / Not yet:** Plerdy added — official [plerdy.com/black-friday](https://plerdy.com/black-friday/) **50%** off yearly, first 12 months, code **plerdyBF2026**. Printed first-year examples: Startup **$126** (was $252); Scale **$252** (was $504); Thrive **$420** (was $840). Starts **13 Nov 2026 08:00 UTC**; ends **3 Dec 2026 07:59:59 UTC**. Not live at the 02:34 UTC check.
+- **Watch / Not yet:** Chanty added — official [chanty.com/black-friday](https://www.chanty.com/black-friday/). Heading still “coming soon.” JS start **13 Nov 2026 12:00 Geneva CET** (19:00 SGT). **25%** off monthly business **$3**/user (was $4); **40%** off annual **$2.40**/user (was $4). End around **1 Dec 2026** (JS 23:59:59 vs FAQ midnight CET — both printed). Not live at the 02:34 UTC check.
+- Rechecked the Friday quick set (VPN/VPS/AI/Mac + EARLY/NO PROMO + always-watch). Always-watch DMIT / Cliproxy / Eden / Readwise / Fitbod / Typeless: no new paid-plan promo (Fitbod Lifetime still not listed). X Premium / Perplexity / Adobe were not rechecked (403 or timeouts; previous status kept). TablePlus banner still disabled. Rank Math and WP Rocket live dollars/codes still hold.
+
 ## 2026-11-12 (Thursday full check)
 
 - **NEW Live:** Windscribe — official [windscribe.com/vpn-deals/black-friday-cyber-monday](https://windscribe.com/vpn-deals/black-friday-cyber-monday). Pro annual **$29** (was $69), **58%** off, **$2.42/mo** billed yearly; renews at the discounted **$29/year** until canceled. Ends **Nov 30** / after Cyber Monday. Not a lifetime license.
