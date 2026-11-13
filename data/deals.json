@@ -1516,5 +1516,16 @@
     "link": "https://koofr.eu/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-13"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "JuxtaCode",
+    "status": "Not yet",
+    "deal": "Official juxtacode.app/black-friday/ (Nov 13): announced, not live. 40% off JuxtaCode (Mac Git diff and merge tool, one-time purchase) with code BLACKFRIDAY26: Black Friday price $24, regular price $40 (USD, tax added at checkout). Page says checkout charges the regular price until Fri Nov 20. Direct purchase from juxtacode.app only (Lemon Squeezy checkout), not the Mac App Store.",
+    "dates": "Nov 20–Dec 1 2026, US Pacific (announced; not live)",
+    "ends": "2026-12-01",
+    "link": "https://juxtacode.app/black-friday/",
+    "link_type": "official",
+    "last_checked": "2026-11-13"
   }
 ]
