@@ -42,7 +42,7 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | Oct 20 | First full verification ✅ |
 | Oct 21 to Dec 2 | Daily rechecks (full rechecks on Mondays and Thursdays) |
 | Nov 11 | SpaceWise Diwali $3.99 promo ended (back to $7.99 lifetime) |
-| Nov 13 | Plerdy official yearly 50% start 08:00 UTC; Chanty official start 12:00 Geneva CET (announced; confirm after those instants) |
+| Nov 13 | Plerdy official yearly 50% and Chanty official business-plan sale went live as scheduled |
 | Nov 18 | Rank Math official countdown stamp 16:00:00 (tz not stated) |
 | Nov 20 to Dec 2 | Full recheck every day |
 | ~Nov 23 | TradingView official BF page still a teaser (no 2026 dollars yet) |
@@ -50,6 +50,8 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | Nov 28 | Coderick AI (SiteGround) annual 50% off countdown 06:00 UTC |
 | **Nov 30** | **Cyber Monday**; Windscribe Pro $29/year ends |
 | Dec 1 | Kinsta, InMotion, Thrive Themes and OptinMonster BF sales end; Picmal script ends 08:00 UTC |
+| Dec 3 | Plerdy yearly 50% ends 07:59:59 UTC (Dec 2, 11:59 pm PT) |
+| Dec 9 | NordVPN official Black Friday deal ends |
 | Dec 14 | Hostinger sale ends (latest end date published so far) |
 
 A live countdown is on the [website](https://thoughtcook.github.io/verified-black-friday/).

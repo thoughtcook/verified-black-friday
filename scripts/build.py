@@ -8,7 +8,7 @@ with open(R/'data/deals.csv','w',newline='') as f:
     w = csv.DictWriter(f, fieldnames=FIELDS); w.writeheader(); w.writerows(deals)
 CHECKED = max(o['last_checked'] for o in deals)
 B = {'Live':'🟢 Live','Early':'🟡 Early','Not yet':'⚪ Not yet','Unverified':'🟠 Unverified','Never discounts':'⛔ Never discounts'}
-CATS = [('🤖 AI tools',['AI']),('🔒 VPN',['VPN']),('🖥️ Hosting & VPS',['VPS']),('🍎 Mac & dev tools',['Mac/Dev']),('🔍 SEO',['SEO']),('🧰 SaaS & productivity',['SaaS'])]
+CATS = [('🤖 AI tools',['AI']),('🔒 VPN',['VPN']),('🖥️ Hosting & VPS',['VPS']),('🍎 Mac & dev tools',['Mac/Dev']),('🔍 SEO',['SEO']),('🧰 SaaS & productivity',['SaaS','Productivity'])]
 def link(o): return f"[{'official' if o['link_type']=='official' else 'report'}]({o['link']})" if o['link'] else '—'
 def table(rows):
     s = '| Service | Deal | Dates | Ends | Status | Link | Checked |\n|---|---|---|---|---|---|---|\n'
