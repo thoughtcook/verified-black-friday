@@ -67,7 +67,7 @@ Bundles built only from the verified live deals above.
 |---|---|---|
 | 🚀 **Indie launch stack** | Hostinger web hosting + .com domain + business email | from $2.49/mo (48 mo) + $0.01 first year |
 | 🛰️ **Indie VPS stack** | Hostinger VPS + Proton VPN Plus | from $6.49/mo + $2.99/mo (2-yr) |
-| 🎙️ **AI creator stack** | ElevenLabs Starter ($1 first mo to Nov 1) or Creator ($11) + Smooth Recorder | from $1 first month + $19 one-time |
+| 🎙️ **AI creator stack** | ElevenLabs Creator annual (official BF $99 first year, starts Nov 16) + Smooth Recorder | $99 first year + $19 one-time |
 | 🍎 **Mac creator stack** | Picmal (1 Mac) + Smooth Recorder | $14.50 + $19 = $33.50 one-time |
 | 🔒 **Cheapest 2-yr privacy** | Private Internet Access or CyberGhost | $56.94 for 2 yr + 2 mo ($2.19/mo) |
 
