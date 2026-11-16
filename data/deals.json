@@ -1604,5 +1604,16 @@
     "link": "https://juxtacode.app/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-16"
+  },
+  {
+    "category": "SaaS",
+    "service": "Scrap.io (Google Maps business data)",
+    "status": "Live",
+    "deal": "Official /pricing (Nov 16): \"Black Friday Offer\" block, 50% off all annual plans, every yearly card labelled \"black friday -50%\", no code. Basic $354/year (instead of $708); Professional $714/year (instead of $1,428); Agency $1,434/year (instead of $2,868); Company $3,594/year (instead of $7,188). On Black Friday plans, unused credits roll over from month to month, and the page guarantees the same price and conditions at renewal. End date not printed on the page.",
+    "dates": "Live as of Nov 16 2026; end not stated",
+    "ends": "",
+    "link": "https://scrap.io/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-16"
   }
 ]
