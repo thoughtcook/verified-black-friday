@@ -1582,5 +1582,27 @@
     "link": "https://koofr.eu/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-16"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Recut",
+    "status": "Live",
+    "deal": "Official getrecut.com (Nov 16): visible \u201cBlack Friday Deal is LIVE $50 off, ends Dec 4th.\u201d One-time purchase $149 \u2192 $99. On-page copy also says \u201cGoes up to $149 on 12/5.\u201d The Subscribe $19/month plan is still shown at the regular rate (deal applies to the one-time license). No coupon needed.",
+    "dates": "Live as of Nov 16 2026; ends Dec 4 (page also says goes up to $149 on 12/5)",
+    "ends": "2026-12-04",
+    "link": "https://getrecut.com/",
+    "link_type": "official",
+    "last_checked": "2026-11-16"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "JuxtaCode",
+    "status": "Not yet",
+    "deal": "Official juxtacode.app/black-friday/ (Nov 16): announced, not live. Black Friday 2026 40% off, Friday 20 November to Tuesday 1 December 2026, US Pacific time. Black Friday price $24, regular $40, code BLACKFRIDAY26 (USD; any tax added at checkout). Page states: \u201cUntil Friday 20 November, checkout charges the regular price.\u201d Discount applies only when buying directly from juxtacode.app, not the Mac App Store.",
+    "dates": "Fri Nov 20 \u2013 Tue Dec 1 2026, US Pacific (announced; not live)",
+    "ends": "2026-12-01",
+    "link": "https://juxtacode.app/black-friday/",
+    "link_type": "official",
+    "last_checked": "2026-11-16"
   }
 ]
