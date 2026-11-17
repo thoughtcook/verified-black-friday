@@ -1626,5 +1626,16 @@
     "link": "https://juxtacode.app/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-16"
+  },
+  {
+    "category": "AI",
+    "service": "Refine",
+    "status": "Live",
+    "deal": "Official pricing (Nov 17): 35% off one-time license, applied at checkout, no code. 1 Mac $38 \u2192 $24.70.",
+    "dates": "Nov 15 2026 to Nov 30 2026 (11:59 PM PST)",
+    "ends": "2026-11-30",
+    "link": "https://refine.sh/#pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-17"
   }
 ]
