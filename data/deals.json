@@ -46,13 +46,13 @@
   {
     "category": "VPN",
     "service": "CyberGhost",
-    "status": "Early",
-    "deal": "Official (Nov 7): Early Access Sale \u2014 BF early. 2yr+4mo $2.19/mo ($61.32/28 mo, 83% off).",
-    "dates": "Early Access BF Oct\u2013Nov 2026",
+    "status": "Live",
+    "deal": "Official /offer/black-friday (Nov 17): headline flipped from Monday\u2019s Early Access to \u201cBlack Friday Sale: Big deals are live now\u201d / \u201cOur Black Friday Sale is here!\u201d Dollars unchanged: $2.19/mo, billed $61.32 first 28 months, then autorenews at $61.32 annually, Save 83%. Homepage still says Early Access Sale. Same-dollar Early\u2192Live / BF-relabel only.",
+    "dates": "Official /offer/black-friday now \u201clive now\u201d as of Nov 17 2026; end not stated",
     "ends": "",
-    "link": "https://www.cyberghostvpn.com/",
+    "link": "https://www.cyberghostvpn.com/offer/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "VPN",
@@ -114,7 +114,7 @@
     "service": "RackNerd",
     "status": "Not yet",
     "deal": "Official /blackfriday redirects to /specials (Nov 3): KVM from $21.99/yr etc; dedi code 15OFFDEDI. No 2026 BF pricing. Last year's (2025) ~$10.60/yr",
-    "dates": "2025 ref: Nov 2025",
+    "dates": "Last year's (2025) Nov 2025",
     "ends": "",
     "link": "https://www.racknerd.com/blackfriday",
     "link_type": "official",
@@ -212,23 +212,23 @@
     "category": "VPS",
     "service": "DMIT",
     "status": "Not yet",
-    "deal": "Official dmit.io /pages/pricing (Nov 14): list prices only, no BF/promo banner. Event/black-friday pages gone/not live. Sample LAX.AS3.T1 TINY $6.90/Monthly; WEE $36.90/Annually. Homepage/announcements no BF. Last year's (2025) BF buy-two-get-one Pro + spend cashback.",
-    "dates": "Check Nov 16 / 24; Last year's (2025) BF typically late Nov",
+    "deal": "Official dmit.io home/pricing/announcements (Nov 17, curl often 403; second path 200): list prices only, no BF/promo banner. Event/black-friday pages are the \u201cpages is gone\u201d stub. Announcements: \u201cNo announcements to display.\u201d Last year's (2025) BF buy-two-get-one Pro + spend cashback.",
+    "dates": "Check Nov 24; 2025 BF typically late Nov",
     "ends": "",
     "link": "https://www.dmit.io/pages/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "AI",
     "service": "ElevenLabs",
-    "status": "Not yet",
-    "deal": "Official join.elevenlabs.io/bfcm and /bfcm/terms (Nov 16 check, still Sunday 15 Nov evening America/New_York): ANNOUNCED, not live yet. Fetch time was still before the official start of 3:00 a.m. ET, Nov 16, 2026. Offer Period 3:00 a.m. ET, Nov 16, 2026 through 11:59 p.m. ET, Dec 01, 2026. Creator annual $99 for the first 12 months (55% off regular $220); Pro annual $445.50 first 12 months (55% off regular $990) for New and Upgrading Subscribers; Pro monthly-to-annual $495 first 12 months (50% off $990). First term only; renews at regular annual. Direct elevenlabs.io only. Regular elevenlabs.io/pricing has no BF text this run.",
-    "dates": "Starts Nov 16 2026 3:00 a.m. ET \u2013 Dec 1 2026 11:59 p.m. ET (announced; not live at this check)",
+    "status": "Live",
+    "deal": "Official join.elevenlabs.io/bfcm and /bfcm/terms (Nov 17): LIVE after the official start of 3:00 a.m. ET, Nov 16, 2026. Title \u201cBlack Friday & Cyber Monday: up to 55% off ElevenLabs plans.\u201d Visible \u201cGet the offer\u201d / \u201cOffer ends in\u201d countdown. Offer Period 3:00 a.m. ET, Nov 16, 2026 through 11:59 p.m. ET, Dec 01, 2026. Creator annual $99 for the first 12 months (55% off regular $220) for New and Upgrading Subscribers; also printed $8.25/mo billed yearly. Pro annual $445.50 first 12 months (55% off regular $990); also printed $37.13/mo billed yearly. Pro monthly-to-annual $495 first 12 months (50% off $990) for users on an active Pro monthly subscription who switch during the Offer Period. First term only; renews at regular annual. Direct elevenlabs.io only.",
+    "dates": "Live as of Nov 16 2026 3:00 a.m. ET; through 11:59 p.m. ET Dec 01, 2026",
     "ends": "2026-12-01",
     "link": "https://join.elevenlabs.io/bfcm",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "AI",
@@ -301,7 +301,7 @@
     "service": "Perplexity",
     "status": "Not yet",
     "deal": "Official /pro (Nov 15 Chrome): no Black Friday / Cyber Monday label and no subscription % off. Pro $17/month when billed annually with +$40 free Computer credits LIMITED TIME; Max $167/month when billed annually with +$450 free Computer credits LIMITED TIME. Credit-grant end date not printed. Last year's (2025) Pro 50% off via PayPal; 1 mo free Pro with Comet.",
-    "dates": "NO PROMO YET as of Nov 15 2026; 2025 ref: Nov 2025",
+    "dates": "NO PROMO YET as of Nov 15 2026; Last year's (2025) Nov 2025",
     "ends": "",
     "link": "https://www.perplexity.ai/pro",
     "link_type": "official",
@@ -310,13 +310,13 @@
   {
     "category": "AI",
     "service": "Grammarly",
-    "status": "Not yet",
-    "deal": "Official grammarly.com/plans (Nov 9): no BF. Visible $12 USD; embedded subscription JSON monthly regularPrice 30.0 / quarterly 60.0 / annual 144.0 (price equals regularPrice \u2014 no discount field). Last year's (2025) ~50% off Pro annual",
-    "dates": "Last year's (2025): Nov 2025",
+    "status": "Live",
+    "deal": "Official grammarly.com/black-friday (Nov 17): LIVE \u201cBlack Friday Deal: Save 50% on Grammarly Pro.\u201d 50% off Grammarly Pro, first term only, then regular price; new Pro customers and Free-plan upgrades; existing paid users can use it on the next renewal; discount applied automatically at checkout; not combinable with other discounts/coupons/free trials; Enterprise excluded. Official copy calls it a limited-time offer but prints no calendar end date and no sale dollars this run \u2014 sale dollars not invented. Regular grammarly.com/plans still shows Pro $12 USD with no Black Friday label. Last year's (2025) ~50% off Pro annual.",
+    "dates": "Live as of Nov 17 2026; official page says limited-time, no calendar end date printed",
     "ends": "",
-    "link": "https://www.grammarly.com/plans",
+    "link": "https://www.grammarly.com/black-friday",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "AI",
@@ -332,13 +332,13 @@
   {
     "category": "SaaS",
     "service": "Adobe Creative Cloud Pro",
-    "status": "Unverified",
-    "deal": "Official adobe.com plans / special-offers / offer-terms (Nov 14): 2026 Black Friday merch/banners are present, but printed sale dollars and an official end date were not readable (merch-JS shells). Unverified press (ProDesignTools Nov 13, TechRadar, Creative Bloq, Digital Camera World) claims Creative Cloud Pro individuals about $29.99/mo first year (was $69.99, 57% off); students about $15.99/mo first year; Teams about 55% off first year; Firefly Pro about $9.99/mo first 6 months \u2014 press only, not official. Press end dates conflict (Nov 27 11:59pm ET vs through Dec 6) \u2014 not an official end date. Last year's (2025) 50% off first year $34.97/mo (from $69.99); students 70% off.",
-    "dates": "Official dollars and end date unread as of Nov 14 2026; press claims a 2026 BF sale",
-    "ends": "",
+    "status": "Live",
+    "deal": "Official adobe.com plans + special-offers + offer-terms (Nov 17, headless Chrome; www curl was 403): LIVE 2026 Black Friday. Banners: \u201cBlack Friday is on. Save big on Creative Cloud Pro for a year. Ends Nov 27.\u201d Official offer-terms (individuals, students, and teams): \u201cOffer starts on November 13, 2026 and expires on November 27, 2026.\u201d First-time subscribers, purchase directly from Adobe, 12-month commitment, then renews at then-current price. Printed currency this run is HKD (geo); USD was not readable \u2014 not FX-converted; unverified press $29.99 / $15.99 not used as official. Individuals: Save 60% first year, regularly HK$528.00/mo, alternatively HK$211.15/mo (annual billed monthly) or HK$2,437.79/yr prepaid first year (then-current HK$528.00/mo or HK$6,096.00/yr). Teams: Save 55% first year, regularly HK$778.00/mo, alternatively HK$349.71/mo per license or HK$4,196.53/yr per license first year (then-current HK$778.00/mo or HK$9,336.00/yr). Students & teachers: Save 79% first year, alternatively HK$110.55/mo or HK$1,326.63/yr first year, then HK$308.00/mo or HK$3,696.00/yr. Firefly Pro (separate from the Nov 27 CC Pro terms): Save 50% for the first 6 months, regularly HK$158.00/mo, alternatively HK$78.89/mo, \u201cEnds Dec 6\u201d (year not printed on that line). Firefly Pro Plus: Save 60% first 6 months, regularly HK$393.00/mo, alternatively HK$157.04/mo, same Ends Dec 6 line. Last year's (2025) 50% off first year $34.97/mo (from $69.99); students 70% off.",
+    "dates": "Official offer-terms: Nov 13, 2026 \u2013 Nov 27, 2026 (CC Pro). Firefly promo line says Ends Dec 6 (year not printed)",
+    "ends": "2026-11-27",
     "link": "https://www.adobe.com/creativecloud/plans.html",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "SaaS",
@@ -584,14 +584,25 @@
   },
   {
     "category": "Mac/Dev",
-    "service": "Warp, Superhuman, Linear, Obsidian Sync, Fantastical, Arc/Dia, RapidAPI",
+    "service": "Warp, Superhuman, Linear, Fantastical, Arc/Dia, RapidAPI",
     "status": "Not yet",
-    "deal": "No official BF deal (Oct 29 official pages: warp.dev, superhuman.com (17% off = annual billing), linear.app, obsidian.md). SIGNAL ONLY: flexibits.com pricing HTML has a hidden 'Black Friday Sale! Save 20%' banner whose script dates are 2025-11-24 to 2025-12-02 (Last year's (2025) Fantastical 20% off). Only grey-market reseller posts on Reddit otherwise",
+    "deal": "No official BF deal (Nov 17 official pages: warp.dev, superhuman.com (17% off = annual billing), linear.app, flexibits.com). Obsidian Sync/Publish moved to its own row. SIGNAL ONLY: flexibits.com pricing HTML still has a hidden 'Black Friday Sale! Save 20%' banner whose script dates are 2025-11-24 to 2025-12-02 (Last year's (2025) Fantastical 20% off). RapidAPI was NOT RECHECKED this run.",
     "dates": "",
     "ends": "",
     "link": "",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
+  },
+  {
+    "category": "Productivity",
+    "service": "Obsidian Sync & Publish",
+    "status": "Not yet",
+    "deal": "Official obsidian.md, /pricing, /sync, and /publish (Nov 17): no Black Friday or Cyber Monday promo. List: Sync $4 USD per user per month billed annually / $5 billed monthly; Publish $8 USD per site per month billed annually / $10 billed monthly; Catalyst $25 one-time; Commercial $50 per user per year. Official /sync also lists standing Sync Plus $8 / $10 (not printed as its own card on /pricing). Standing education/nonprofit discount, not a time-limited BF/CM sale: \u201cStudents, faculty members, and nonprofit employees are eligible for a 40% discount on Obsidian Sync and Publish. We do not offer any other discounts or promotions.\u201d No code and no BF dates.",
+    "dates": "NO PROMO YET as of Nov 17 2026; standing 40% education/nonprofit discount only",
+    "ends": "",
+    "link": "https://obsidian.md/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-17"
   },
   {
     "category": "Mac/Dev",
@@ -729,12 +740,12 @@
     "category": "SaaS",
     "service": "X Premium",
     "status": "Not yet",
-    "deal": "NOT RECHECKED fully Nov 9: help.x.com 403 (curl+WebFetch); premium signup shells had no public monthly/annual prices.",
-    "dates": "Check Nov 16 / 24 (help.x.com 403)",
+    "deal": "NOT RECHECKED Nov 17: help.x.com 403 (curl + urllib + WebFetch); x.com/i/premium login-walled. No public monthly/annual prices read this run (none invented).",
+    "dates": "NOT RECHECKED Nov 17 (also Nov 13/16): help.x.com 403; x.com/i/premium login-walled",
     "ends": "",
     "link": "https://help.x.com/en/using-x/x-premium",
     "link_type": "official",
-    "last_checked": "2026-11-06"
+    "last_checked": "2026-11-16"
   },
   {
     "category": "AI",
@@ -762,34 +773,34 @@
     "category": "AI",
     "service": "Pictory",
     "status": "Live",
-    "deal": "Official /pricing/ (Nov 10): LIVE Black Friday Offer on Professional annual \u2014 $29.50/month billed annually (was $59), code BLACKFRIDAY2026. End date not stated on the pricing page.",
-    "dates": "BF live as of Nov 10 2026; end not stated on official /pricing/",
+    "deal": "Official /pricing/ (Nov 17): still a live Black Friday Offer, and annual first-term dollars improved vs the Nov 10 reading (Professional annual was $29.50/mo billed annually, code BLACKFRIDAY2026). Official cards this run: Starter $12.50/mo billed annually (was $29) or $14.50/mo billed monthly (was $29); Professional $17.50/mo billed annually (was $59) or $29.50/mo billed monthly (was $59); Teams $59.50/mo billed annually (was $199) or $99.50/mo billed monthly (was $199). Checkout links now use official code BLACKFRIYAYY50 (BLACKFRIDAY2026 was not in this-run HTML). End date still not stated on the pricing page.",
+    "dates": "BF live as of Nov 10 2026; still live Nov 17; end not stated on official /pricing/",
     "ends": "",
     "link": "https://pictory.ai/pricing/",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "AI",
     "service": "Typeless (AI voice dictation)",
     "status": "Not yet",
-    "deal": "Official /pricing (Nov 14): Free $0; Pro $12 USD/member/mo billed yearly, $30 monthly. No live BF (student strings only; Last year's (2025) BF i18n remnants).",
-    "dates": "NO PROMO YET as of Nov 14 2026",
+    "deal": "Official /pricing (Nov 17): Free $0; Pro $12 USD/member/mo billed yearly, $30 monthly. No live BF (student strings only; Last year's (2025) BF i18n remnants).",
+    "dates": "NO PROMO YET as of Nov 17 2026",
     "ends": "",
     "link": "https://www.typeless.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "AI",
     "service": "CapCut (Desktop)",
     "status": "Live",
-    "deal": "Official CapCut Black Friday sale (Nov 7): first month $3.99 or less monthly; PC only; new/expiring/lapsed. Prices vary by region.",
-    "dates": "BF live Nov 2026",
+    "deal": "Official CapCut Black Friday sale page (Nov 17): still LIVE. Headline is now \u201cGet 90% Off Your First Month.\u201d CapCut PC Only; new users, users nearing expiry, and users whose subscriptions expired over 30 days ago get 90% off their first month with a monthly subscription\u2014plus a free trial for select new users. Prices vary by region. The earlier $3.99-or-less figure was not printed in this-run HTML \u2014 not restated as official this run. End date still not stated.",
+    "dates": "BF live Nov 2026; end not stated on sale page",
     "ends": "",
     "link": "https://www.capcut.com/tools/capcut-black-friday-sale",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "AI",
@@ -817,23 +828,23 @@
     "category": "SaaS",
     "service": "Eden (eden.so creator/content workspace)",
     "status": "Not yet",
-    "deal": "Official /pricing (Nov 14): Personal $7.50/mo ($90/yr); Personal Plus $12.50 ($150/yr); Starter $25 ($299/yr); Pro $66 ($790/yr); Max $167 ($1,999/yr). No live BF.",
-    "dates": "NO PROMO YET as of Nov 14 2026",
+    "deal": "Official /pricing (Nov 17): Personal $7.50/mo ($90/yr); Personal Plus $12.50 ($150/yr); Starter $25 ($299/yr); Pro $66 ($790/yr); Max $167 ($1,999/yr). No live BF.",
+    "dates": "NO PROMO YET as of Nov 17 2026",
     "ends": "",
     "link": "https://eden.so/pricing/",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "SaaS",
     "service": "Readwise Reader",
     "status": "Not yet",
-    "deal": "Official /pricing (Nov 14): Full $9.99/mo billed yearly; Highlights $7.99/mo yearly; Highlights Lite $5.59/mo yearly. No BF.",
-    "dates": "NO PROMO YET as of Nov 14 2026",
+    "deal": "Official /pricing (Nov 17): Full $9.99/mo billed yearly; Highlights $7.99/mo yearly; Highlights Lite $5.59/mo yearly. No BF.",
+    "dates": "NO PROMO YET as of Nov 17 2026",
     "ends": "",
     "link": "https://readwise.io/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "Productivity",
@@ -850,12 +861,12 @@
     "category": "SaaS",
     "service": "Fitbod: Gym & Fitness Planner",
     "status": "Not yet",
-    "deal": "App Store (Nov 14): Monthly Plan $15.99; A Year of Fitbod Elite $95.99. Promo-only Lifetime plan still not on the App Store IAP list. No BF.",
-    "dates": "NO PROMO YET as of Nov 14 2026; Lifetime still not listed",
+    "deal": "App Store (Nov 17): Monthly Plan $15.99; A Year of Fitbod Elite $95.99; legacy Elite SKUs also listed. Promo-only Lifetime plan still not on the App Store IAP list. No BF.",
+    "dates": "NO PROMO YET as of Nov 17 2026; Lifetime still not listed",
     "ends": "",
-    "link": "https://help.fitbod.me/hc/en-us/articles/360004904714-How-to-Subscribe-to-Fitbod",
+    "link": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "AI",
@@ -1290,12 +1301,12 @@
     "category": "SaaS",
     "service": "MailerLite",
     "status": "Not yet",
-    "deal": "Official /black-friday-deal (Nov 10): ANNOUNCED \u2014 26% off annual plans Nov 17, 2026 14:00 UTC to Dec 18, 2026 16:00 UTC. Comfort $144/year from $107/year during the sale; Power $300/year from $222/year during the sale. Checkout code not printed on the page yet. Not live yet.",
-    "dates": "Starts Nov 17 2026 14:00 UTC \u2013 Dec 18 2026 16:00 UTC (announced)",
+    "deal": "Official /black-friday-deal (Nov 17): still ANNOUNCED, not live. Title \u201cBlack Lite Friday is coming.\u201d Countdown target 2026-11-17T14:00:00+00:00; this check was still before that start (~02:30 UTC). 26% off annual plans Nov 17, 2026 14:00 UTC to Dec 18, 2026 16:00 UTC. Comfort from $107/year during the sale (was $144/year); Power from $222/year during the sale (was $300/year).",
+    "dates": "Starts Nov 17 2026 14:00 UTC \u2013 Dec 18 2026 16:00 UTC (announced; not live at this check, ~02:30 UTC)",
     "ends": "2026-12-18",
     "link": "https://www.mailerlite.com/black-friday-deal",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "SaaS",
@@ -1318,6 +1329,17 @@
     "link": "https://www.chanty.com/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-16"
+  },
+  {
+    "category": "SaaS",
+    "service": "Paperform",
+    "status": "Live",
+    "deal": "Official paperform.com/black-friday/ (Nov 17): LIVE \u201cPaperform Black Friday & Cyber Monday Deal 2026.\u201d 50% off the first 12 months of Paperform Pro and Business, code PFBF26, new subscriptions only, November 16\u201330, 2026 (Pacific Standard Time). FAQ: from 12am Monday November 16, 2026 until midnight at the end of Cyber Monday, November 30, 2026 (PT). Schema validFrom 2026-11-16T00:00:00-08:00 / validThrough 2026-11-30T23:59:59-08:00. Visible data-bf-live block; a hidden \u201chas ended\u201d block is not the live state this run.",
+    "dates": "Nov 16\u201330 2026 Pacific Standard Time (new subscriptions)",
+    "ends": "2026-11-30",
+    "link": "https://paperform.com/black-friday/",
+    "link_type": "official",
+    "last_checked": "2026-11-17"
   },
   {
     "category": "SaaS",
@@ -1575,13 +1597,13 @@
   {
     "category": "SaaS",
     "service": "Koofr",
-    "status": "Not yet",
-    "deal": "Official koofr.eu/black-friday/ (Nov 16): still announced, not live. Raw HTML still has COMING SOON (upgrade button disabled). Announced 55% off yearly plans 250 GB to 5 TB, including gift cards, code BF2026, Nov 16\u201330 2026, prices per year ex VAT: 250 GB \u20ac17.70 (was \u20ac40); 500 GB \u20ac30.98 (was \u20ac69); 1 TB \u20ac44.26 (was \u20ac99); 2.5 TB \u20ac88.52 (was \u20ac197); 5 TB \u20ac154.92 (was \u20ac345). JS START_DATE = Nov 16, 2026 00:00:00 has no timezone and would flip in timezones already on 16 Nov \u2014 official HTML has not flipped, so it is not marked LIVE just because 16 Nov started in Singapore / UTC.",
-    "dates": "Nov 16\u201330 2026 (announced; official page still COMING SOON as of Nov 16)",
+    "status": "Live",
+    "deal": "Official koofr.eu/black-friday/ (Nov 17): NEW LIVE. 55% off yearly plans 250 GB to 5 TB, including gift cards, code BF2026, \u201cvalid from November 16 until November 30 2026,\u201d prices per year ex VAT: 250 GB \u20ac17.70 (was \u20ac40); 500 GB \u20ac30.98 (was \u20ac69); 1 TB \u20ac44.26 (was \u20ac99); 2.5 TB \u20ac88.52 (was \u20ac197); 5 TB \u20ac154.92 (was \u20ac345). Raw HTML still has COMING SOON on a disabled CTA, but this-run headless Chrome shows \u201cGet this deal\u201d with the disabled class removed (JS START_DATE Nov 16, 2026 00:00:00 has now passed; END_DATE Nov 30, 2026 23:59:59, timezone not stated). Official help page confirms the same 55% / BF2026 / Nov 16\u201330 window. Dollars unchanged from the previously announced schedule.",
+    "dates": "Nov 16\u201330 2026 (official copy; JS end Nov 30, 2026 23:59:59, tz not stated)",
     "ends": "2026-11-30",
     "link": "https://koofr.eu/black-friday/",
     "link_type": "official",
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17"
   },
   {
     "category": "Mac/Dev",

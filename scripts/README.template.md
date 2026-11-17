@@ -43,15 +43,16 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | Oct 21 to Dec 2 | Daily rechecks (full rechecks on Mondays and Thursdays) |
 | Nov 11 | SpaceWise Diwali $3.99 promo ended (back to $7.99 lifetime) |
 | Nov 13 | Plerdy official yearly 50% and Chanty official business-plan sale went live as scheduled |
-| Nov 16 | Higgsfield official 60% window ended; new official 65% window started. SpaceWise official BF Lifetime $5.99 went live |
+| Nov 16 | Higgsfield official 60% window ended; new official 65% window started. SpaceWise official BF Lifetime $5.99 went live. ElevenLabs official BFCM went live 3:00 a.m. ET. Koofr official yearly 55% (code BF2026) went live |
 | Nov 17, 7:00 PM America/New_York | Higgsfield official 65% window ends (2026-11-18T00:00:00Z) |
+| Nov 17, 14:00 UTC | MailerLite official 26% off annual plans starts (through Dec 18, 2026 16:00 UTC) |
 | Nov 18 | Rank Math official countdown stamp 16:00:00 (tz not stated) |
 | Nov 20 to Dec 2 | Full recheck every day |
 | ~Nov 23 | TradingView official BF page still a teaser (no 2026 dollars yet) |
-| **Nov 27** | **Black Friday**; ON1 Photo RAW sale ends 11:59 PM PT |
+| **Nov 27** | **Black Friday**; ON1 Photo RAW sale ends 11:59 PM PT; Adobe official Creative Cloud Pro offer-terms expire |
 | Nov 28 | Coderick AI (SiteGround) annual 50% off countdown 06:00 UTC |
-| **Nov 30** | **Cyber Monday**; Windscribe Pro $29/year ends |
-| Dec 1 | Kinsta, InMotion, Thrive Themes and OptinMonster BF sales end; Picmal script ends 08:00 UTC; BoltAI license-update renewals 64% off until Dec 1 |
+| **Nov 30** | **Cyber Monday**; Windscribe Pro $29/year ends; Koofr yearly 55% ends; Paperform 50% first-year ends 11:59 PM PT |
+| Dec 1 | Kinsta, InMotion, Thrive Themes and OptinMonster BF sales end; Picmal script ends 08:00 UTC; BoltAI license-update renewals 64% off until Dec 1; ElevenLabs official BFCM ends 11:59 p.m. ET |
 | Dec 2 | SpaceWise official BF Lifetime $5.99 JS end 23:59:59 (tz not stated); GTmetrix 40% off ends 11:59 PM Pacific |
 | Dec 3 | Plerdy yearly 50% ends 07:59:59 UTC (Dec 2, 11:59 pm PT) |
 | Dec 9 | NordVPN official Black Friday deal ends |
@@ -70,7 +71,7 @@ Bundles built only from the verified live deals above.
 |---|---|---|
 | 🚀 **Indie launch stack** | Hostinger web hosting + .com domain + business email | from $2.49/mo (48 mo) + $0.01 first year |
 | 🛰️ **Indie VPS stack** | Hostinger VPS + Proton VPN Plus | from $6.49/mo + $2.99/mo (2-yr) |
-| 🎙️ **AI creator stack** | ElevenLabs Creator annual (official BF $99 first year, starts Nov 16) + Smooth Recorder | $99 first year + $19 one-time |
+| 🎙️ **AI creator stack** | ElevenLabs Creator annual (official BF $99 first year, now live through 11:59 p.m. ET Dec 1) + Smooth Recorder | $99 first year + $19 one-time |
 | 🍎 **Mac creator stack** | Picmal (1 Mac) + Smooth Recorder | $14.50 + $19 = $33.50 one-time |
 | 🔒 **Cheapest 2-yr privacy** | Private Internet Access or CyberGhost | $56.94 for 2 yr + 2 mo ($2.19/mo) |
 
