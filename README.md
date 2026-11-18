@@ -6,9 +6,9 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-148-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-149-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-75-brightgreen)](#-best-live-deals-right-now)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--11--17-informational)](CHANGELOG.md)
+[![Last checked](https://img.shields.io/badge/last_checked-2026--11--18-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
@@ -26,7 +26,7 @@
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
 
 ## 🏆 Top 5 picks
-_Savings are worked out only from prices shown on the linked official page (checked 2026-11-17)._
+_Savings are worked out only from prices shown on the linked official page (checked 2026-11-18)._
 
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
@@ -342,6 +342,7 @@ Bundles built only from the verified live deals above.
 | **Internxt** | Official blog (Nov 2) + /black-friday (Nov 5): 87% off; from €1.29/mo 1TB; lifetime from €247. Sale ends Dec 3 2026; discount auto at checkout. Plan $ cards on sale page still JS-opaque — euro figures from official blog.internxt.com/black-friday-deals/. | Sale ends Dec 3 2026 | 2026-12-03 | 🟢 Live | [official](https://internxt.com/black-friday) | 2026-11-16 |
 | **BearConnect (LinkedIn automation)** | Official home + /pricing (Nov 8): banner “Black Friday: 50% Off for 6 Months” code 50OFFBC. List: Starter $56 / LinkedIn account / month billed annually ($670/year per account); Growth $237/month for 5 LinkedIn accounts billed annually (additional accounts $47/month each). Discounted totals after 50% not printed. End date not stated. | BF live as of Nov 8 2026; end not stated | not stated | 🟢 Live | [official](https://bearconnect.io/pricing/) | 2026-11-16 |
 | **Koofr** | Official koofr.eu/black-friday/ (Nov 17): NEW LIVE. 55% off yearly plans 250 GB to 5 TB, including gift cards, code BF2026, “valid from November 16 until November 30 2026,” prices per year ex VAT: 250 GB €17.70 (was €40); 500 GB €30.98 (was €69); 1 TB €44.26 (was €99); 2.5 TB €88.52 (was €197); 5 TB €154.92 (was €345). Raw HTML still has COMING SOON on a disabled CTA, but this-run headless Chrome shows “Get this deal” with the disabled class removed (JS START_DATE Nov 16, 2026 00:00:00 has now passed; END_DATE Nov 30, 2026 23:59:59, timezone not stated). Official help page confirms the same 55% / BF2026 / Nov 16–30 window. Dollars unchanged from the previously announced schedule. | Nov 16–30 2026 (official copy; JS end Nov 30, 2026 23:59:59, tz not stated) | 2026-11-30 | 🟢 Live | [official](https://koofr.eu/black-friday/) | 2026-11-17 |
+| **Social Fetch** | Official socialfetch.dev/black-friday (Nov 18): announced, not live. Double credits on every plan, applied automatically at checkout, no code. New monthly plans get double credits in month one. New annual plans get double credits for the first 3 months. $59 Growth pack is 25,000 credits plus 25,000 free. This is bonus credits, not a lower price. New plans only. | Thu Nov 19 00:00 UTC to Tue Dec 1 08:00 UTC 2026 (announced; not live) | 2026-12-01 | ⚪ Not yet | [official](https://www.socialfetch.dev/black-friday) | 2026-11-18 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).
