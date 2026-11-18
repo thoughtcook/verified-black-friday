@@ -1626,5 +1626,16 @@
     "link": "https://juxtacode.app/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-16"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "DockMagic",
+    "status": "Live",
+    "deal": "Official dockmagic.app (Nov 18): Up to 50% off lifetime licenses (one-time purchase), auto-applied, no code. 1 Mac $25→$12.99 (48% off), 2 Macs $40→$19.99 (50%), 3 Macs $60→$29.99 (50%).",
+    "dates": "Nov 3, 2026, 00:00 UTC – Dec 1, 2026, 00:00 UTC",
+    "ends": "2026-11-30",
+    "link": "https://dockmagic.app",
+    "link_type": "official",
+    "last_checked": "2026-11-18"
   }
 ]
