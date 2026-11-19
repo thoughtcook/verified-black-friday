@@ -6,9 +6,9 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-148-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-149-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-75-brightgreen)](#-best-live-deals-right-now)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--11--17-informational)](CHANGELOG.md)
+[![Last checked](https://img.shields.io/badge/last_checked-2026--11--19-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
@@ -26,7 +26,7 @@
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
 
 ## 🏆 Top 5 picks
-_Savings are worked out only from prices shown on the linked official page (checked 2026-11-17)._
+_Savings are worked out only from prices shown on the linked official page (checked 2026-11-19)._
 
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
@@ -289,6 +289,7 @@ Bundles built only from the verified live deals above.
 | **Seobility** | Official /en/lp/blackfriday26/ (Nov 11): LIVE Seobility Black Friday Deal 2026 — 60 days free + 15% off. Premium $69.90→$59.41/mo billed monthly; Agency card shows $239.90 with no sale slash. CTA voucher blackfriday25lp (code slug is not treated as a year; the page is titled Black Friday Deal 2026). No end date printed. | BF 2026 page live as of Nov 11; end not stated | not stated | 🟢 Live | [official](https://www.seobility.net/en/lp/blackfriday26/) | 2026-11-16 |
 | **Rapid Indexer** | Official homepage (Nov 3): BF top-up credit bonuses +20% all / +30% on $100+ / +40% on $1,000+ (credits never expire). Through 27 Nov 2026 23:59 UTC. | Through 27 Nov 2026 23:59 UTC | 2026-11-27 | 🟢 Live | [official](https://rapid-indexer.com/) | 2026-11-16 |
 | **GTmetrix** | Official gtmetrix.com/pricing (Nov 15): Black Friday is here — 40% off all GTmetrix plans, code BF2026. Visible yearly USD cards: Lite $4.99 → $2.99 per month billed yearly; Core $9.99 → $5.99; Advanced $24.99 → $14.99; Expert $49.99 → $29.99. On-page copy: "Our biggest discount of the year ends December 2." Official meta description: ends Dec 2, 2026 @11:59 PM Pacific. All prices USD. | Live as of Nov 15 2026; ends Dec 2, 2026 11:59 PM Pacific | 2026-12-02 | 🟢 Live | [official](https://gtmetrix.com/pricing) | 2026-11-16 |
+| **Keyword Race** | Official keywordrace.com (vendor submission): 40% off lifetime access, $59 -> $35, one payment, no code needed. App Store keyword research for indie iOS developers. Free check, 1 a day with no account. | Nov 20 - Dec 2 2026 (announced; not live) | 2026-12-02 | ⚪ Not yet | [official](https://keywordrace.com/) | 2026-11-19 |
 
 ### 🧰 SaaS & productivity
 
