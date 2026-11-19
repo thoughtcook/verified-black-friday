@@ -6,9 +6,9 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-148-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-75-brightgreen)](#-best-live-deals-right-now)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--11--17-informational)](CHANGELOG.md)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-149-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-76-brightgreen)](#-best-live-deals-right-now)
+[![Last checked](https://img.shields.io/badge/last_checked-2026--11--19-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
@@ -26,7 +26,7 @@
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
 
 ## 🏆 Top 5 picks
-_Savings are worked out only from prices shown on the linked official page (checked 2026-11-17)._
+_Savings are worked out only from prices shown on the linked official page (checked 2026-11-19)._
 
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
@@ -106,6 +106,7 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | **NordVPN** | Official /black-friday (Nov 14 WebFetch; curl 403): Black Friday 2026, up to 78% off + 3 extra months. From $2.99/mo for a 2-year plan (was From $3.49/mo as of Nov 13). Official /pricing: Basic $2.99/mo, billed $80.73 first 27 months, renews $139.08/year; Complete $3.99/mo, $107.73 first 27 months, renews $219.48/year; Prime $6.99/mo, $188.73 first 27 months, renews $296.28/year. Deal ends December 9, 2026. Official FAQ: Oct 21–Dec 9 2026. Last year's (2025) BF low $2.99/mo | Oct 21 - Dec 9 2026 (official /black-friday FAQ) | 2026-12-09 | 🟢 Live | [official](https://nordvpn.com/black-friday/) | 2026-11-16 |
 | **NordPass** | Official /black-friday (Nov 7 WebFetch): live until Dec 9. FAQ up to 50% OFF annual Personal + 3 extra months. USD cards JS-opaque this run. Business BF20OFF 20%. | Oct 21 - Dec 9 2026 | 2026-12-09 | 🟢 Live | [official](https://nordpass.com/black-friday/) | 2026-11-16 |
 | **Hostinger** | Official BF (Nov 7): web hosting from $1.99/mo (85% off); VPS from $6.49/mo (67% off); .com $0.01 1st yr; no code. Oct 19–Dec 14 2026. | Oct 19 - Dec 14 2026 | 2026-12-14 | 🟢 Live | [official](https://www.hostinger.com/black-friday) | 2026-11-16 |
+| **Scanify** | Pro for $1 | Live as of 2026-11-19 | 2026-12-19 | 🟢 Live | [official](https://scanify.to/pricing) | 2026-11-19 |
 | **Surfshark** | Official pricing (Nov 7): One 'Black Friday deal' $2.49/mo +3 mo ($67.23 first 27 mo); Starter $2.49/mo ($67.23); One+ $3.99/mo ($107.73). Save 90%/83%. | Live by Oct 12 2026; 2025 ran to Dec 1 | not stated | 🟢 Live | [official](https://surfshark.com/pricing) | 2026-11-16 |
 | **ExpressVPN** | Official pricing (Nov 7): Black Friday Early Access. 2-yr Basic $2.99/mo +4 mo ($83.72/28 mo); Advanced $4.19 ($117.32); Pro $7.19 ($201.32). Last year's (2025) final week $2.44/mo | Live Oct 2026 | not stated | 🟡 Early | [official](https://www.expressvpn.com/pricing) | 2026-11-16 |
 | **Proton VPN** | Official /black-friday (Nov 10): still LIVE BF. VPN Plus 1-yr 70% off → $2.99/mo; billed $35.88 first 12 mo; renews $83.88/12 mo (was $9.99/mo list). Unlimited welcome 92% off $1.00 first month then $12.99/mo. End not stated on /black-friday. /pricing (Nov 10) now defaults to the same 1-yr Plus $2.99/mo ($35.88/12) and Unlimited 50% off $6.49/mo ($77.88/12) with coupon BF2026NEW, but still has no “Black Friday”/“Early” text. Previous standing 2-yr Plus $3.49/mo ($83.76/24) is gone from default SSR (remains only in hydration JSON). | BF live as of Nov 9 2026; end not stated on /black-friday this run | not stated | 🟢 Live | [official](https://protonvpn.com/black-friday) | 2026-11-16 |
@@ -342,6 +343,7 @@ Bundles built only from the verified live deals above.
 | **Internxt** | Official blog (Nov 2) + /black-friday (Nov 5): 87% off; from €1.29/mo 1TB; lifetime from €247. Sale ends Dec 3 2026; discount auto at checkout. Plan $ cards on sale page still JS-opaque — euro figures from official blog.internxt.com/black-friday-deals/. | Sale ends Dec 3 2026 | 2026-12-03 | 🟢 Live | [official](https://internxt.com/black-friday) | 2026-11-16 |
 | **BearConnect (LinkedIn automation)** | Official home + /pricing (Nov 8): banner “Black Friday: 50% Off for 6 Months” code 50OFFBC. List: Starter $56 / LinkedIn account / month billed annually ($670/year per account); Growth $237/month for 5 LinkedIn accounts billed annually (additional accounts $47/month each). Discounted totals after 50% not printed. End date not stated. | BF live as of Nov 8 2026; end not stated | not stated | 🟢 Live | [official](https://bearconnect.io/pricing/) | 2026-11-16 |
 | **Koofr** | Official koofr.eu/black-friday/ (Nov 17): NEW LIVE. 55% off yearly plans 250 GB to 5 TB, including gift cards, code BF2026, “valid from November 16 until November 30 2026,” prices per year ex VAT: 250 GB €17.70 (was €40); 500 GB €30.98 (was €69); 1 TB €44.26 (was €99); 2.5 TB €88.52 (was €197); 5 TB €154.92 (was €345). Raw HTML still has COMING SOON on a disabled CTA, but this-run headless Chrome shows “Get this deal” with the disabled class removed (JS START_DATE Nov 16, 2026 00:00:00 has now passed; END_DATE Nov 30, 2026 23:59:59, timezone not stated). Official help page confirms the same 55% / BF2026 / Nov 16–30 window. Dollars unchanged from the previously announced schedule. | Nov 16–30 2026 (official copy; JS end Nov 30, 2026 23:59:59, tz not stated) | 2026-11-30 | 🟢 Live | [official](https://koofr.eu/black-friday/) | 2026-11-17 |
+| **Scanify** | Pro for $1 | Live as of 2026-11-19 | 2026-12-19 | 🟢 Live | [official](https://scanify.to/pricing) | 2026-11-19 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).

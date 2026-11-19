@@ -1626,5 +1626,16 @@
     "link": "https://juxtacode.app/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-16"
+  },
+  {
+    "category": "SaaS",
+    "service": "Scanify",
+    "status": "Live",
+    "deal": "Pro for $1",
+    "dates": "Live as of 2026-11-19",
+    "ends": "2026-12-19",
+    "link": "https://scanify.to/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-19"
   }
 ]
