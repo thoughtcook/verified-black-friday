@@ -1626,5 +1626,49 @@
     "link": "https://juxtacode.app/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-16"
-  }
+  },
+  {
+  "category": "Security",
+  "service": "Exploit Pack",
+  "status": "Live",
+  "deal": "Official product page checked Nov 19: 20% off, €1,200 to €960; coupon LIFETIME upgrades the promotional licence to Lifetime.",
+  "dates": "Live; ends Nov 30, 2026",
+  "ends": "2026-11-30",
+  "link": "https://www.exploitpack.com/products/exploit-pack",
+  "link_type": "official",
+  "last_checked": "2026-11-19"
+},
+{
+  "category": "Security",
+  "service": "Control Pack",
+  "status": "Live",
+  "deal": "Official product page checked Nov 19: 20% off, €1,200 to €960; coupon LIFETIME upgrades the promotional licence to Lifetime.",
+  "dates": "Live; ends Nov 30, 2026",
+  "ends": "2026-11-30",
+  "link": "https://www.exploitpack.com/products/control-pack",
+  "link_type": "official",
+  "last_checked": "2026-11-19"
+},
+{
+  "category": "Security",
+  "service": "Kernel Pack",
+  "status": "Live",
+  "deal": "Official product page checked Nov 19: 20% off, €1,200 to €960; coupon LIFETIME upgrades the promotional licence to Lifetime.",
+  "dates": "Live; ends Nov 30, 2026",
+  "ends": "2026-11-30",
+  "link": "https://www.exploitpack.com/products/kernel-pack",
+  "link_type": "official",
+  "last_checked": "2026-11-19"
+},
+{
+  "category": "Security",
+  "service": "Ultimate Pack + AI",
+  "status": "Unverified",
+  "deal": "Official product page checked Nov 19: Black Friday bundle €4,000; includes Exploit Pack, Control Pack and Kernel Pack with integrated AI; no coupon. No reduced comparison price shown.",
+  "dates": "Live; ends Nov 30, 2026",
+  "ends": "2026-11-30",
+  "link": "https://www.exploitpack.com/products/ultimate-pack-discount",
+  "link_type": "official",
+  "last_checked": "2026-11-19"
+}
 ]
