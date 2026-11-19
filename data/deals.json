@@ -1626,5 +1626,27 @@
     "link": "https://juxtacode.app/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-16"
+  },
+  {
+    "category": "AI",
+    "service": "Skillry",
+    "status": "Live",
+    "deal": "Official skillry.dev/pricing (Nov 19): LIVE. 50% OFF Pro ($9.99 first month, was $19.90; or $79 first year, was $158) + Founding Lifetime $169 one-time (was $249, save $80). Auto-applied at checkout (no code needed). Subscription discounts apply to the first billing period; renewals bill at standard price. Founding Lifetime is a one-time payment with no renewals.",
+    "dates": "Nov 19 \u2013 Nov 30, 2026 (11:59 PM PT)",
+    "ends": "2026-11-30",
+    "link": "https://skillry.dev/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-19"
+  },
+  {
+    "category": "SEO",
+    "service": "BizPeel",
+    "status": "Live",
+    "deal": "Official bizpeel.com/pricing (Nov 19): LIVE. 50% OFF first month across all plans (Starter $14.95, Pro $29.95, Business $49.95 \u2014 full monthly MCP quota & research balance included) + 20% OFF first year stacked on 15% annual savings. Auto-applied at checkout (no code needed). Discounts apply to the first month or first year; renewals bill at standard price.",
+    "dates": "Nov 19 \u2013 Nov 30, 2026 (11:59 PM PT)",
+    "ends": "2026-11-30",
+    "link": "https://bizpeel.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-19"
   }
 ]
