@@ -1,3 +1,7 @@
+## 2026-11-19 (Thursday)
+
+- **NEW Live:** Transcribee.io — official [transcribee.io/black-friday/](https://transcribee.io/black-friday/). **40%** off Unlimited, code **BF2026** (pre-applied on the upgrade page). Monthly **$25.99 → $15.59** first month, then $25.99/month; Yearly **$199.99 → $119.99** first year (≈$10/mo), then $199.99/year. End **Nov 30, 2026** per vendor (public page prints no end date; upgrade page shows an “Ends in 11d” countdown).
+
 ## 2026-11-17 (Tuesday quick check)
 
 - **NEW Live:** ElevenLabs — official [join.elevenlabs.io/bfcm](https://join.elevenlabs.io/bfcm) and [terms](https://join.elevenlabs.io/bfcm/terms). The announced start (3:00 a.m. ET, Nov 16, 2026) has passed. Up to **55%** off first year: Creator annual **$99** (55% off $220); Pro annual **$445.50** (55% off $990); Pro monthly-to-annual **$495** (50% off $990). Offer Period through **11:59 p.m. ET, Dec 01, 2026**. First term only; New and Upgrading Subscribers (Pro monthly-to-annual has its own eligibility).

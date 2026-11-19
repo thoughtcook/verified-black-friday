@@ -1626,5 +1626,16 @@
     "link": "https://juxtacode.app/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-16"
+  },
+  {
+    "category": "AI",
+    "service": "Transcribee.io",
+    "status": "Live",
+    "deal": "Official transcribee.io/black-friday/ (Nov 19): LIVE BF2026. 40% off Unlimited, code BF2026. Monthly $25.99 \u2192 $15.59 first month (Save $10.40); Yearly $199.99 \u2192 $119.99 first year (Save $80.00). End Nov 30 2026 per vendor; the public page prints no end date, the upgrade page shows an \u201cEnds in 11d\u201d countdown on Nov 19.",
+    "dates": "Live as of Nov 19 2026; ends Nov 30 2026",
+    "ends": "2026-11-30",
+    "link": "https://transcribee.io/black-friday/",
+    "link_type": "official",
+    "last_checked": "2026-11-19"
   }
 ]
