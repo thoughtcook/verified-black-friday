@@ -6,9 +6,9 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-154-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-82-brightgreen)](#-best-live-deals-right-now)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--11--20-informational)](CHANGELOG.md)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-155-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-83-brightgreen)](#-best-live-deals-right-now)
+[![Last checked](https://img.shields.io/badge/last_checked-2026--11--21-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
@@ -26,7 +26,7 @@
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
 
 ## 🏆 Top 5 picks
-_Savings are worked out only from prices shown on the linked official page (checked 2026-11-20)._
+_Savings are worked out only from prices shown on the linked official page (checked 2026-11-21)._
 
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
@@ -93,6 +93,7 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | **Chanty** | Official /black-friday/ (Nov 14): LIVE, heading “Black Friday Deals.” 25% off monthly business $3 per user (was $4); 40% off annual business $2.40 per user (was $4). For new users, Free plan, or Appsumo Chanty users. End around Dec 1 2026 (FAQ: “until Dec. 01 2026 at 12:00 AM Geneva time (CET)”; official JS bfDueDate Dec 1, 2026 12:00:00 converted to CET — both printed, not reconciled). | Live as of Nov 14 2026 (started Nov 13 12:00 Geneva CET); ends around Dec 1 2026 (JS 12:00:00 CET vs FAQ midnight CET — unreconciled) | 2026-12-01 | 🟢 Live | [official](https://www.chanty.com/black-friday/) | 2026-11-20 |
 | **Omnisend** | Official /bfcm/ (Nov 9): still 30% off first 3 months, code BLACK-FRIDAY-2026, through Dec 1 2026. Page now has conflicting eligibility: one line says exclusively for former paying customers now on the Free plan; another (and window.__OTE_OVERRIDES__) says valid for new customers and Free plan users upgrading to a paid plan. Free migration ≤5 days. | Until Dec 1 2026; eligibility copy conflicts | 2026-12-01 | 🟢 Live | [official](https://www.omnisend.com/bfcm/) | 2026-11-20 |
 | **SciFig** | Official /black-friday (Nov 3): Extra 20% off new subscription first month/year + upgrades/credit packs (auto, no code). Example Starter $80 first year (renews $100/yr). Page claims up to 52% total vs 12× monthly on Pro annual first year. | Through 1 Dec 2026 23:59 PT | 2026-12-01 | 🟢 Live | [official](https://scifig.ai/black-friday) | 2026-11-20 |
+| **Linger** | 38% OFF Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed | Nov 19 – Dec 1, 2026, 23:59 PST | 2026-12-01 | 🟢 Live | [official](https://withlinger.com/black-friday/) | 2026-11-21 |
 | **GTmetrix** | Official gtmetrix.com/pricing (Nov 15): Black Friday is here — 40% off all GTmetrix plans, code BF2026. Visible yearly USD cards: Lite $4.99 → $2.99 per month billed yearly; Core $9.99 → $5.99; Advanced $24.99 → $14.99; Expert $49.99 → $29.99. On-page copy: "Our biggest discount of the year ends December 2." Official meta description: ends Dec 2, 2026 @11:59 PM Pacific. All prices USD. | Live as of Nov 15 2026; ends Dec 2, 2026 11:59 PM Pacific | 2026-12-02 | 🟢 Live | [official](https://gtmetrix.com/pricing) | 2026-11-20 |
 | **AppsByMo (Mac suite)** | Official homepage + content.js (Nov 10): LIVE. Script window start=2026-11-08T21:00:00Z end=2026-12-02T08:00:00Z. Code BLACKFRIDAY; 50% off every paid app; App Store prices halved. Static HTML still shows the pre-JS “upcoming” default — theme.js uses the script dates, which have already started. Individual app sale prices are in content.js; not restated here as invented 50% totals. | Nov 8 21:00 UTC – Dec 2 08:00 UTC (script; copy says 9 Nov – 1 Dec) | 2026-12-02 | 🟢 Live | [official](https://appsbymo.app/) | 2026-11-20 |
 | **Plerdy** | Official /black-friday/ (Nov 14): LIVE. 50% off every yearly plan, first 12 months, then regular yearly; code plerdyBF2026. Printed first-year: Startup $10.50/mo ($126 instead of $252); Scale $21/mo ($252 instead of $504); Thrive $35/mo ($420 instead of $840). Enterprise cards also printed. Ends Dec 2, 2026, 11:59 pm PT / 2026-12-03 07:59:59 UTC. | Live as of Nov 14 2026 (started Nov 13 08:00 UTC); ends Dec 2 2026 11:59 pm PT / Dec 3 07:59:59 UTC | 2026-12-03 | 🟢 Live | [official](https://plerdy.com/black-friday/) | 2026-11-20 |
@@ -288,6 +289,7 @@ Bundles built only from the verified live deals above.
 | **Recut** | Official getrecut.com (Nov 20): still a live $50-off one-time deal, same dollars. Copy this run: “Early Black Friday! Recut is $50 off until Dec 4”; “Black Friday is early!”; one-time “Black Friday $149 $99.” Also “Goes up to $149 on 12/5.” Footer: “Recut is $99 until December 4, then it goes back to $149.” Subscribe remains $19/month at the regular rate (deal is the one-time license). No coupon needed. | Ends Dec 4 / goes up to $149 on 12/5 | 2026-12-04 | 🟢 Live | [official](https://getrecut.com/) | 2026-11-20 |
 | **JuxtaCode** | Official juxtacode.app/black-friday/ (Nov 20): still announced, not live. Window “Runs Friday 20 November to Tuesday 1 December 2026, US Pacific time,” 40% off, sale price $24, regular $40, code BLACKFRIDAY26 (USD; tax at checkout), direct juxtacode.app only, not Mac App Store. This-run copy also says “On now.” and “Buy JuxtaCode for $24.” The earlier “Until Friday 20 November, checkout charges the regular price” sentence is gone. Pacific start 2026-11-20T08:00:00Z had not passed at this check (~02:39Z). Not marked LIVE early. | Fri Nov 20 – Tue Dec 1 2026, US Pacific (announced; Pacific start 2026-11-20T08:00:00Z had not begun at this check) | 2026-12-01 | ⚪ Not yet | [official](https://juxtacode.app/black-friday/) | 2026-11-20 |
 | **VoiceInk** | Official tryvoiceink.com/black-friday (Nov 20): LIVE “Black Friday: 40% off VoiceInk for Mac” / “40% off VoiceInk, for life.” Pay once, lifetime access. Code BFVI2640 at checkout. Official copy: “Get 40% off VoiceInk, the private dictation app for Mac, through December 5.” Printed dollar sale prices were not on the page this run and are not invented. Timezone for the December 5 end is not stated on the page. | Through December 5 (as printed; year not written next to the date, on the 2026 Black Friday page) | 2026-12-05 | 🟢 Live | [official](https://tryvoiceink.com/black-friday) | 2026-11-20 |
+| **Linger** | 38% OFF Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed | Nov 19 – Dec 1, 2026, 23:59 PST | 2026-12-01 | 🟢 Live | [official](https://withlinger.com/black-friday/) | 2026-11-21 |
 
 ### 🔍 SEO
 
