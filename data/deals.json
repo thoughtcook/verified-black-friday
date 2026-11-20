@@ -1573,6 +1573,17 @@
     "last_checked": "2026-11-20"
   },
   {
+    "category": "AI",
+    "service": "Transync AI",
+    "status": "Early",
+    "deal": "Official transyncai.com/black-friday (checked 2026-11-20): Save $20 on a new Personal Premium annual plan ($89.90 → $69.90) or a 100-hour Time Card, auto-applied, no code. One annual discount per account on new annual subscriptions or monthly-to-annual upgrades; annual renewals excluded (renew at $89.90). Up to five discounted 100-hour Time Cards per account. Not available in the China region. Window: Nov 24, 00:00 UTC through Dec 1, 23:59 UTC.",
+    "dates": "2026-11-24 to 2026-12-01 UTC",
+    "ends": "2026-12-01",
+    "link": "https://www.transyncai.com/black-friday/",
+    "link_type": "official",
+    "last_checked": "2026-11-20"
+  },
+  {
     "category": "SaaS",
     "service": "Internxt",
     "status": "Live",
