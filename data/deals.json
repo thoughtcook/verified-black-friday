@@ -1692,5 +1692,16 @@
     "link": "https://wordpress.com/black-friday-2026/",
     "link_type": "official",
     "last_checked": "2026-11-20"
+  },
+  {
+    "category": "AI",
+    "service": "APIKO",
+    "status": "Live",
+    "deal": "Official homepage banner and announcements: 10% extra API credits on every paid top-up. Pay $100 and get $110 in credits. Applies automatically to new and existing customers; no coupon or subscription.",
+    "dates": "Nov 12 – Nov 27, 2026 at 11:59 p.m. Pacific Time",
+    "ends": "2026-11-27",
+    "link": "https://apiko.app/",
+    "link_type": "official",
+    "last_checked": "2026-11-20"
   }
 ]
