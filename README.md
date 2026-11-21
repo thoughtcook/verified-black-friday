@@ -6,7 +6,7 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-154-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-155-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-82-brightgreen)](#-best-live-deals-right-now)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--11--20-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
@@ -209,6 +209,7 @@ Bundles built only from the verified live deals above.
 | **Vogoo AI** | Official /black-friday (Nov 16): still LIVE, 00:00 UTC Nov 3 – 23:59 UTC Nov 30 2026. Headline is now “Up to 60% OFF Yearly plans” (was 40% off yearly). Official yearly cards this run: Lite $19/mo / $228 billed yearly (Save $0 vs monthly); Pro $35/mo (monthly list $59) / $420 billed yearly (Save $288 vs monthly, on-page −41%); Ultra $65/mo (monthly list $129) / $780 billed yearly (on-page −50%). Page still mentions entering BLACKFRIDAY at checkout but also says the discount is included automatically. Monthly plans and credit packs are excluded. WORSE vs the Nov 5 official reading (Lite $6.45/mo reg $10.75; Pro $7.47/mo / $89.64 billed yearly, reg $12.45/$149.40). | Nov 3 – Nov 30 2026 UTC (still live; yearly dollars worsened vs Nov 5) | 2026-11-30 | 🟢 Live | [official](https://vogoo.ai/black-friday) | 2026-11-20 |
 | **SciFig** | Official /black-friday (Nov 3): Extra 20% off new subscription first month/year + upgrades/credit packs (auto, no code). Example Starter $80 first year (renews $100/yr). Page claims up to 52% total vs 12× monthly on Pro annual first year. | Through 1 Dec 2026 23:59 PT | 2026-12-01 | 🟢 Live | [official](https://scifig.ai/black-friday) | 2026-11-20 |
 | **Bimg AI** | Official /black-friday (Nov 5): 50% off first month (monthly), or 50% off first year and every annual renewal. Campaign Nov 3 – Dec 3 2026. Choose plan on pricing page; confirm discount at checkout. | Nov 3 – Dec 3 2026 | 2026-12-03 | 🟢 Live | [official](https://bimg.ai/black-friday) | 2026-11-20 |
+| **Effect Video** | Official /black-friday (checked Nov 20): +50% bonus credits on every credit pack and annual plan, prices unchanged, auto-applied at purchase, no code. Packs: Preview $19.87 (30 to 45 credits), Collection $49.67 (90 to 135), Project $199.41 (400 to 600), Campaign $499.36 (1,100 to 1,650). Annual plans get the +50% bonus on every monthly credit grant in the first year. Excludes top-ups, monthly plans and the Welcome plan. Bonus credits never expire. | Announced for Nov 24 - Dec 1 2026 (PT) on the official /black-friday page; not yet started as of Nov 20 | 2026-12-01 | ⚪ Not yet | [official](https://effect.video/black-friday) | 2026-11-20 |
 
 ### 🔒 VPN
 
