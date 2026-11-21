@@ -1692,5 +1692,16 @@
     "link": "https://wordpress.com/black-friday-2026/",
     "link_type": "official",
     "last_checked": "2026-11-20"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Oil Studio",
+    "status": "Live",
+    "deal": "Official /en/buy/ (Nov 20): 20% off with code BFCM2026 (extra 20% off current $39 launch price → $31.20; regular $49). Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript cutting, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription.",
+    "dates": "Nov 20 – Dec 2, 2026",
+    "ends": "2026-12-02",
+    "link": "https://studio.oiloil.org/en/buy/",
+    "link_type": "official",
+    "last_checked": "2026-11-20"
   }
 ]
