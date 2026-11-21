@@ -1,3 +1,7 @@
+## 2026-11-20 (vendor submission)
+
+- **NEW Live (was Unverified):** Enconvo — official [enconvo.com](https://enconvo.com). Black Friday banner “30% off Lifetime and Cloud”, “Ends December 7” (countdown to Dec 8 00:00 PT). Discount applied at checkout, no code; the announced BLACKFRIDAY2026 code and Nov 23–30 window are replaced. Lifetime one-time: Standard **$59 → $41.30**, Premium **$119 → $83.30**, Teams **$159 → $111.30** (5 seats). Enconvo Cloud: 30% off the first month or year. Submitted by the vendor.
+
 ## 2026-11-20 (growth review)
 
 - **NEW Live:** Craft — official [craft.do/pricing](https://www.craft.do/pricing). LIVE Black Friday banner “Get up to 40% off Craft Plus and Family.” Yearly 40% off with **BLACKFRIDAY26-A**; monthly 20% off with **BLACKFRIDAY26-M**. Official page JSON list prices in USD: Plus **$95.88**/year, Family **$179.88**/year, Plus **$9.99**/mo, Family **$15.99**/mo. Visible cards this run were HKD (Plus yearly HK$62/mo → HK$37.2/mo; JSON Plus yearly HK$744 → HK$446.4, Family yearly HK$1395 → HK$837). USD sale totals are not printed as a checkout total and are not computed. Official end date not printed.

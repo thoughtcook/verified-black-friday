@@ -904,11 +904,11 @@
   {
     "category": "Mac/Dev",
     "service": "Enconvo (Mac AI agent)",
-    "status": "Unverified",
-    "deal": "Maker-side announcement (MacWorthy / IndieMarkdowns): 30% off lifetime licenses with code BLACKFRIDAY2026, Nov 23–30. Official enconvo.com/pricing (Nov 8) now Standard $59 / Premium $119 / Teams $159 once (was $49 / $99 / $139) — still no Black Friday label or code field.",
-    "dates": "Nov 23 – Nov 30, 2026 (claimed)",
-    "ends": "2026-11-30",
-    "link": "https://enconvo.com/pricing",
+    "status": "Live",
+    "deal": "Official enconvo.com (Nov 20): Black Friday 30% off Lifetime and Cloud, discount applied at checkout, no code (the announced BLACKFRIDAY2026 code is no longer needed). Lifetime one-time: Standard $59 → $41.30 / Premium $119 → $83.30 / Teams $159 → $111.30 (5 seats). Enconvo Cloud: 30% off the first month or year. Ends December 7, 2026 (page countdown ends Dec 8 00:00 PT).",
+    "dates": "Nov 20 – Dec 7, 2026",
+    "ends": "2026-12-07",
+    "link": "https://enconvo.com",
     "link_type": "official",
     "last_checked": "2026-11-20"
   },
