@@ -1,3 +1,7 @@
+## 2026-11-20 (vendor submission)
+
+- **NEW Live:** FortuneTellerOnline — official [fortunetelleronline.app/#pricing](https://www.fortunetelleronline.app/#pricing). LIVE 90% off all plans + 10x bonus credits, auto-applied at checkout (no code). One-time credits never expire; subscription credits refresh each cycle. Ends **2026-12-31**. Submitted by the vendor (kugua233).
+
 ## 2026-11-20 (growth review)
 
 - **NEW Live:** Craft — official [craft.do/pricing](https://www.craft.do/pricing). LIVE Black Friday banner “Get up to 40% off Craft Plus and Family.” Yearly 40% off with **BLACKFRIDAY26-A**; monthly 20% off with **BLACKFRIDAY26-M**. Official page JSON list prices in USD: Plus **$95.88**/year, Family **$179.88**/year, Plus **$9.99**/mo, Family **$15.99**/mo. Visible cards this run were HKD (Plus yearly HK$62/mo → HK$37.2/mo; JSON Plus yearly HK$744 → HK$446.4, Family yearly HK$1395 → HK$837). USD sale totals are not printed as a checkout total and are not computed. Official end date not printed.
