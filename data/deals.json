@@ -1692,5 +1692,16 @@
     "link": "https://wordpress.com/black-friday-2026/",
     "link_type": "official",
     "last_checked": "2026-11-20"
+  },
+  {
+    "category": "SaaS",
+    "service": "Unraster",
+    "status": "Live",
+    "deal": "Official unraster.ai/pricing (Nov 21): 45% off the 150-credit pack with code BLACKFRIDAY45, $79.90 list price, $43.95 with the code. Turns slide, chart and diagram screenshots into editable PowerPoint or SVG. Vendor-submitted.",
+    "dates": "Ends Dec 1 2026",
+    "ends": "2026-12-01",
+    "link": "https://unraster.ai/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-21"
   }
 ]
