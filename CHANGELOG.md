@@ -1,3 +1,7 @@
+## 2026-11-20 (FastScribe)
+
+- **NEW Live:** [FastScribe](https://fastscribe.org/pricing): Pro $89 first year (regular and renewal $120/year), 6,500 bonus credits, no coupon. Accounts without active subscription only. Ends November 30 at 11:59 PM Pacific.
+
 ## 2026-11-20 (growth review)
 
 - **NEW Live:** Craft — official [craft.do/pricing](https://www.craft.do/pricing). LIVE Black Friday banner “Get up to 40% off Craft Plus and Family.” Yearly 40% off with **BLACKFRIDAY26-A**; monthly 20% off with **BLACKFRIDAY26-M**. Official page JSON list prices in USD: Plus **$95.88**/year, Family **$179.88**/year, Plus **$9.99**/mo, Family **$15.99**/mo. Visible cards this run were HKD (Plus yearly HK$62/mo → HK$37.2/mo; JSON Plus yearly HK$744 → HK$446.4, Family yearly HK$1395 → HK$837). USD sale totals are not printed as a checkout total and are not computed. Official end date not printed.
