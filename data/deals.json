@@ -1692,5 +1692,16 @@
     "link": "https://wordpress.com/black-friday-2026/",
     "link_type": "official",
     "last_checked": "2026-11-20"
+  },
+  {
+    "category": "AI",
+    "service": "ConceptViz",
+    "status": "Live",
+    "deal": "Official /pricing Black Friday lifetime deal (vendor submission): $299 one-time, no monthly fee. Includes 1,500 permanent credits, lifetime Ultra features, permanent 50% off Studio credit packs, 1-month Agent Pro trial (no API). Commercial license included.",
+    "dates": "Through 1 Dec 2026 11:59 PM PT",
+    "ends": "2026-12-01",
+    "link": "https://conceptviz.app/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-21"
   }
 ]
