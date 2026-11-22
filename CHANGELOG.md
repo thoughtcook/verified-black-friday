@@ -1,3 +1,7 @@
+## 2026-11-22 (vendor submission)
+
+- **NEW Live:** MakeMidas — official [makemidas.com/pricing](https://makemidas.com/pricing). Black Friday banner on the Credit packs tab: every one-time credit pack gets **125 credits per $1** (“up to 25% more credits”), applied at checkout, no code: **$10 → 1,250 credits** (regular 1,000), $50 → 6,250 (regular 5,250), $100 → 12,500 (regular 11,000), $250 → 31,250 (regular 28,750); $500 unchanged. Pack prices do not change. Ends **Dec 1, 2026 (UTC)**. Submitted by the vendor.
+
 ## 2026-11-20 (vendor submission)
 
 - **NEW Live (was Unverified):** Enconvo — official [enconvo.com](https://enconvo.com). Black Friday banner “30% off Lifetime and Cloud”, “Ends December 7” (countdown to Dec 8 00:00 PT). Discount applied at checkout, no code; the announced BLACKFRIDAY2026 code and Nov 23–30 window are replaced. Lifetime one-time: Standard **$59 → $41.30**, Premium **$119 → $83.30**, Teams **$159 → $111.30** (5 seats). Enconvo Cloud: 30% off the first month or year. Submitted by the vendor.

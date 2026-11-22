@@ -1692,5 +1692,16 @@
     "link": "https://wordpress.com/black-friday-2026/",
     "link_type": "official",
     "last_checked": "2026-11-20"
+  },
+  {
+    "category": "AI",
+    "service": "MakeMidas",
+    "status": "Live",
+    "deal": "Official makemidas.com/pricing (Nov 22): LIVE Black Friday banner on the Credit packs tab: every one-time credit pack gets 125 credits per $1, “up to 25% more credits”, applied at checkout, no code, no subscription needed. Packs: $10 → 1,250 credits (regular 1,000); $50 → 6,250 (regular 5,250); $100 → 12,500 (regular 11,000); $250 → 31,250 (regular 28,750); $500 → 62,500 (unchanged). Pack prices themselves do not change; pack credits are valid 12 months. Monthly plans unchanged. Ends Dec 1, 2026 (UTC). Submitted by the vendor.",
+    "dates": "Nov 20 – Dec 1, 2026 (ends 23:59 UTC)",
+    "ends": "2026-12-01",
+    "link": "https://makemidas.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-22"
   }
 ]
