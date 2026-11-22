@@ -1,3 +1,7 @@
+## 2026-11-22 (vendor submission)
+
+- **NEW Live:** ScribeToAny — official [scribetoany.com/pricing](https://scribetoany.com/pricing). Black Friday banner: monthly plans **30% off** the first payment with code **FIRST_30_OFF** (Plus **$10 → $7**, Pro **$20 → $14** first month); yearly plans **$20 off** the first payment with code **FIRST_20_OFF** (Plus **$88 → $68**, Pro **$120 → $100** first year), plus bonus minutes with the first subscription. Ends **Nov 30, 2026, 23:59 UTC**. Submitted by the vendor.
+
 ## 2026-11-20 (vendor submission)
 
 - **NEW Live (was Unverified):** Enconvo — official [enconvo.com](https://enconvo.com). Black Friday banner “30% off Lifetime and Cloud”, “Ends December 7” (countdown to Dec 8 00:00 PT). Discount applied at checkout, no code; the announced BLACKFRIDAY2026 code and Nov 23–30 window are replaced. Lifetime one-time: Standard **$59 → $41.30**, Premium **$119 → $83.30**, Teams **$159 → $111.30** (5 seats). Enconvo Cloud: 30% off the first month or year. Submitted by the vendor.
