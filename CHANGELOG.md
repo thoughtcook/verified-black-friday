@@ -1,3 +1,8 @@
+## 2026-11-22 (vendor submission)
+
+- **NEW Live:** AY Grants — official [grants.ayskilllab.com](https://grants.ayskilllab.com/#pricing). 50% off the first month on the monthly plan, applied automatically at checkout, no code: **$9 → $4.50** for the first month, then $9/mo. The checkout step shows the Black Friday note. Ends **Nov 30, 2026, 11:59 PM US Pacific**. Submitted by the vendor.
+- **NEW Live:** AY Tenders — official [tenders.ayskilllab.com](https://tenders.ayskilllab.com/#pricing). 50% off the first month on monthly plans, applied automatically at checkout, no code: Tenders **$19 → $9.50**, Tenders + Grants **$24 → $12** for the first month, then the normal monthly price. Ends **Nov 30, 2026, 11:59 PM US Pacific**. Submitted by the vendor.
+
 ## 2026-11-20 (vendor submission)
 
 - **NEW Live (was Unverified):** Enconvo — official [enconvo.com](https://enconvo.com). Black Friday banner “30% off Lifetime and Cloud”, “Ends December 7” (countdown to Dec 8 00:00 PT). Discount applied at checkout, no code; the announced BLACKFRIDAY2026 code and Nov 23–30 window are replaced. Lifetime one-time: Standard **$59 → $41.30**, Premium **$119 → $83.30**, Teams **$159 → $111.30** (5 seats). Enconvo Cloud: 30% off the first month or year. Submitted by the vendor.
