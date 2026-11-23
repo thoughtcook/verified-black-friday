@@ -1714,5 +1714,16 @@
     "link": "https://www.livewebinar.com/pricing",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "SaaS",
+    "service": "HookTide",
+    "status": "Live",
+    "deal": "Official hooktide.io/pricing (Nov 23): banner \u201cBlack Friday: 40% off your first year of Pipeline, $352.80 instead of $588. Ends Dec 1.\u201d Pipeline yearly $588/year, first year $352.80 (about $29.40/month), then renews at $588/year. Code BLACKYEAR, applied automatically when Yearly is chosen at checkout. HookTide is an AI tool for LinkedIn that learns your writing voice and drafts posts, comments and DMs. Submitted by the vendor.",
+    "dates": "Nov 23 - Dec 1, 2026 (ends 11:59pm ET Dec 1)",
+    "ends": "2026-12-01",
+    "link": "https://hooktide.io/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-23"
   }
 ]
