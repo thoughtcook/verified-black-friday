@@ -1,3 +1,8 @@
+## 2026-11-23
+
+- **NEW Live (vendor submission):** VibeShield — official [vibe-checker.appwrite.network](https://vibe-checker.appwrite.network/). Launch Special **$2 one-time** (was $9, 78% off); 3-App Suite **$5** (was $29). No code; end not stated.
+- **NEW Live (vendor submission):** CiteReady — official [citeready-checker.appwrite.network](https://citeready-checker.appwrite.network/). Launch Special **$2 one-time** (was $12, 83% off); 3-App Suite **$5** (was $29). No code; end not stated.
+
 ## 2026-11-20 (vendor submission)
 
 - **NEW Live (was Unverified):** Enconvo — official [enconvo.com](https://enconvo.com). Black Friday banner “30% off Lifetime and Cloud”, “Ends December 7” (countdown to Dec 8 00:00 PT). Discount applied at checkout, no code; the announced BLACKFRIDAY2026 code and Nov 23–30 window are replaced. Lifetime one-time: Standard **$59 → $41.30**, Premium **$119 → $83.30**, Teams **$159 → $111.30** (5 seats). Enconvo Cloud: 30% off the first month or year. Submitted by the vendor.

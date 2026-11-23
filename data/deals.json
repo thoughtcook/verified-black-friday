@@ -1692,5 +1692,27 @@
     "link": "https://wordpress.com/black-friday-2026/",
     "link_type": "official",
     "last_checked": "2026-11-20"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "VibeShield",
+    "status": "Live",
+    "deal": "Official vibe-checker.appwrite.network (Nov 23): Launch Special $2 one-time (was $9, 78% off) for the full 116-check web app security fix pass (security headers, exposed JS secrets, Supabase RLS, Firebase rules); Complete 3-App Launch Suite $5 one-time (was $29, 83% off). No code needed; end not stated on page.",
+    "dates": "Live as of Nov 23 2026; end not stated",
+    "ends": "",
+    "link": "https://vibe-checker.appwrite.network/",
+    "link_type": "official",
+    "last_checked": "2026-11-23"
+  },
+  {
+    "category": "SEO",
+    "service": "CiteReady",
+    "status": "Live",
+    "deal": "Official citeready-checker.appwrite.network (Nov 23): Launch Special $2 one-time (was $12, 83% off) for Web Pro (50-URL batch AI search audit, Schema.org entity graph & /llms.txt generator, CSV export); Complete 3-App Suite $5 one-time (was $29, 83% off). No code needed; end not stated on page.",
+    "dates": "Live as of Nov 23 2026; end not stated",
+    "ends": "",
+    "link": "https://citeready-checker.appwrite.network/",
+    "link_type": "official",
+    "last_checked": "2026-11-23"
   }
 ]

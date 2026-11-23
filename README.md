@@ -6,9 +6,9 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-154-blue)](#deals-by-category)
-[![Live now](https://img.shields.io/badge/live_now-83-brightgreen)](#-best-live-deals-right-now)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--11--20-informational)](CHANGELOG.md)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-156-blue)](#deals-by-category)
+[![Live now](https://img.shields.io/badge/live_now-85-brightgreen)](#-best-live-deals-right-now)
+[![Last checked](https://img.shields.io/badge/last_checked-2026--11--23-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
@@ -26,7 +26,7 @@
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
 
 ## 🏆 Top 5 picks
-_Savings are worked out only from prices shown on the linked official page (checked 2026-11-20)._
+_Savings are worked out only from prices shown on the linked official page (checked 2026-11-23)._
 
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
@@ -148,6 +148,8 @@ _Live or Early only, with deals that publish an end date listed first. Unverifie
 | **Almighty (Indie Goodies)** | Official Indie Goodies BF page (Nov 3): 50% lifetime $7.49 (was $14.99), code INDIEGOODIESBF26. End date not stated on page. | BF listing live Nov 3 2026; end not stated on page | not stated | 🟢 Live | [official](https://indiegoodies.com/blackfriday) | 2026-11-20 |
 | **BearConnect (LinkedIn automation)** | Official home + /pricing (Nov 8): banner “Black Friday: 50% Off for 6 Months” code 50OFFBC. List: Starter $56 / LinkedIn account / month billed annually ($670/year per account); Growth $237/month for 5 LinkedIn accounts billed annually (additional accounts $47/month each). Discounted totals after 50% not printed. End date not stated. | BF live as of Nov 8 2026; end not stated | not stated | 🟢 Live | [official](https://bearconnect.io/pricing/) | 2026-11-20 |
 | **Craft** | Official www.craft.do/pricing (Nov 20): LIVE Black Friday banner “Get up to 40% off Craft Plus and Family.” Yearly 40% off with code BLACKFRIDAY26-A; monthly 20% off with BLACKFRIDAY26-M. Official page JSON list prices in USD: Plus $95.88/year, Family $179.88/year, Plus $9.99/mo, Family $15.99/mo. This run’s visible cards were HKD (Plus yearly HK$62/mo struck through → HK$37.2/mo; JSON Plus yearly HK$744 → HK$446.4, Family yearly HK$1395 → HK$837). USD sale totals are not printed as a checkout total and are not computed. Team plans had no publicPromo in the payload this run. Sale end date is not printed (a “Valid until {endDate}” template only). | Live as of Nov 20 2026; official end date not printed | not stated | 🟢 Live | [official](https://www.craft.do/pricing) | 2026-11-20 |
+| **VibeShield** | Official vibe-checker.appwrite.network (Nov 23): Launch Special $2 one-time (was $9, 78% off) for the full 116-check web app security fix pass (security headers, exposed JS secrets, Supabase RLS, Firebase rules); Complete 3-App Launch Suite $5 one-time (was $29, 83% off). No code needed; end not stated on page. | Live as of Nov 23 2026; end not stated | not stated | 🟢 Live | [official](https://vibe-checker.appwrite.network/) | 2026-11-23 |
+| **CiteReady** | Official citeready-checker.appwrite.network (Nov 23): Launch Special $2 one-time (was $12, 83% off) for Web Pro (50-URL batch AI search audit, Schema.org entity graph & /llms.txt generator, CSV export); Complete 3-App Suite $5 one-time (was $29, 83% off). No code needed; end not stated on page. | Live as of Nov 23 2026; end not stated | not stated | 🟢 Live | [official](https://citeready-checker.appwrite.network/) | 2026-11-23 |
 
 ## 🧱 Stack builders
 Bundles built only from the verified live deals above.
@@ -289,6 +291,7 @@ Bundles built only from the verified live deals above.
 | **Recut** | Official getrecut.com (Nov 20): still a live $50-off one-time deal, same dollars. Copy this run: “Early Black Friday! Recut is $50 off until Dec 4”; “Black Friday is early!”; one-time “Black Friday $149 $99.” Also “Goes up to $149 on 12/5.” Footer: “Recut is $99 until December 4, then it goes back to $149.” Subscribe remains $19/month at the regular rate (deal is the one-time license). No coupon needed. | Ends Dec 4 / goes up to $149 on 12/5 | 2026-12-04 | 🟢 Live | [official](https://getrecut.com/) | 2026-11-20 |
 | **JuxtaCode** | Official juxtacode.app/black-friday/ (Nov 20): still announced, not live. Window “Runs Friday 20 November to Tuesday 1 December 2026, US Pacific time,” 40% off, sale price $24, regular $40, code BLACKFRIDAY26 (USD; tax at checkout), direct juxtacode.app only, not Mac App Store. This-run copy also says “On now.” and “Buy JuxtaCode for $24.” The earlier “Until Friday 20 November, checkout charges the regular price” sentence is gone. Pacific start 2026-11-20T08:00:00Z had not passed at this check (~02:39Z). Not marked LIVE early. | Fri Nov 20 – Tue Dec 1 2026, US Pacific (announced; Pacific start 2026-11-20T08:00:00Z had not begun at this check) | 2026-12-01 | ⚪ Not yet | [official](https://juxtacode.app/black-friday/) | 2026-11-20 |
 | **VoiceInk** | Official tryvoiceink.com/black-friday (Nov 20): LIVE “Black Friday: 40% off VoiceInk for Mac” / “40% off VoiceInk, for life.” Pay once, lifetime access. Code BFVI2640 at checkout. Official copy: “Get 40% off VoiceInk, the private dictation app for Mac, through December 5.” Printed dollar sale prices were not on the page this run and are not invented. Timezone for the December 5 end is not stated on the page. | Through December 5 (as printed; year not written next to the date, on the 2026 Black Friday page) | 2026-12-05 | 🟢 Live | [official](https://tryvoiceink.com/black-friday) | 2026-11-20 |
+| **VibeShield** | Official vibe-checker.appwrite.network (Nov 23): Launch Special $2 one-time (was $9, 78% off) for the full 116-check web app security fix pass (security headers, exposed JS secrets, Supabase RLS, Firebase rules); Complete 3-App Launch Suite $5 one-time (was $29, 83% off). No code needed; end not stated on page. | Live as of Nov 23 2026; end not stated | not stated | 🟢 Live | [official](https://vibe-checker.appwrite.network/) | 2026-11-23 |
 
 ### 🔍 SEO
 
@@ -300,6 +303,7 @@ Bundles built only from the verified live deals above.
 | **Seobility** | Official /en/lp/blackfriday26/ (Nov 20): still LIVE “Seobility Black Friday Deal 2026.” Still 60 days free + 15% off forever: Premium $69.90 → $59.41/mo billed monthly. Official end now printed: “November 17 to December 6”; data-end="2026-12-06T23:59:59+01:00”; data-date="Ends December 6.” Signup voucher this run is blackfriday26ext (baseline was blackfriday25lp). Agency $239.90 card was not found this run — not invented. | November 17 to December 6, 2026 (data-end 2026-12-06T23:59:59+01:00) | 2026-12-06 | 🟢 Live | [official](https://www.seobility.net/en/lp/blackfriday26/) | 2026-11-20 |
 | **Rapid Indexer** | Official homepage (Nov 3): BF top-up credit bonuses +20% all / +30% on $100+ / +40% on $1,000+ (credits never expire). Through 27 Nov 2026 23:59 UTC. | Through 27 Nov 2026 23:59 UTC | 2026-11-27 | 🟢 Live | [official](https://rapid-indexer.com/) | 2026-11-20 |
 | **GTmetrix** | Official gtmetrix.com/pricing (Nov 15): Black Friday is here — 40% off all GTmetrix plans, code BF2026. Visible yearly USD cards: Lite $4.99 → $2.99 per month billed yearly; Core $9.99 → $5.99; Advanced $24.99 → $14.99; Expert $49.99 → $29.99. On-page copy: "Our biggest discount of the year ends December 2." Official meta description: ends Dec 2, 2026 @11:59 PM Pacific. All prices USD. | Live as of Nov 15 2026; ends Dec 2, 2026 11:59 PM Pacific | 2026-12-02 | 🟢 Live | [official](https://gtmetrix.com/pricing) | 2026-11-20 |
+| **CiteReady** | Official citeready-checker.appwrite.network (Nov 23): Launch Special $2 one-time (was $12, 83% off) for Web Pro (50-URL batch AI search audit, Schema.org entity graph & /llms.txt generator, CSV export); Complete 3-App Suite $5 one-time (was $29, 83% off). No code needed; end not stated on page. | Live as of Nov 23 2026; end not stated | not stated | 🟢 Live | [official](https://citeready-checker.appwrite.network/) | 2026-11-23 |
 
 ### 🧰 SaaS & productivity
 
