@@ -1,6 +1,6 @@
 ## 2026-11-23 (vendor submission)
 
-- **NEW Live:** HookTide — official [hooktide.io/pricing](https://hooktide.io/pricing). Banner “Black Friday: 40% off your first year of Pipeline, $352.80 instead of $588. Ends Dec 1.” Pipeline yearly $588/year; first year **$352.80** (about $29.40/month), then renews at $588/year. Code BLACKYEAR, applied automatically when Yearly is chosen at checkout. Ends Dec 1, 2026 (11:59pm ET). Submitted by the vendor.
+- **NEW Live:** HookTide — official [hooktide.io/pricing](https://hooktide.io/pricing). Banner “Black Friday: 50% off your first year of Pipeline, $294 instead of $588. Ends Dec 1.” Pipeline yearly $588/year; first year **$294** (about $24.50/month), then renews at $588/year. Code BLACKFRIDAY50, applied automatically when Yearly is chosen at checkout. Ends Dec 1, 2026 (11:59pm ET). Submitted by the vendor.
 
 ## 2026-11-23 (TradingView live)
 
