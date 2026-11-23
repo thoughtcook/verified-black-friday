@@ -1692,5 +1692,16 @@
     "link": "https://wordpress.com/black-friday-2026/",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "SaaS",
+    "service": "Leave Me Alone",
+    "status": "Live",
+    "deal": "Official leavemealone.com/pricing (Nov 23 WebFetch) and official announcement API app.leavemealone.com/api/announcement?page=%2Fpricing%2F&locale=en: LIVE banner \u201cBlack Friday: All your inboxes. 83% off.\u201d Yearly Unlimited: \u201cBLACK FRIDAY 83% off,\u201d $30.00 \u2192 $4.92/month, billed yearly at $59.00/year (\u201cSave $301.00 now\u201d). Yearly 1 inbox: 68% off, $12.50 \u2192 $4.00/month, billed yearly at $48.00/year. Yearly 3 inboxes: 70% off, $20.00 \u2192 $6.00/month, billed yearly at $72.00/year. Official API: name black-friday-2026, startsAt 2026-11-16T00:00:01.000Z, endsAt 2026-12-08T07:59:59.000Z; yearlyDiscountPercentage duration \u201cforever.\u201d No coupon required on the pricing page. USD figures from the visible USD render (EUR/GBP/AUD/INR also listed in the API).",
+    "dates": "Nov 16, 2026 00:00:01 UTC \u2013 Dec 8, 2026 07:59:59 UTC (official API startsAt / endsAt)",
+    "ends": "2026-12-08",
+    "link": "https://leavemealone.com/pricing/",
+    "link_type": "official",
+    "last_checked": "2026-11-23"
   }
 ]

@@ -1,3 +1,7 @@
+## 2026-11-23 (growth review)
+
+- **NEW Live:** Leave Me Alone — official [leavemealone.com/pricing](https://leavemealone.com/pricing/) and official announcement API `/api/announcement?page=%2Fpricing%2F&locale=en`. LIVE banner “Black Friday: All your inboxes. 83% off.” Yearly Unlimited **$59.00/year** ($4.92/month billed yearly, was $30.00/month; “Save $301.00 now”), 83% off. Yearly 1 inbox **$48.00/year** (68% off); 3 inboxes **$72.00/year** (70% off). Official API: name `black-friday-2026`, startsAt **2026-11-16T00:00:01.000Z**, endsAt **2026-12-08T07:59:59.000Z**, yearlyDiscountPercentage duration “forever.” No coupon required on the pricing page. USD from the visible USD render. Follow-up to issue #127 (the earlier HTML-only /pricing fetch in #73 showed only list prices).
+
 ## 2026-11-23 (Monday full check)
 
 - **BETTER Live:** Higgsfield — official [higgsfield.ai/pricing](https://higgsfield.ai/pricing). The official 63% window ended on schedule at 2026-11-23T00:00:00Z. A new official `sale_11_11` window is live: 2026-11-23T00:00:00Z through 2026-11-24T00:00:00Z, phase `black_friday`, **max 70% off** premium plans (“Black Friday 70% OFF” / “Up to 70% OFF premium plans”). A separate business offer still prints up to 63% off business plans. Plan dollars were not printed in the static HTML and are not invented. Short window.
