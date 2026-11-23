@@ -1703,5 +1703,16 @@
     "link": "https://leavemealone.com/pricing/",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "Productivity",
+    "service": "DataCheck",
+    "status": "Live",
+    "deal": "Official datacheck.cc/en/pricing (verified 2026-11-23): LIVE banner \"Black Friday 2026 \u00b7 30% OFF\". 30% off all 6 standard one-time plans, automatically applied at Stripe Checkout (no coupon code required; excludes HK$35 first trial). Online packs (HKD checkout, approx. USD): Single HK$116 -> HK$81.20 (~$10.35), 5-check HK$469 -> HK$328.30 (~$41.85), 10-check HK$822 -> HK$575.40 (~$73.35), 30-check HK$1,175 -> HK$822.50 (~$104.85). Windows perpetual desktop licenses: Connected HK$15,288 -> HK$10,701.60 (~$1,364.18), Offline HK$19,992 -> HK$13,994.40 (~$1,783.93). One-time purchase; no recurring subscription or automatic renewal.",
+    "dates": "Nov 23, 2026 04:00 UTC \u2013 Dec 5, 2026 16:00 UTC",
+    "ends": "2026-12-05",
+    "link": "https://datacheck.cc/en/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-23"
   }
 ]
