@@ -1703,5 +1703,16 @@
     "link": "https://leavemealone.com/pricing/",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "SaaS",
+    "service": "LiveWebinar",
+    "status": "Live",
+    "deal": "Official livewebinar.com and livewebinar.com/pricing (Nov 23): official top banner already visible \u2014 \u201cBLACK FRIDAY,\u201d \u201c-50% MONTHLY PLAN* BF2026M,\u201d \u201c-30% YEARLY PLAN* BF2026Y,\u201d \u201cUse code at checkout,\u201d \u201cENDS DEC 4,\u201d and \u201c*New accounts only. Valid until Dec 4, 2026.\u201d Banner CTA is the official pricing URL with redeem_code=BF2026M (monthly). Sale plan dollars were not printed on the banner or the static pricing cards and are not invented. The pricing cards still also show the standing \u201cAnnually 20% off,\u201d which is not this Black Friday offer. Official blog livewebinar.com/blog/alternatives/black-friday-2026 (updated 20.11.2026) still prints the promotion period as November 24 \u2013 December 4, 2026, new accounts only, same codes (50% off first month on monthly plans / 30% off yearly).",
+    "dates": "Official banner: valid until Dec 4, 2026 (start date not printed on the banner). Official blog: November 24 \u2013 December 4, 2026",
+    "ends": "2026-12-04",
+    "link": "https://www.livewebinar.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-23"
   }
 ]
