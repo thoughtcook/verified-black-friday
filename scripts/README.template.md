@@ -48,9 +48,9 @@ _Savings are worked out only from prices shown on the linked official page (chec
 | Nov 17, 14:00 UTC | MailerLite official 26% off annual plans starts (through Dec 18, 2026 16:00 UTC) |
 | Nov 18 | Rank Math official countdown stamp 16:00:00 (tz not stated) |
 | Nov 20 to Dec 2 | Full recheck every day |
-| ~Nov 23 | TradingView official BF page still a teaser (no 2026 dollars yet) |
+| Nov 23, 3:00 AM EST | TradingView official BF sale went live (up to 80% off + 1 free month; through Nov 28, 2:59 AM EST / Nov 27, 11:59 PM PST) |
 | **Nov 27** | **Black Friday**; ON1 Photo RAW sale ends 11:59 PM PT; Adobe official Creative Cloud Pro offer-terms expire |
-| Nov 28 | Coderick AI (SiteGround) annual 50% off countdown 06:00 UTC |
+| Nov 28 | TradingView official BF sale ends 2:59 AM EST (Nov 27, 11:59 PM PST); Coderick AI (SiteGround) annual 50% off countdown 06:00 UTC |
 | **Nov 30** | **Cyber Monday**; Windscribe Pro $29/year ends; Koofr yearly 55% ends; Paperform 50% first-year ends 11:59 PM PT |
 | Dec 1 | Kinsta, InMotion, Thrive Themes and OptinMonster BF sales end; Picmal script ends 08:00 UTC; BoltAI license-update renewals 64% off until Dec 1; ElevenLabs official BFCM ends 11:59 p.m. ET |
 | Dec 2 | SpaceWise official BF Lifetime $5.99 JS end 23:59:59 (tz not stated); GTmetrix 40% off ends 11:59 PM Pacific |

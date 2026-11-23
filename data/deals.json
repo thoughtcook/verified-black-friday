@@ -1366,10 +1366,10 @@
   {
     "category": "SaaS",
     "service": "TradingView",
-    "status": "Not yet",
-    "deal": "Official tradingview.com/black-friday/ (Nov 23): still ANNOUNCED, not live. Page still \u201cLaunches in\u201d with a countdown about 00 days 05 hours 26 mins at this-run fetch (~02:30Z), consistent with a start around 2026-11-23T08:00:00Z (midnight US Pacific). No 2026 sale dollars on the official page. Third-party \u201cup to 80%\u201d claims unused. Not marked LIVE before the official page flips.",
-    "dates": "Still announced; official countdown ~5h 26m at 2026-11-23T02:30Z fetch (consistent with ~2026-11-23T08:00:00Z / midnight Pacific); not live",
-    "ends": "",
+    "status": "Live",
+    "deal": "Official tradingview.com/black-friday/ (Nov 23): NEW LIVE. Page now shows \u201cSale ends in\u201d (the \u201cLaunches in\u201d teaser is gone). Banner \u201cUp to 80% off\u201d and \u201c+1 free month.\u201d Plan cards: Essential \u221230%, Plus \u221240%, Premium \u221270%, Ultimate \u221280%. Official USD (the page localizes by region; these figures are from the official USD render, not a currency conversion): Essential $126 / 13 months ($9.69/month, was $14.95/month, save $53.40 a year); Plus $251 / 13 months ($19.29/month, was $34.95/month); Premium $252 / 13 months ($19.38/month, was $69.95/month); Ultimate $576 / 13 months (the USD monthly unit price was not fully printed on the USD render and is not invented). FAQ: the 13th month is 30 extra days gifted; the free month is for web purchases only, not iOS/Android in-app purchases. During the sale you can get up to 3 years, each year in a separate transaction. A sales tax could be added depending on location; no tax amount was printed.",
+    "dates": "Official JS 2026-11-23T08:00:00Z (Nov 23, 3:00 AM EST / 12:00 AM PST) \u2013 2026-11-28T07:59:59Z (Nov 28, 2:59:59 AM EST / Nov 27, 11:59:59 PM PST)",
+    "ends": "2026-11-28",
     "link": "https://www.tradingview.com/black-friday/",
     "link_type": "official",
     "last_checked": "2026-11-23"
