@@ -1081,12 +1081,12 @@
     "category": "AI",
     "service": "Higgsfield (AI video)",
     "status": "Live",
-    "deal": "Official /pricing (Nov 23): still LIVE and BETTER. The official 63% window ended on schedule at 2026-11-23T00:00:00Z (phase pre_black_friday_63). Official sale_11_11 JSON now has a new window starts_at 2026-11-23T00:00:00Z, ends_at 2026-11-24T00:00:00Z, phase black_friday, max_discount_percent 70 (endsAtMs 1795478400000 = 2026-11-24T00:00:00Z). Visible copy: \u201cBlack Friday 70% OFF\u201d / \u201cUp to 70% OFF premium plans\u201d / \u201cGet plan with 70% OFF.\u201d A separate business offer still prints \u201cup to 63% off business plans.\u201d Visible individual plan dollars were not present in the static HTML this run and are not invented. Short window \u2014 through 2026-11-24T00:00:00Z.",
-    "dates": "New official 70% window 2026-11-23T00:00:00Z through 2026-11-24T00:00:00Z; prior 63% window ended 2026-11-23T00:00:00Z",
-    "ends": "2026-11-24",
+    "deal": "Official /pricing (Nov 24): still LIVE; official 70% window ended on schedule at 2026-11-24T00:00:00Z. Official sale_11_11 JSON now has a new window starts_at 2026-11-24T00:00:00Z, ends_at 2026-11-25T00:00:00Z, phase black_friday_phase_69, max_discount_percent 69. Visible copy: \u201cBlack Friday 69% OFF\u201d / \u201cUp to 69% OFF premium plans.\u201d Plan dollars are still not printed on the static page and are not invented. Short window \u2014 through 2026-11-25T00:00:00Z.",
+    "dates": "New official 69% window 2026-11-24T00:00:00Z through 2026-11-25T00:00:00Z; prior 70% window ended 2026-11-24T00:00:00Z",
+    "ends": "2026-11-25",
     "link": "https://higgsfield.ai/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24"
   },
   {
     "category": "SaaS",
@@ -1168,13 +1168,13 @@
   {
     "category": "SaaS",
     "service": "AdBlock Premium",
-    "status": "Not yet",
-    "deal": "Official getadblock.com/en/premium (Nov 3 curl): no BF/CM 2026 label. Standing Premium $4/mo or $40/yr. Watching for BF.",
-    "dates": "Check Nov 16 / 24",
-    "ends": "",
+    "status": "Live",
+    "deal": "Official getadblock.com/en/premium (Nov 24): NEW LIVE. Banner: \u201cBLACK FRIDAY,\u201d \u201c30% off your first year of Premium,\u201d \u201cEnds Mon, 30 Nov\u201d (i18n keys black-friday-2026-offer / black-friday-2026-ends). 2026-11-30 is a Monday. Yearly card prints was $40, now $28, labeled \u201cinclusive of VAT.\u201d Renewal line is the placeholder text \u201cFirst year, then $renewal$/year\u201d \u2014 the post-first-year price is not printed and is not invented. Also prints \u201cSave 42% vs monthly in your first year.\u201d",
+    "dates": "Ends Mon, 30 Nov (2026-11-30 is a Monday)",
+    "ends": "2026-11-30",
     "link": "https://getadblock.com/en/premium/",
     "link_type": "official",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24"
   },
   {
     "category": "SaaS",
@@ -1212,13 +1212,13 @@
   {
     "category": "SaaS",
     "service": "Adblock Plus",
-    "status": "Not yet",
-    "deal": "Official adblockplus.org/premium (Nov 9): no BF/CM 2026 label. Visible plan cards Yearly $40 (Save 17% vs monthly) or Monthly $4. Checkout widget also printed $20/$2 with class placeholder \u2014 not recorded as a promo. Watching for BF.",
-    "dates": "Check Nov 16 / 24",
-    "ends": "",
+    "status": "Live",
+    "deal": "Official adblockplus.org/premium (Nov 24): NEW LIVE. \u201cBlack Friday 30% off your first year of Premium,\u201d \u201cEnds Mon, 30 Nov.\u201d Yearly plan card still prints regular $40 (JSON-LD also price 40 USD). Sale dollars are not printed and are not estimated.",
+    "dates": "Ends Mon, 30 Nov (2026-11-30 is a Monday)",
+    "ends": "2026-11-30",
     "link": "https://adblockplus.org/premium",
     "link_type": "official",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24"
   },
   {
     "category": "Mac/Dev",
@@ -1542,13 +1542,13 @@
   {
     "category": "SaaS",
     "service": "Scrollsequence",
-    "status": "Not yet",
-    "deal": "ANNOUNCED on official BFCM page (Nov 3): 50% off all plans, code BFCM2026, Nov 24\u2013Dec 31 2026. Not live yet.",
-    "dates": "Nov 24 \u2013 Dec 31 2026 (announced)",
+    "status": "Live",
+    "deal": "Official BFCM page (Nov 24): NEW LIVE. Official \u201c50% Off All Plans,\u201d code BFCM2026, \u201cValid from 24th of November up to 31st of December 2026.\u201d Window has started. Sale dollars are not printed and are not invented.",
+    "dates": "Valid from 24th of November up to 31st of December 2026",
     "ends": "2026-12-31",
     "link": "https://beta.scrollsequence.com/black-friday-cyber-monday-deals",
     "link_type": "official",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24"
   },
   {
     "category": "SaaS",
@@ -1736,5 +1736,16 @@
     "link": "https://www.livewebinar.com/pricing",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Tower (Git client)",
+    "status": "Live",
+    "deal": "Official /pricing (Nov 24): NEW LIVE. Page header: \u201cBlack Friday, Up to 50% off.\u201d Official USD (visible plan cards; priceCurrency USD): Basic \u201cBlack Friday 30% off first year,\u201d $69 \u2192 $48.30 per user / annually; Pro \u201cBlack Friday 50% off first year,\u201d $129 \u2192 $64.50 per user / annually. The Pro card also prints \u201c10% off at 10+ seats\u201d (printed only; a stacked checkout total is not computed). Enterprise $149 per user / annually, no Black Friday discount shown. JSON-LD still lists regular Basic $69.00 / Pro $129.00 USD; sale dollars come from the visible plan cards. Homepage hero: \u201cBlack Friday Up to 50% off Tower Pro & Basic \u00b7 until Dec 6.\u201d Official copy says \u201cuntil Dec 6\u201d with no year printed (footer is only \u00a9 2010-2026). Pricing page has no end date. Official X @gittower (2026-11-24T13:45:57.000Z / 8:45 AM EST): \u201cTower's Black Friday Sale is live! Get up to 50% off your first year of the most powerful Git client for Mac and Windows. No code needed. Until Dec 6.\u201d No coupon code.",
+    "dates": "Official copy \u201cuntil Dec 6\u201d with no year printed (homepage hero and official X post); pricing page has no end date",
+    "ends": "2026-12-06",
+    "link": "https://www.git-tower.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-24"
   }
 ]
