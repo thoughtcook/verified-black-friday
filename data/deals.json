@@ -431,13 +431,13 @@
   {
     "category": "Mac/Dev",
     "service": "CleanShot X",
-    "status": "Not yet",
-    "deal": "Official cleanshot.com/pricing (Nov 7): no BF/sale. Basic $35 once. Last year's (2025) BF refs ~$29.",
-    "dates": "NO PROMO YET as of Nov 7 2026",
+    "status": "Live",
+    "deal": "Official /pricing (Nov 24): NEW LIVE. Banner: \u201cBlack Friday is here! Enjoy a massive discount!\u201d Official USD (visible plan cards; footer: \u201cPrices in USD. Taxes may apply at checkout.\u201d): Basic $35 \u2192 $24.50, \u201cPay once, use forever,\u201d badge \u201c30% OFF\u201d (one year of updates, Cloud 1 GB). Pro yearly default: $10 \u2192 $5 \u201cper user/mo, billed annually,\u201d badge \u201c50% OFF the first year.\u201d Monthly tab prices are not in the static HTML and are not invented. A yearly Pro total is not printed and is not computed. JSON-LD still lists regular Offer price 35.00 USD; sale dollars come from the visible cards. The page prints no coupon/promo code for this BF sale. A countdown span is empty in the static HTML; the page does not print an end date. Student 30% and PixelSnap 2 20% are standing discounts, not this BF offer. macOS 13.0 or newer.",
+    "dates": "Official end date not printed (countdown span empty in the static HTML)",
     "ends": "",
     "link": "https://cleanshot.com/pricing",
     "link_type": "official",
-    "last_checked": "2026-11-23"
+    "last_checked": "2026-11-24"
   },
   {
     "category": "Mac/Dev",
