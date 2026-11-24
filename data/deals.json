@@ -1736,5 +1736,16 @@
     "link": "https://www.livewebinar.com/pricing",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "SaaS",
+    "service": "Expandi",
+    "status": "Live",
+    "deal": "Official expandi.io/bfcm-promo/ (Nov 24): LIVE \u201cBFCM 2026\u201d page, \u201cSave up to 77%.\u201d Black Friday rates per LinkedIn account a month, billed yearly, held for the first 12 months: 1 to 2 accounts $79 \u2192 $53; 3 to 24 accounts $79 \u2192 $47; 25 to 49 accounts $79 \u2192 $31; 50 or more accounts $79 \u2192 $23. The 77% is against the $99/month monthly list price on the official expandi.io/pricing page (Solo: $99 monthly, $79 a month billed annually). Monthly billing is also discounted: $74 (1 to 2 accounts) and $59 (3 to 24). No code: the rate is applied at checkout (pay on Stripe, then sign up with the same email). 7-day free trial on every self-serve plan. New subscriptions only; standard pricing after the first 12 months. Vendor submission.",
+    "dates": "Nov 20 \u2013 Dec 4, 2026, ends 11:59pm CET (official page)",
+    "ends": "2026-12-04",
+    "link": "https://expandi.io/bfcm-promo/",
+    "link_type": "official",
+    "last_checked": "2026-11-24"
   }
 ]
