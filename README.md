@@ -6,9 +6,9 @@
 
 **Black Friday 2026 deals and Cyber Monday 2026 deals for indie hackers, developers and AI builders, where every price is checked on the vendor's own page and dated.**
 
-[![Deals tracked](https://img.shields.io/badge/deals_tracked-158-blue)](#deals-by-category)
+[![Deals tracked](https://img.shields.io/badge/deals_tracked-159-blue)](#deals-by-category)
 [![Live now](https://img.shields.io/badge/live_now-98-brightgreen)](#-best-live-deals-right-now)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--11--23-informational)](CHANGELOG.md)
+[![Last checked](https://img.shields.io/badge/last_checked-2026--11--24-informational)](CHANGELOG.md)
 [![Affiliate links](https://img.shields.io/badge/affiliate_links-0-success)](#disclaimer)
 [![Black Friday](https://img.shields.io/badge/Black_Friday-Nov_27_2026-black)](#-key-dates)
 [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
@@ -26,7 +26,7 @@
 [Top 5 picks](#-top-5-picks) · [Key dates](#-key-dates) · [Best live deals](#-best-live-deals-right-now) · [Stack builders](#-stack-builders) · [Legend](#legend) · [By category](#deals-by-category) · [Myth-busting](#-myth-busting) · [How we verify](#-how-we-verify) · [FAQ](#-faq) · [Contributing](#-contributing) · [Changelog](CHANGELOG.md)
 
 ## 🏆 Top 5 picks
-_Savings are worked out only from prices shown on the linked official page (checked 2026-11-23)._
+_Savings are worked out only from prices shown on the linked official page (checked 2026-11-24)._
 
 | # | Deal | Price | Saving | Why it's here |
 |---|---|---|---|---|
@@ -376,6 +376,7 @@ Bundles built only from the verified live deals above.
 | **Craft** | Official www.craft.do/pricing (Nov 20): LIVE Black Friday banner “Get up to 40% off Craft Plus and Family.” Yearly 40% off with code BLACKFRIDAY26-A; monthly 20% off with BLACKFRIDAY26-M. Official page JSON list prices in USD: Plus $95.88/year, Family $179.88/year, Plus $9.99/mo, Family $15.99/mo. This run’s visible cards were HKD (Plus yearly HK$62/mo struck through → HK$37.2/mo; JSON Plus yearly HK$744 → HK$446.4, Family yearly HK$1395 → HK$837). USD sale totals are not printed as a checkout total and are not computed. Team plans had no publicPromo in the payload this run. Sale end date is not printed (a “Valid until {endDate}” template only). | Live as of Nov 20 2026; official end date not printed | not stated | 🟢 Live | [official](https://www.craft.do/pricing) | 2026-11-23 |
 | **Leave Me Alone** | Official leavemealone.com/pricing (Nov 23 WebFetch) and official announcement API app.leavemealone.com/api/announcement?page=%2Fpricing%2F&locale=en: LIVE banner “Black Friday: All your inboxes. 83% off.” Yearly Unlimited: “BLACK FRIDAY 83% off,” $30.00 → $4.92/month, billed yearly at $59.00/year (“Save $301.00 now”). Yearly 1 inbox: 68% off, $12.50 → $4.00/month, billed yearly at $48.00/year. Yearly 3 inboxes: 70% off, $20.00 → $6.00/month, billed yearly at $72.00/year. Official API: name black-friday-2026, startsAt 2026-11-16T00:00:01.000Z, endsAt 2026-12-08T07:59:59.000Z; yearlyDiscountPercentage duration “forever.” No coupon required on the pricing page. USD figures from the visible USD render (EUR/GBP/AUD/INR also listed in the API). | Nov 16, 2026 00:00:01 UTC – Dec 8, 2026 07:59:59 UTC (official API startsAt / endsAt) | 2026-12-08 | 🟢 Live | [official](https://leavemealone.com/pricing/) | 2026-11-23 |
 | **LiveWebinar** | Official livewebinar.com and livewebinar.com/pricing (Nov 23): official top banner already visible — “BLACK FRIDAY,” “-50% MONTHLY PLAN* BF2026M,” “-30% YEARLY PLAN* BF2026Y,” “Use code at checkout,” “ENDS DEC 4,” and “*New accounts only. Valid until Dec 4, 2026.” Banner CTA is the official pricing URL with redeem_code=BF2026M (monthly). Sale plan dollars were not printed on the banner or the static pricing cards and are not invented. The pricing cards still also show the standing “Annually 20% off,” which is not this Black Friday offer. Official blog livewebinar.com/blog/alternatives/black-friday-2026 (updated 20.11.2026) still prints the promotion period as November 24 – December 4, 2026, new accounts only, same codes (50% off first month on monthly plans / 30% off yearly). | Official banner: valid until Dec 4, 2026 (start date not printed on the banner). Official blog: November 24 – December 4, 2026 | 2026-12-04 | 🟢 Live | [official](https://www.livewebinar.com/pricing) | 2026-11-23 |
+| **Content Sync, Media Sync, Import, Export with AI Agents Support** | Vendor submission (RockStarLab, maker of the plugin). Coupon FSBFCM2026 gives 100% off the first monthly or yearly PRO payment, once per customer; renewals at the regular price. Regular PRO prices on the official pricing section: $2.99/mo or $29.99/yr (3 sites), $9.99/mo or $99.99/yr (10 sites), $49.99/mo or $399.99/yr (100 sites). Free version on WordPress.org. | Nov 27 – Nov 30, 2026 (coupon active Nov 27 00:00 to Dec 1 00:00 UTC) | 2026-11-30 | ⚪ Not yet | [official](https://wpimportexport.com/#pricing) | 2026-11-24 |
 
 ## 💡 Myth-busting
 - **Ahrefs doesn't do Black Friday.** Its help center says it never runs seasonal discounts. The only saving is annual billing (~17%).

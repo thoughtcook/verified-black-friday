@@ -1736,5 +1736,16 @@
     "link": "https://www.livewebinar.com/pricing",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "SaaS",
+    "service": "Content Sync, Media Sync, Import, Export with AI Agents Support",
+    "status": "Not yet",
+    "deal": "Vendor submission (RockStarLab, maker of the plugin). Coupon FSBFCM2026 gives 100% off the first monthly or yearly PRO payment, once per customer; renewals at the regular price. Regular PRO prices on the official pricing section: $2.99/mo or $29.99/yr (3 sites), $9.99/mo or $99.99/yr (10 sites), $49.99/mo or $399.99/yr (100 sites). Free version on WordPress.org.",
+    "dates": "Nov 27 \u2013 Nov 30, 2026 (coupon active Nov 27 00:00 to Dec 1 00:00 UTC)",
+    "ends": "2026-11-30",
+    "link": "https://wpimportexport.com/#pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-24"
   }
 ]
