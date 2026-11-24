@@ -1736,5 +1736,16 @@
     "link": "https://www.livewebinar.com/pricing",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "AI",
+    "service": "Kollab",
+    "status": "Live",
+    "deal": "Official /black-friday (checked Nov 24): LIVE. Annual Pro $168/yr (reg. $216/yr), Max $1,680/yr (reg. $2,160/yr), plus 15% off all credit packs \u2014 auto-applied at checkout, no code needed, no quantity limit. Example: 15,000 credits $42.50 (reg. $50). Credit packs never expire. Paid workspaces (Pro/Max/AppSumo) can buy credit packs directly; free workspaces must upgrade first.",
+    "dates": "Live now - Nov 30 2026",
+    "ends": "2026-11-30",
+    "link": "https://kollab.im/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-24"
   }
 ]
