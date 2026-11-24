@@ -1736,5 +1736,16 @@
     "link": "https://www.livewebinar.com/pricing",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "SaaS",
+    "service": "SocialAPIs",
+    "status": "Live",
+    "deal": "Official socialapis.io/pricing (Nov 24): site banner \u201c30% off your first 3 months on any paid plan\u201d with code BLACKDATA30, entered at checkout, and \u201cYearly plans: 17% off your first year with the same code\u201d; first-time orders only. Listed monthly prices Pro $4.99, Ultra $49, Mega $179; with the code for the first 3 months: $3.49, $34.30, $125.30 per month (30% off the listed prices; the plan cards show the discounted price once the code is entered). REST API for public Facebook and Instagram data; the free plan (200 calls a month, no card) is unchanged. Vendor submission.",
+    "dates": "Nov 24, 2026 \u2013 Dec 1, 2026 23:59 UTC (end shown on the official banner)",
+    "ends": "2026-12-01",
+    "link": "https://socialapis.io/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-24"
   }
 ]
