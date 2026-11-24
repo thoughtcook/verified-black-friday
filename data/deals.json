@@ -1736,5 +1736,16 @@
     "link": "https://www.livewebinar.com/pricing",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Moordeck",
+    "status": "Live",
+    "deal": "Official moordeck.com/pricing (Nov 24): LIVE Black Friday pricing \u2014 25% off Pro/Team Annual Year 1: Pro $81/yr ($6.75/mo, regular $108/yr) and Team $261/yr ($21.75/mo, regular $348/yr, 5 seats). Code BF2026, auto-applied at checkout on Pro/Team Annual. Year 1 only; renews at $108/yr or $348/yr. Separately, Founding Solo Lifetime $79 one-time (regular $129, 39% off, first 200 seats; excluded from BF2026). Local-first anti-detect browser for developers and AI agents; macOS Apple Silicon & Linux x64 (Windows coming soon). Ends Nov 30, 2026 (PT). Vendor submission.",
+    "dates": "Nov 24 \u2013 Nov 30, 2026 (PT)",
+    "ends": "2026-11-30",
+    "link": "https://moordeck.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-24"
   }
 ]
