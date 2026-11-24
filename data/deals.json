@@ -1736,5 +1736,16 @@
     "link": "https://www.livewebinar.com/pricing",
     "link_type": "official",
     "last_checked": "2026-11-23"
+  },
+  {
+    "category": "AI",
+    "service": "EarlyLore",
+    "status": "Live",
+    "deal": "Official earlylore.com/pricing (Nov 24): LIVE Black Friday banner and annual pricing \u2014 Up to 53% off annual (extra 25% off Pro $108/yr [$9/mo, regular $144/yr; monthly $19/mo] and Max $288/yr [$24/mo, regular $384/yr; monthly $49/mo]) on Annual subscriptions and 1-Year Passes. Code BF2026 (auto-applied on annual or entered manually). First year only; subscriptions renew at regular annual rates ($144/yr or $384/yr); 1-Year Pass does not auto-renew. Monthly plans and Evaluation Packs ($9.9 / $19) are unchanged. Ends Nov 30, 2026 (PT). Vendor submission.",
+    "dates": "Nov 24 \u2013 Nov 30, 2026 (PT)",
+    "ends": "2026-11-30",
+    "link": "https://earlylore.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-24"
   }
 ]
