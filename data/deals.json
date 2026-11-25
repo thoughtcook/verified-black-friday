@@ -1780,5 +1780,16 @@
     "link": "https://dailytimetracking.com/",
     "link_type": "official",
     "last_checked": "2026-11-25"
+  },
+  {
+    "category": "AI",
+    "service": "Screenpipe",
+    "status": "Live",
+    "deal": "Official screenpipe.com/black-friday (Nov 25): LIVE campaign page. Copy: \"20% off your first year on eligible annual plans.\" Printed prices: Basic $250 -> $200, Business $500 -> $400 per seat (any seat count). Coupon bf2026_annual_20_off_v1 is applied automatically at checkout (no code needed); renews at the regular annual price after the first year. Pricing page shows the same before/after prices.",
+    "dates": "November 25 - November 30, 2026, ends 11:59 p.m. PT",
+    "ends": "2026-11-30",
+    "link": "https://screenpipe.com/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-25"
   }
 ]
