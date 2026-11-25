@@ -1780,5 +1780,16 @@
     "link": "https://dailytimetracking.com/",
     "link_type": "official",
     "last_checked": "2026-11-25"
+  },
+  {
+    "category": "SEO",
+    "service": "SiteData",
+    "status": "Live",
+    "deal": "50% off annual plans and 30% off monthly plans. Starter: US$99 \u2192 US$49.50/year or US$29 \u2192 US$20.30/month. Auto-applied at Stripe checkout, no code needed. The same rates apply to Stripe renewals while subscribed.",
+    "dates": "Nov 24\u201330, 2026 (ends Nov 30 at 16:00 UTC)",
+    "ends": "2026-11-30",
+    "link": "https://sitedata.dev/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-25"
   }
 ]
