@@ -1747,5 +1747,38 @@
     "link": "https://www.git-tower.com/pricing",
     "link_type": "official",
     "last_checked": "2026-11-25"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "BetterDisplay Pro",
+    "status": "Live",
+    "deal": "Official betterdisplay.pro (Nov 25): NEW LIVE. Visible notice: \u201cBlack Friday & Cyber Monday 2026,\u201d \u201c33% off,\u201d \u201cUse code BFCM2026,\u201d \u201cAvailable through December 1, 2026.\u201d Official Pro CTA: \u201cGet BetterDisplay Pro for $21.99 or \u20ac19.99, tax may apply.\u201d Paddle checkout is opened with coupon BFCM2026. Sale dollars are not printed on the page and are not computed. Official copy describes the Pro license as perpetual (not a subscription). A November 26 start date was claimed in the vendor issue but is not printed on the official page.",
+    "dates": "Official copy: \u201cAvailable through December 1, 2026\u201d (start date not printed)",
+    "ends": "2026-12-01",
+    "link": "https://betterdisplay.pro/",
+    "link_type": "official",
+    "last_checked": "2026-11-25"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "MoneyWiz",
+    "status": "Live",
+    "deal": "Official wiz.money/black-friday (Nov 25): NEW LIVE. Eyebrow \u201cBlack Friday.\u201d H1 \u201cMeet MoneyWiz 2027. Take 20% off.\u201d \u201cOffer ends December 1, 2026.\u201d \u201cUse this code at checkout BFCM26.\u201d \u201c20% off Standard and Premium, first billing period.\u201d Official US reference prices: Standard $23.99 / first year (was $29.99); Premium $47.99 / first year (was $59.99); Premium monthly $4.79 / first month (was $5.99). \u201cIn other countries you\u2019ll get 20% off the local price.\u201d \u201cAfter the first discounted period, your subscription renews at the regular price unless you cancel.\u201d Official terms: new website purchases only, through FastSpring; no App Store discount; Lifetime is not included.",
+    "dates": "Official: offer ends December 1, 2026 (start date not printed on the page)",
+    "ends": "2026-12-01",
+    "link": "https://www.wiz.money/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-25"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Daily Time Tracking",
+    "status": "Live",
+    "deal": "Official dailytimetracking.com (Nov 25): NEW LIVE. Homepage offer balloon: \u201cBlack Friday \u00b7 Up to 30% off.\u201d Body copy: \u201cThrough November 30, get a discounted year of Daily with code DAILYBF2026.\u201d Official dollar prices for the discounted year or a Lifetime plan are not printed on the homepage and are not invented. The homepage \u201cClaim now\u201d buttons point at App Store redeem URLs that include campaign parameters (pt, ct); this list uses the official homepage and the printed code instead. /pricing is 404.",
+    "dates": "Through November 30 (year not printed next to the date, on the 2026 Black Friday homepage); timezone not stated",
+    "ends": "2026-11-30",
+    "link": "https://dailytimetracking.com/",
+    "link_type": "official",
+    "last_checked": "2026-11-25"
   }
 ]
