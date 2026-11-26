@@ -1780,5 +1780,16 @@
     "link": "https://dailytimetracking.com/",
     "link_type": "official",
     "last_checked": "2026-11-25"
+  },
+  {
+    "category": "SaaS",
+    "service": "Startup Buffer",
+    "status": "Live",
+    "deal": "Official startupbuffer.com/promote: 50% off homepage features, applied automatically, no code. 2 weeks $49 \u2192 $24.50; 3 months $299 \u2192 $149.50. Startup directory with 33,000+ listings; a homepage feature puts a product in front of people browsing new startups. Vendor-submitted.",
+    "dates": "Nov 26 \u2013 Dec 4, 2026",
+    "ends": "2026-12-04",
+    "link": "https://startupbuffer.com/promote",
+    "link_type": "official",
+    "last_checked": "2026-11-26"
   }
 ]
