@@ -1780,5 +1780,16 @@
     "link": "https://dailytimetracking.com/",
     "link_type": "official",
     "last_checked": "2026-11-25"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Switchy (Mac menu bar utility)",
+    "status": "Live",
+    "deal": "Official getswitchy.app/black-friday: 50% off, $4.99 \u2192 $2.49 one-time purchase (no subscription), up to 3 Macs, future updates included. Code BLACKFRIDAY50 (pre-filled by the Buy button). 31 one-click Mac switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. Free 7-day trial, no account needed. macOS 14 Sonoma or later. Vendor-submitted.",
+    "dates": "Nov 23 \u2013 Dec 1, 2026",
+    "ends": "2026-12-01",
+    "link": "https://getswitchy.app/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-26"
   }
 ]
