@@ -1,3 +1,7 @@
+## 2026-11-26 (vendor submission)
+
+- **NEW Live:** LeadMerlin — official [leadmerlin.com/black-friday](https://leadmerlin.com/black-friday/). “Black Friday 2026 60% off LeadMerlin.” Code **BF2026**, 60% off the first payment: the first month on monthly plans, the whole first year on yearly. Official yearly USD: Starter **$348/yr → $139.20** first year; Pro **$468/yr → $187.20**; Agency **$948/yr → $379.20**. Monthly list $39 / $49 / $97. Ends December 2, 2026, end of day Pacific time, or after the first 100 redemptions. Submitted by the maker.
+
 ## 2026-11-25 (official-page updates)
 
 - **BETTER Live:** Rank Math PRO — official [rankmath.com/offer](https://rankmath.com/offer/). Headline now **60% OFF + $20,000 Worth Deals** (was up to 50%). Coupon for standard plans **BLACKFRIDAY3-26** (was BLACKFRIDAY2-26). Countdown **2026-11-28 16:00:00** (timezone still unstated; was 2026-11-23 16:00:00). Official USD billed annually ex VAT: Agency **$64.99→$25.99/mo** (60% off); Business **$27.99→$12.99/mo** (54% off); PRO **$8.99→$4.49/mo** (50% off); Rank Math + WP Rocket bundle **$13.99→$7.49/mo** (46% off for USD / 42% ROTW). Renewal fees return to list (Agency $64.99, Business $27.99, PRO $8.99, bundle $13.99), billed annually + taxes. Bundle checkout code **SPEEDSEOBF3-26** (USD) / **SPEEDSEOBF3ROTW26** (ROTW), not the same as BLACKFRIDAY3-26.

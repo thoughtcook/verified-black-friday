@@ -1780,5 +1780,16 @@
     "link": "https://dailytimetracking.com/",
     "link_type": "official",
     "last_checked": "2026-11-25"
+  },
+  {
+    "category": "SaaS",
+    "service": "LeadMerlin (local business leads API)",
+    "status": "Live",
+    "deal": "Official leadmerlin.com/black-friday (Nov 26): LIVE \u201cBlack Friday 2026 60% off LeadMerlin.\u201d Code BF2026, 60% off the first payment on any plan; \u201cOn a yearly plan that covers the whole first year,\u201d \u201cMonthly plans get 60% off the first month.\u201d Official yearly USD: Starter $348/yr \u2192 $139.20 first year; Pro $468/yr \u2192 $187.20 first year; Agency $948/yr \u2192 $379.20 first year. Monthly list (homepage pricing): Starter $39/mo, Pro $49/mo, Agency $97/mo. Ends December 2, 2026, end of day Pacific time, or after the first 100 redemptions. 100 free leads on signup, no card.",
+    "dates": "Official: ends December 2, 2026, end of day Pacific time, or after the first 100 redemptions",
+    "ends": "2026-12-02",
+    "link": "https://leadmerlin.com/black-friday/",
+    "link_type": "official",
+    "last_checked": "2026-11-26"
   }
 ]
