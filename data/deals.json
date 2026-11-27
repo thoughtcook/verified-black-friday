@@ -1802,5 +1802,16 @@
     "link": "https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026",
     "link_type": "official",
     "last_checked": "2026-11-27"
+  },
+  {
+    "category": "SaaS",
+    "service": "Bordfeed",
+    "status": "Live",
+    "deal": "Official bordfeed.com/black-friday (Nov 27): \u201c50% off your first 3 months of Bordfeed\u201d with code BFCM50, on Pro, Max or Ultra. Pro $39.50/mo for 3 months (regularly $79/mo); Max $149.50/mo (regularly $299); Ultra $499.50/mo (regularly $999). Then the regular price, cancel anytime. New subscriptions only. Vendor submission.",
+    "dates": "Official page: ends Fri, Dec 4, 2026 at 23:59 CET",
+    "ends": "2026-12-04",
+    "link": "https://bordfeed.com/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
   }
 ]
