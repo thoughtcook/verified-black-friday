@@ -1802,5 +1802,16 @@
     "link": "https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026",
     "link_type": "official",
     "last_checked": "2026-11-27"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Aloud",
+    "status": "Live",
+    "deal": "Official /black-friday/ (checked Nov 27): 30% off with code BF30, $13.30 once instead of $19. The page says the buy buttons apply the code during the sale. One-time purchase, no subscription. Sale includes Cyber Monday.",
+    "dates": "27 November to 1 December 2026 (US Eastern); ends Tuesday 1 December at 11:59 p.m. ET",
+    "ends": "2026-12-01",
+    "link": "https://aloudapp.app/black-friday/",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
   }
 ]
