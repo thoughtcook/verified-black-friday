@@ -1808,7 +1808,7 @@
     "service": "Context.dev",
     "status": "Live",
     "deal": "Official pricing page: Black Friday 30% off new purchases of paid plans for one year, automatically applied, no code needed. Developer $14/month (regular $20), Pro $63/month (regular $90), Growth $210/month (regular $300), Scale 1M $350/month (regular $500).",
-    "dates": "Live on Nov 27, 2026; ends Dec 1, 2026; starts Nov 27, 2026; cutoff timezone not stated",
+    "dates": "Live on Nov 27, 2026; ends Dec 1, 2026; Nov 27–Dec 1, 2026; ends Dec 2 at 00:00 EST (05:00 UTC)",
     "ends": "2026-12-01",
     "link": "https://www.context.dev/pricing",
     "link_type": "official",
