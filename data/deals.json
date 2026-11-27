@@ -1782,6 +1782,17 @@
     "last_checked": "2026-11-27"
   },
   {
+    "category": "Mac/Dev",
+    "service": "SMBAct",
+    "status": "Live",
+    "deal": "Official smblob.com/products/smbact (Nov 27): NEW LIVE, vendor submission. The product page shows a Black Friday banner with code BF2026, 30% off, last day 31 December. 30% off every one-time license; the official ?promo=BF2026 link pre-applies the code at checkout. Prices excl. VAT: 1 PC €14.99 → €10.49, 3 PCs €29.99 → €20.99. 14-day free trial. Window manager and app switcher for Windows, macOS and Linux (keyboard layouts, drag-to-edge snapping, moving windows between monitors, local MCP server for AI agents); one license covers any mix of the three systems.",
+    "dates": "Nov 27 – Dec 31, 2026",
+    "ends": "2026-12-31",
+    "link": "https://smblob.com/products/smbact/?promo=BF2026",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
+  },
+  {
     "category": "SaaS",
     "service": "Gleam",
     "status": "Live",
