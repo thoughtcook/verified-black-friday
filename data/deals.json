@@ -1595,6 +1595,17 @@
     "last_checked": "2026-11-27"
   },
   {
+    "category": "AI",
+    "service": "VoxWrite",
+    "status": "Live",
+    "deal": "Official voxwrite.app (Nov 27): NEW LIVE, vendor submission. The site shows a Black Friday strip at the top: \u201c30% OFF LIFETIME PLAN with CODE: BF2026\u201d and \u201c30% OFF 4 MONTHS OF SAAS with CODE: BF2026SAAS\u201d, until December 31. Lifetime (own OpenAI/Anthropic/Gemini API keys): \u20ac39.99 \u2192 \u20ac27.99, one-time. SaaS (managed AI processing, no keys, 7-day free trial): \u20ac7.99 \u2192 \u20ac5.59/month for the first 4 months, then \u20ac7.99. Codes are entered at LemonSqueezy checkout. Voice-to-text browser extension for Chrome, Edge and Brave: speak in any text field and it rewrites the speech into a finished email, message, post or note in the style and language set per website.",
+    "dates": "Nov 27 \u2013 Dec 31, 2026",
+    "ends": "2026-12-31",
+    "link": "https://voxwrite.app/#pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
+  },
+  {
     "category": "SaaS",
     "service": "Internxt",
     "status": "Live",
