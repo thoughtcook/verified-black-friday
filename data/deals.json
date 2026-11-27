@@ -1802,5 +1802,16 @@
     "link": "https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026",
     "link_type": "official",
     "last_checked": "2026-11-27"
+  },
+  {
+    "category": "SEO",
+    "service": "Notra (AI search visibility / GEO)",
+    "status": "Live",
+    "deal": "Official usenotra.com/pricing (Nov 27): \"New customers get 25% off every paid plan for their first 6 months on monthly billing. Ends December 2 (GMT).\" Applied automatically at checkout, no code. Monthly: Starter $75/mo for 6 months (regularly $100/mo); Growth $187.50 (regularly $250); Scale $412.50 (regularly $550). Agency plans $149.25 / $299.25 / $599.25 (regularly $199 / $399 / $799). Then the regular price. Free plan available. Vendor submission.",
+    "dates": "Official page: ends December 2, 2026, 23:59 GMT",
+    "ends": "2026-12-02",
+    "link": "https://www.usenotra.com/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
   }
 ]
