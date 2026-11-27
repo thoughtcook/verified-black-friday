@@ -1780,5 +1780,16 @@
     "link": "https://dailytimetracking.com/",
     "link_type": "official",
     "last_checked": "2026-11-25"
+  },
+  {
+    "category": "SaaS",
+    "service": "Gleam",
+    "status": "Live",
+    "deal": "Official gleam.io/black-friday (Nov 26): \u201cEvery Gleam App for the Price of One.\u201d \u201cUntil 2 December, the Full Package costs the same as Competitions. That\u2019s Competitions, Rewards, Captures and Gallery, at one app\u2019s price, for as long as you stay subscribed.\u201d \u201cUp to 60% off the Full Package.\u201d Yearly-billed Full Package at Competitions prices: Pro $39/month (was $79; \u201cSave $480 a year\u201d; paying monthly $59 a month, down from $119); Business $119/month (was $299; \u201cSave $2,160 a year\u201d; paying monthly $179 a month, down from $479); Premium $299/month (was $749; \u201cSave $5,400 a year\u201d; paying monthly $499 a month, down from $1,199). \u201cYou keep that price for as long as your Full Package subscription stays active (yes, after Black Friday too).\u201d Existing customers: 50% off a yearly upgrade when moving up a plan (Hobby to Pro, Pro to Business, or Business to Premium), first year only, code BFUPGRADE at checkout; after the first year, the plan renews at the standard yearly price. Official terms: the offer runs from 12:00am AEST on 20 November 2026 until 11:59pm PST on 2 December 2026. If you cancel, the offer price ends. Already on the Full Package: contact support before the offer ends to move to the offer price. One code per account; the offers can\u2019t be combined with each other or with other discounts.",
+    "dates": "Official terms: 12:00am AEST 20 November 2026 until 11:59pm PST 2 December 2026 (2:59 a.m. ET December 3)",
+    "ends": "2026-12-02",
+    "link": "https://gleam.io/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-26"
   }
 ]
