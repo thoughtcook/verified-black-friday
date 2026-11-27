@@ -1,3 +1,7 @@
+## 2026-11-27 (vendor submission)
+
+- **NEW Live:** Notra (AI search visibility / GEO), official [usenotra.com/pricing](https://www.usenotra.com/pricing). "New customers get 25% off every paid plan for their first 6 months on monthly billing. Ends December 2 (GMT)." Applied automatically at checkout, no code. Starter **$75/mo** for 6 months (regularly $100), Growth **$187.50** ($250), Scale **$412.50** ($550); agency plans $149.25 / $299.25 / $599.25 (regularly $199 / $399 / $799). Submitted by the vendor.
+
 ## 2026-11-27 (growth review)
 
 - **NEW Live:** Clean Email — official [clean.email/plans?start=yearly&c=BLACKFRIDAY-2026](https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026) (Chrome, Nov 26 evening America/New_York). Visible coupon copy with the official BLACKFRIDAY-2026 parameter applied: “Clear the Black Friday clutter—30% off your first year!” The default /plans page without that parameter did not show the Black Friday copy in this run. Checkout uses FastSpring with coupon **BLACKFRIDAY-2026** (vendor coupon query parameter c=, not an affiliate link). Plan sale dollars were not printed in the rendered price widgets this run and are not invented. Official end date was not printed (a November 18–December 2 window was claimed in the vendor issue and is not used here). Follow-up to issue #204.
