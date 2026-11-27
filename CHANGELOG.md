@@ -1,3 +1,7 @@
+## 2026-11-27 (vendor submission)
+
+- **NEW Live:** Bordfeed — official [bordfeed.com/black-friday](https://bordfeed.com/black-friday). “50% off your first 3 months of Bordfeed” with code **BFCM50** on Pro, Max or Ultra: Pro **$39.50/mo** for 3 months (regularly $79), Max **$149.50/mo** ($299), Ultra **$499.50/mo** ($999), then the regular price. New subscriptions only. Ends **Fri, Dec 4, 2026 at 23:59 CET**. Submitted by the vendor.
+
 ## 2026-11-27 (growth review)
 
 - **NEW Live:** Clean Email — official [clean.email/plans?start=yearly&c=BLACKFRIDAY-2026](https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026) (Chrome, Nov 26 evening America/New_York). Visible coupon copy with the official BLACKFRIDAY-2026 parameter applied: “Clear the Black Friday clutter—30% off your first year!” The default /plans page without that parameter did not show the Black Friday copy in this run. Checkout uses FastSpring with coupon **BLACKFRIDAY-2026** (vendor coupon query parameter c=, not an affiliate link). Plan sale dollars were not printed in the rendered price widgets this run and are not invented. Official end date was not printed (a November 18–December 2 window was claimed in the vendor issue and is not used here). Follow-up to issue #204.
