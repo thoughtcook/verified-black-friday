@@ -508,13 +508,13 @@
   {
     "category": "Mac/Dev",
     "service": "Framer",
-    "status": "Not yet",
-    "deal": "Last year's (2025) 50% off first year",
-    "dates": "BF 2025",
-    "ends": "",
-    "link": "https://designerup.co/blog/the-absolute-best-black-friday-and-cyber-monday-deals-for-designers-2025-edition/",
-    "link_type": "report",
-    "last_checked": "2026-11-23"
+    "status": "Live",
+    "deal": "Official www.framer.com/black-friday (this run, Friday Nov 27 morning America/New_York): NEW LIVE. Title: \u201cFramer: Get 50% off Pro for Black Friday.\u201d Hero: \u201cGet 50% off your first year of Pro with 2,000 Agent credits and 30% off everything in Framer Store.\u201d Paste code BLACKFRIDAY26 at checkout on a yearly Pro plan. 2,000 Agent credits are added automatically after each Pro purchase (no separate code). Official FAQ: new subscription in a new workspace without an active subscription; discount once per workspace; if you\u2019ve subscribed before, move the site to a new free workspace and start a new yearly Pro there. Cannot apply to an active subscription, upgrade an existing plan, or switch monthly to yearly. Promo price is first year only; renews at regular price from year 2. No retroactive discount. Ends December 1, 2026, at 09:00 AM CET (3:00 a.m. America/New_York). Official sale dollars are not printed and are not invented. Official announcement: https://x.com/framer/status/2126240004209000502",
+    "dates": "Ends Dec 1, 2026, 09:00 AM CET (3:00 a.m. America/New_York)",
+    "ends": "2026-12-01",
+    "link": "https://www.framer.com/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
   },
   {
     "category": "Mac/Dev",
@@ -827,11 +827,11 @@
   {
     "category": "SaaS",
     "service": "Eden (eden.so creator/content workspace)",
-    "status": "Not yet",
-    "deal": "Official /pricing and /black-friday (this run): still no live public BF UI. The <html> tag has no data-bf-sale attribute; sale blocks stay CSS-hidden via html:not([data-bf-sale]) .bf-sale-only{display:none!important}. Official FAQ unchanged: early access Nov 20\u201322 has passed; main sale Black Friday Nov 27\u2013Cyber Monday Nov 30 for everyone; each closes at midnight Arizona time. JS window remains 2026-11-27T07:00:00Z\u20132026-12-01T07:00:00Z (Nov 27, 2:00 a.m. America/New_York \u2014 still in the future at this check). Printed first-year dollars in official source (not live on the public page yet): Starter $194.35 then $299/yr (35% off); Pro $474 then $790/yr (40% off); Max $999.50 then $1,999/yr (50% off). Yearly sale price renews each year while you stay on that plan; monthly 20% off for 12 months. Not marked LIVE or EARLY before 2026-11-27T07:00:00Z. WebFetch of /black-friday extracts hidden sale copy \u2014 hidden blocks are not treated as the live public UI.",
-    "dates": "Announced main sale Nov 27\u2013Nov 30 (closes midnight Arizona time; JS 2026-11-27T07:00:00Z\u20132026-12-01T07:00:00Z); not live",
+    "status": "Live",
+    "deal": "Official eden.so/black-friday and eden.so/pricing (this run, Friday Nov 27 morning America/New_York): NEW LIVE. Official FAQ: early access Nov 20\u201322 has passed; main sale Black Friday Nov 27\u2013Cyber Monday Nov 30 for everyone; each closes at midnight Arizona time (end of Nov 30 = Dec 1, 2:00 a.m. America/New_York). Official page JS sets data-bf-sale=\"main\" when Date.now() is in 1795706400000\u20131796108400000 (2026-11-26T15:20:00Z\u20132026-12-01T07:00:00Z, i.e. Nov 26, 10:20 a.m. through Dec 1, 2:00 a.m. America/New_York), which reveals the .bf-sale-only blocks for visitors. The JS start is earlier than the 2026-11-27T07:00:00Z window recorded on the prior check. This check is inside both the FAQ main-sale dates and the JS window, so the revealed sale cards are treated as the live public offer. Printed in the live sale cards: Starter $16.20/mo / $194.35 a year, locked in while you stay (35% off; compare $25/mo); Pro $39.50/mo / $474 a year, locked in while you stay (40% off; compare $66/mo); Max $83.30/mo / $999.50 a year, locked in while you stay (50% off; compare $167/mo). Official FAQ: yearly sale price renews each year while you stay on that plan; monthly 20% off for 12 months. Monthly plan sale dollars were not clearly printed in the default yearly UI this run and are not invented. Regular yearly list prices $299 / $790 / $1,999 are printed in official regular-price (bf-regular-only) blocks, which the official CSS hides while the sale UI is on.",
+    "dates": "Official FAQ main sale Nov 27\u2013Nov 30, 2026, closes midnight Arizona time (Dec 1, 2:00 a.m. America/New_York); JS window through 2026-12-01T07:00:00Z",
     "ends": "2026-12-01",
-    "link": "https://eden.so/pricing/",
+    "link": "https://eden.so/black-friday",
     "link_type": "official",
     "last_checked": "2026-11-27"
   },
@@ -882,9 +882,9 @@
   {
     "category": "SaaS",
     "service": "Pabbly Plus (automation)",
-    "status": "Not yet",
-    "deal": "Official blackfriday.pabbly.com (this run): still not live. Visible copy: \u201cSale Not Live Yet,\u201d \u201cLaunching Nov 27,\u201d \u201cCheckout opens Nov 27, 10:30 AM IST / 12 AM ET.\u201d JS LAUNCH_DATE still 2026-11-27T05:00:00Z (Nov 27, 12:00 a.m. America/New_York \u2014 still in the future at this check). DEAL_END is now set (was null on Nov 25): 2026-12-02T05:00:00Z (Dec 2, 10:30 a.m. IST / 12:00 a.m. ET). Advertised Plus yearly return still $1,428 \u2192 $828 (42% off), coupon BFCM26. Not marked LIVE before the official start.",
-    "dates": "Early window ENDED Nov 6 05:00Z; return Nov 27, 2026 10:30 AM IST / 12 AM ET (LAUNCH_DATE 2026-11-27T05:00:00Z); official DEAL_END 2026-12-02T05:00:00Z \u2014 not live",
+    "status": "Live",
+    "deal": "Official blackfriday.pabbly.com (this run, Friday Nov 27 morning America/New_York): NEW LIVE. Official JS LAUNCH_DATE 2026-11-27T05:00:00Z (Nov 27, 12:00 a.m. America/New_York) has passed; DEAL_END is 2026-12-02T05:00:00Z (Dec 2, 10:30 a.m. IST / 12:00 a.m. America/New_York). The page script is in the live phase now: badge \u201cBlack Friday Sale is Live,\u201d \u201cSale Ends In\u201d countdown, coupon BFCM26 shown, Buy buttons enabled; the pre-launch \u201cSale Not Live Yet\u201d / \u201cReserve Your Seat\u201d bar is removed on load. Static <title> and social meta still say \u201cLaunching Nov 27\u201d (stale SEO, not the runtime UI). Official price card and FAQ print Plus yearly $1,428 \u2192 $828 (42% off), all 9 apps; official FAQ says the $828/year price renews. Coupon BFCM26. Hero also mentions additional 10% off lifetime and combo deals; those dollars are not itemized here.",
+    "dates": "Live until Dec 2, 2026, 10:30 a.m. IST / 12:00 a.m. America/New_York (DEAL_END 2026-12-02T05:00:00Z)",
     "ends": "2026-12-02",
     "link": "https://blackfriday.pabbly.com/",
     "link_type": "official",
@@ -1630,10 +1630,10 @@
   {
     "category": "Mac/Dev",
     "service": "Sip",
-    "status": "Not yet",
-    "deal": "Official /blackfriday/ (this run): still announced, not live as a dated Friday start. Copy still \u201cBlack Friday 50% off Sip / Fri Nov 27 to Sun Nov 29.\u201d CTA still goes to sipapp.io/pricing/?coupon=BLACKFRIDAY26. It is still Thursday evening in America/New_York (Friday in UTC/SGT); the printed window is Fri Nov 27\u2013Sun Nov 29, so this is not marked LIVE before Friday in the stated date. Cyber Monday still announced Mon Nov 30\u2013Wed Dec 2, coupon CYBERMONDAY26.",
-    "dates": "BF Nov 27\u201329 2026; CM Nov 30\u2013Dec 2 2026 (announced; not live at this Thursday evening ET check)",
-    "ends": "2026-12-02",
+    "status": "Live",
+    "deal": "Official sipapp.io/blackfriday/ (this run, Friday Nov 27 morning America/New_York): NEW LIVE. Visible page: \u201cBlack Friday,\u201d \u201cFri Nov 27 to Sun Nov 29,\u201d and a CTA \u201cGet the 50% deal\u201d that goes to sipapp.io/pricing/?coupon=BLACKFRIDAY26. Today is Friday Nov 27 in America/New_York, so the printed Friday\u2013Sunday window is treated as current. Sale dollars are not printed on the official Black Friday page and are not invented. Cyber Monday copy (previously announced Mon Nov 30\u2013Wed Dec 2, code CYBERMONDAY26) was not on the official page in this run and is not recorded as live.",
+    "dates": "Fri Nov 27\u2013Sun Nov 29, 2026 (official page; no time zone printed)",
+    "ends": "2026-11-29",
     "link": "https://sipapp.io/blackfriday/",
     "link_type": "official",
     "last_checked": "2026-11-27"
