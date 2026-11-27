@@ -1802,5 +1802,16 @@
     "link": "https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026",
     "link_type": "official",
     "last_checked": "2026-11-27"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "Exhibit",
+    "status": "Live",
+    "deal": "Official site chatexhibit.me (checked Nov 27): published prices are Personal $19.99 once and Firm $59 once. Code EXHIBITBF30 is 30% off at checkout (Personal $13.99, Firm $41.30), one-time, no subscription, through 1 December 2026, 11:59 p.m. US Eastern. The homepage does not print a Black Friday headline or the sale prices; the code is entered at checkout.",
+    "dates": "Through 1 December 2026, 11:59 p.m. US Eastern",
+    "ends": "2026-12-01",
+    "link": "https://chatexhibit.me",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
   }
 ]
