@@ -1802,5 +1802,16 @@
     "link": "https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026",
     "link_type": "official",
     "last_checked": "2026-11-27"
+  },
+  {
+    "category": "AI",
+    "service": "AGNT",
+    "status": "Live",
+    "deal": "Official agnt.gg/pricing (Nov 27): \u201c12 months for the price of 6.\u201d \u201cPay yearly: Pro is $174 and Team is $594 for your first year. Code BLACKFRIDAY is applied at checkout.\u201d Pro yearly $290 \u2192 $174 first year, Team yearly (3 seats) $990 \u2192 $594 first year (40% off). \u201cRenews at $290/yr\u201d (Pro) and $990/yr (Team). Submitted by the vendor.",
+    "dates": "Nov 18 \u2013 Nov 30, 2026, 11:59 pm PT",
+    "ends": "2026-11-30",
+    "link": "https://agnt.gg/pricing",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
   }
 ]
