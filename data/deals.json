@@ -1802,5 +1802,16 @@
     "link": "https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026",
     "link_type": "official",
     "last_checked": "2026-11-27"
+  },
+  {
+    "category": "Mac/Dev",
+    "service": "RewriteBar (Mac AI writing assistant)",
+    "status": "Live",
+    "deal": "Official rewritebar.com/black-friday (Nov 27): 50% off every one-time license, code BF2026 applied automatically at checkout. Standard $14.50 (was $29); Pro $29.50 (was $59), Pro includes 1 year of RewriteBar Gateway. One-time purchase, no subscription; free trial. Submitted by the developer.",
+    "dates": "Nov 2 - Dec 3 2026",
+    "ends": "2026-12-03",
+    "link": "https://rewritebar.com/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
   }
 ]
