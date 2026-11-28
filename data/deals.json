@@ -1802,5 +1802,16 @@
     "link": "https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026",
     "link_type": "official",
     "last_checked": "2026-11-27"
+  },
+  {
+    "category": "SaaS",
+    "service": "Mash Fleet",
+    "status": "Live",
+    "deal": "Official page (Nov 28): lifetime bundle of Tweetsmash (Yearly Pass level), LinkedMash Premium, Agentmash Pro, Schedulemash Pro and Mashpulse Starter. One payment, no renewals, no code. Page shows $299 once against $645/yr for the five plans bought separately. Price rises every 5 buyers: first 5 pay $299, buyers 6 to 10 $349, 11 to 15 $399, from buyer 16 $449.",
+    "dates": "Ends Dec 1, 2026; start not stated",
+    "ends": "2026-12-01",
+    "link": "https://mashfleet.com/black-friday",
+    "link_type": "official",
+    "last_checked": "2026-11-28"
   }
 ]
