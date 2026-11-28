@@ -1802,5 +1802,16 @@
     "link": "https://clean.email/plans?start=yearly&c=BLACKFRIDAY-2026",
     "link_type": "official",
     "last_checked": "2026-11-27"
+  },
+  {
+    "category": "SaaS",
+    "service": "PhishStats",
+    "status": "Live",
+    "deal": "Official phishstats.info/blackfriday (Nov 27): LIVE, vendor submission. Page copy: \u201cBlack Friday: 30% off Enterprise for the first year with code BF2026 ($99 \u2192 $69.30/yr), until Dec 1.\u201d Code BF2026 goes in the promotion code field at Stripe checkout; valid for new Enterprise subscriptions; renews at $99/year. Enterprise includes 10,000 API requests/day, 3 API keys, 10 monitoring rules with webhook alerts, and a full historical phishing database download (2009 onward, gzipped CSV and SQL). Phishing URL database and real-time threat feed for security teams.",
+    "dates": "Until Dec 1, 2026",
+    "ends": "2026-12-01",
+    "link": "https://phishstats.info/blackfriday",
+    "link_type": "official",
+    "last_checked": "2026-11-27"
   }
 ]
